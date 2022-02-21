@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 00:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 01:53:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고용시장 완만한 회복세에 구직 앱 이용도 활발]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=163629</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=163629</guid>
+            <pubDate>Mon, 21 Feb 2022 01:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[지난 16일 통계청에서 2022년 1월 고용동향을 발표했다. 이에 따르면 올해 1월 고용률은 59.6%로 전년동월대비 2.2%P 상승했으며, 실업률은 4.1%로 전년동월대비 1.6%P 하락했다고 한다. 산업별로는 보건업 및 사회..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_163629_16454063064952571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전호겸 구독경제 저자 겸 교수 "소상공인 지역 구독 서비스 구축해야"]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=138895</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[작년에 이어 올해 역시 제주도를 찾는 관광객이 늘어났다. 코로나19로 인해 해외여행길이 막히면서 많은 여행자들이 제주도를 찾은 것이다. 제주도관광협회의 통계에 따르면 11월까지 제주도를 찾은 누적 관광객 수..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1147027_16405685184889499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프 인구 급증! 올해 최고의 인기 골프장 Top5]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2021&amp;no=1133479</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2021&amp;no=1133479</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 ‘중장년층이 즐기는 스포츠’로 인식되던 골프가 최근 MZ세대를 비롯한 다양한 연령대에게 인기 스포츠로 떠오르고 있다. 코로나19의 영향으로 많은 이들이 골프에 새로 입문하거나 필드로 나서고 있는 것이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1133479_16393836024882375.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
