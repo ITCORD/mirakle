@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[`여신티켓` 배우 이선빈 광고 모델로 발탁]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=165874</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=165874</guid>
+            <pubDate>Mon, 21 Feb 2022 09:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[피부시술 정보 플랫폼 여신티켓을 운영하는 ㈜패스트레인(대표 손승우)이 배우 이선빈을 새로운 광고 모델로 발탁했다고 21일 밝혔다.  여신티켓은 특유의 친근함과 세련미를 모두 갖춘 이선빈이 2030 여성에게 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_165874_16454315304953286.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엠아이텍, 지난해 영업이익 132억원… 창사 이래 최대 실적 달성]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=163698</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:28 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 핀테크 전문기업 델리오(대표 정상호)가 가상자산사업자(VASP) 인가를 획득해 가상자산 예치⋅렌딩 1호 사업자가 됐다고 16일 밝혔다.  금융위원회 산하 금융정보분석원(FIU)은 지난달 가상자산사..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146440_16449780434948266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아임웹, 전 구글 출신 웹서비스 전문가 이동휘 CTO 영입]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=146343</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=146343</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[소상공인을 위한 쇼핑몰 솔루션 아임웹(대표 이수모)이 구글과 포티투닷을 거친 이동휘 씨를 최고기술책임자(CTO)를 신규 영입했다고 16일 밝혔다.   이동휘 신임 CTO는 구글코리아 제1호 개발자로 알려져 있다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146343_16449775434948242.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

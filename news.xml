@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[`여신티켓` 배우 이선빈 광고 모델로 발탁]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=165874</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=165874</guid>
+            <pubDate>Mon, 21 Feb 2022 09:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[피부시술 정보 플랫폼 여신티켓을 운영하는 ㈜패스트레인(대표 손승우)이 배우 이선빈을 새로운 광고 모델로 발탁했다고 21일 밝혔다.  여신티켓은 특유의 친근함과 세련미를 모두 갖춘 이선빈이 2030 여성에게 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_165874_16454315304953286.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엠아이텍, 지난해 영업이익 132억원… 창사 이래 최대 실적 달성]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=163698</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 16 Feb 2022 03:22:55 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 액셀러레이터 스파크랩(대표 김호민)이 CJ제일제당(대표 손경식, 최은석)과 함께 식품 분야의 유망 스타트업을 발굴하고 육성하는 프로그램인 ‘프론티어 랩스’ 2기 참가팀을 내달 4일까지 모집한다고 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146458_16449782354948271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델리오, 국내 1호 가상자산 예치⋅렌딩 사업자 인가 획득]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=146440</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=146440</guid>
-            <pubDate>Wed, 16 Feb 2022 03:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 핀테크 전문기업 델리오(대표 정상호)가 가상자산사업자(VASP) 인가를 획득해 가상자산 예치⋅렌딩 1호 사업자가 됐다고 16일 밝혔다.  금융위원회 산하 금융정보분석원(FIU)은 지난달 가상자산사..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_146440_16449780434948266.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
