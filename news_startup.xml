@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 06:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 07:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, ‘멀티 클라우드’ 환경 보안을 주제로 리포트 발행]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=169470</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=169470</guid>
+            <pubDate>Tue, 22 Feb 2022 07:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 전문 기업 `플래티어(대표 이상훈)`는 22일 ‘디지털 전환 시대, 보안 패러다임의 변화와 대응’이란 주제의 ‘플래티어 인사이트 리포트 Vol.1’을 발행했다.  대부분의 기업에서 지향하는 디지털 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_169470_16455135934954412.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웰로, ‘정치-정책 스타트업 얼라이언스’ 업무협약 성료]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=167455</link>
@@ -77,14 +85,6 @@
             <pubDate>Mon, 21 Feb 2022 01:53:18 GMT</pubDate>
             <content:encoded><![CDATA[액셀러레이터 퓨처플레이(대표 류중희)가 개인의 역량 강화와 조직의 인재경영을 돕기 위한 인재 성장 연구 기관인 ‘미래인재연구소(Future Talent LAB)’를 설립했다고 21일 밝혔다.   미래인재연구소는 강점 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_163464_16454047434952525.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두들린, 채용관리 플랫폼 ‘그리팅’에 ‘채용사이트 제작 기능’ 선보인다]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=150998</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=150998</guid>
-            <pubDate>Thu, 17 Feb 2022 01:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[채용관리 솔루션 스타트업 두들린(대표 이태규)은 기업용 채용관리 플랫폼 ‘그리팅(Greeting)’ 내에 채용사이트를 자유롭게 제작할 수 있는 ‘채용사이트 제작 기능’ 서비스를 선보인다고 17일 밝혔다.  최근..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_150998_16450593584949362.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
