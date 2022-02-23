@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 23:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 00:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네오사피엔스  실리콘밸리 투자사 BRV 등으로부터 2150만불 투자유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=171287</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=171287</guid>
+            <pubDate>Wed, 23 Feb 2022 00:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 가상 연기자를 활용한 콘텐츠 제작 서비스 ‘타입캐스트’의 개발사인 네오사피엔스(대표 김태수)가 실리콘밸리 소재 투자사인 BlueRun Ventures의 아시아 성장 투자(Growth Equity) 플랫폼인 BRV Capi..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_171287_16455757414955064.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 사회문제 해결하는 ‘ESG 코리아’ 1기 육성 프로그램 성료 및 2기 프로그램 공모 시작]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=169964</link>
@@ -77,14 +85,6 @@
             <pubDate>Mon, 21 Feb 2022 01:53:18 GMT</pubDate>
             <content:encoded><![CDATA[와디즈가 국내 최대 게임사 ㈜넥슨의 ‘메이플스토리’  IP(지식재산권) 제품을 펀딩으로 출시하며 빅브랜드와 제조 스타트업의 시너지 확장에 속도를 가하고 있다.  라이프디자인 펀딩 플랫폼 와디즈(대표 신혜..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_163597_16454059024952551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 쇼핑몰 통합관리 솔루션 개발사 ‘토글랩스’, 스트롱벤처스-매쉬업엔젤스로부터 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=163507</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=163507</guid>
-            <pubDate>Mon, 21 Feb 2022 01:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 쇼핑몰 통합관리 솔루션 ‘토글’ 운영사 ‘토글랩스(대표 최준현)’가 스트롱벤처스와 매쉬업엔젤스로부터 초기 투자를 유치했다고 21일 밝혔다.   토글랩스는 이커머스 판매자들이 필요로 하는 기술과 도구..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_163507_16454050304952534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
