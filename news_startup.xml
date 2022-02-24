@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시나몬컴퍼니, 글로벌 미디어 콘텐츠 개발 위해 칵테일미디어와 MOU 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=178606</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=178606</guid>
+            <pubDate>Thu, 24 Feb 2022 08:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[유아교육 콘텐츠 전문회사인 주식회사 시나몬컴퍼니(대표 김희연)가 콘텐츠 제작에 대한 전문성과 기술력을 보유한 주식회사 칵테일미디어(대표 정현)와 미디어 콘텐츠 개발을 위한 전략적 업무협력 협약(MOU)를..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_178606_16456893984957065.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 테크 스타트업 클레온, MWC 2022 첫참가]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=176542</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 02:03:10 GMT</pubDate>
             <content:encoded><![CDATA[상권분석을 기반으로 창업 매칭을 지원하는 플랫폼 창업인(대표 장하일)이 프로큐라티오와 업무협약을 체결했다고 23일 밝혔다.  창업인은 예비창업자들을 위해 상권분석을 기반으로 창업 매칭을 지원하여 실패 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_171760_16455798024955226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물 플랫폼 애니멀고, 퓨처플레이서로부터 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=171728</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=171728</guid>
-            <pubDate>Wed, 23 Feb 2022 02:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물 플랫폼 ‘애니멀고(AnimalGo)’를 운영하는 스타트업 애니멀고(대표 양두환)가 퓨처플레이로부터 투자를 유치했다고 23일 밝혔다. 투자 금액은 비공개다.   애니멀고는 반려동물을 위한 호텔, 유치원, ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_171728_16455793414955220.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
