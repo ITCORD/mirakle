@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼스널 모빌리티 공유 서비스 빔모빌리티, 1,100억 원 규모 시리즈B 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=181186</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=181186</guid>
+            <pubDate>Fri, 25 Feb 2022 05:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[전동킥보드 등 퍼스널 모빌리티 공유 서비스 기업 빔모빌리티(Beam Mobility)가  9,300만 달러 (약 1,100억 원) 규모의 시리즈B 라운드 투자를 유치했다.  이번 펀딩 라운드는 어펄마캐피탈이 주도하고 세쿼이아..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_181186_16457626924957907.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌, ‘대한민국의 클라우드 전략 제언’ 리포트 발간]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=180088</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 02:00:53 GMT</pubDate>
             <content:encoded><![CDATA[데스크톱 가상화 전문 기업 엔컴퓨팅은 서버 스토리지 조달 공급 전문 회사인 아이엑스엠과 조달 총판 계약을 맺고 공공기관 및 지방자치단체 대상 VDI 사업을 적극적으로 확대해 나갈 계획이다.   이번 조달 총..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_175936_16456644794956456.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨비, ‘2022 드론쇼 코리아’에 PAV 실물 기체 공개]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=175878</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=175878</guid>
-            <pubDate>Thu, 24 Feb 2022 02:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[미래 모빌리티 PAV 개발 선도기업 숨비(Soomvi, 대표 오인선)는 24일부터 26일까지 사흘간 개최되는 ‘2022 드론쇼 코리아’에 참가한다고 밝혔다. 숨비는 이 자리에서 차세대 교통수단으로 각광받는 ‘PAV(Pers..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_175878_16456639704956440.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
