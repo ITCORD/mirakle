@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,6 +325,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_176470_16456698884956582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 집 마련, 부동산 투자도 모바일로! 부동산 앱 분석 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=187169</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=187169</guid>
+            <pubDate>Mon, 28 Feb 2022 02:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[최근 수년간 부동산 시장에 대한 관심이 꾸준히 높아지고 있다. 홀로서기를 시작하며 자취할 곳이 필요한 20대 사회초년생도, 결혼이나 내 집 마련을 목표로 열심히 일하는 30대 청년들도, 부동산 투자를 통한 노후..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_187169_16460098824959859.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고용시장 완만한 회복세에 구직 앱 이용도 활발 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=163629</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=163629</guid>
@@ -395,14 +403,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[현대인들의 커피 사랑은 남다르다. 대로변에서 골목까지 곳곳에 자리한 커피전문점에는 시험 기간의 대학생, 점심식사를 마친 직장인들이 가득하고, 길거리에는 테이크아웃 커피를 들고 다니는 이들도 적지 않다. 커..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1208027_16405684614896551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외여행길 막히자 여행객 몰린 제주도 핫플레이스 Top5 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2021&amp;no=1147027</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2021&amp;no=1147027</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[작년에 이어 올해 역시 제주도를 찾는 관광객이 늘어났다. 코로나19로 인해 해외여행길이 막히면서 많은 여행자들이 제주도를 찾은 것이다. 제주도관광협회의 통계에 따르면 11월까지 제주도를 찾은 누적 관광객 수..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1147027_16405685184889499.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
