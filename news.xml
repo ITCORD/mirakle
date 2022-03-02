@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와디즈, 전직원에 연봉 20% 사이닝보너스 지급]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=195094</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=195094</guid>
+            <pubDate>Wed, 02 Mar 2022 04:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[와디즈가 대규모 채용을 앞두고 전직원 연봉 20%의 사이닝보너스 지급과 함께, 지원자가 직접 포지션을 설계ㆍ 제안하는 ‘자율포지션’ 직무를 업계 최초로 도입한다.   라이프디자인 펀딩플랫폼 와디즈(대표 신..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_195094_16461941324961979.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘핸드허그’, NFT 판매사이트 ‘젤리크루 월드’ 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=188861</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 08:11:16 GMT</pubDate>
             <content:encoded><![CDATA[유아교육 콘텐츠 전문회사인 주식회사 시나몬컴퍼니(대표 김희연)가 콘텐츠 제작에 대한 전문성과 기술력을 보유한 주식회사 칵테일미디어(대표 정현)와 미디어 콘텐츠 개발을 위한 전략적 업무협력 협약(MOU)를..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_178606_16456893984957065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 테크 스타트업 클레온, MWC 2022 첫참가]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=176542</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=176542</guid>
-            <pubDate>Thu, 24 Feb 2022 03:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[AI 테크 스타트업 클레온(KLleon)이 올해 처음으로 모바일 월드 콩그레스(MWC) 참가한다고 24일 밝혔다.  MWC는 GSMA가 모바일 산업을 위해 기획하는 세계 최대 규모의 전시회로, 매년 최신 모바일 기술과 혁신 기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_176542_16456703554956604.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
