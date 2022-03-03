@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 23:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 00:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘알리콘’, 2021년 사회적가치(SV) 성과발표]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=198147</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=198147</guid>
+            <pubDate>Thu, 03 Mar 2022 00:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[분산오피스 브랜드 ‘집무실’과 비즈니스 소셜 네트워크 ‘로켓펀치’의 운영사 ‘알리콘(공동대표: 조민희, 김성민)’이 오피스브랜드 최초 예비사회적기업으로 선정된 데 이어, 오늘 2021년도 사회적가치(SV)..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_198147_16462671594963151.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풀필먼트 스타트업 콜로세움, 11기 청년창업사관학교서 피칭 대상]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=195814</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Feb 2022 08:10:30 GMT</pubDate>
             <content:encoded><![CDATA[아이돌봄 연결 플랫폼 ‘맘시터’의 누적 회원수가 100만 명을 돌파했다고 회사측이 25일 발표했다. 맘시터는 2018년 이용자수 12만 명 달성 이후, 회원수가 3년만에 약 10배 성장했다.   ㈜맘편한세상(대표 정지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_182521_16457764704958404.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스널 모빌리티 공유 서비스 빔모빌리티, 1,100억 원 규모 시리즈B 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=181186</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=181186</guid>
-            <pubDate>Fri, 25 Feb 2022 05:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[전동킥보드 등 퍼스널 모빌리티 공유 서비스 기업 빔모빌리티(Beam Mobility)가  9,300만 달러 (약 1,100억 원) 규모의 시리즈B 라운드 투자를 유치했다.  이번 펀딩 라운드는 어펄마캐피탈이 주도하고 세쿼이아..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_181186_16457626924957907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
