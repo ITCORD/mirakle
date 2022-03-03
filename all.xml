@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 04:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_935285_16330716624801543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[H2O호스피탈리티, `글로벌 1위` 오라클 호스피탈리티에 호텔 시스템 연동 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=199529</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=199529</guid>
+            <pubDate>Thu, 03 Mar 2022 04:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[H2O호스피탈리티가 글로벌 호텔관리시스템(PMS) 1위 기업 ‘오라클 호스피탈리티’의 오페라 5.6버전과 클라우드 기반 서비스 ‘오페라 클라우드’에 자사 스마트 체크인 및 도어락 시스템 정식 연동을 승인 받았..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_199529_16462806014963406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[알토스벤처스, 6개 스타트업과 연합 채용 설명회 오는 3, 4일에 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=198395</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=198395</guid>
@@ -316,14 +324,6 @@
             <pubDate>Wed, 02 Mar 2022 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[임팩트 투자사 소풍벤처스가 우리 사회의 질병·건강 문제 해결을 위해 헬스케어 스타트업에 연속 투자했다고 2일 밝혔다.   소풍의 시드 투자를 유치한 에그코퍼레이션은 헬스케어 전문 D2C 스타트업이다. 거북목..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_195131_16461944724961985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와디즈, 전직원에 연봉 20% 사이닝보너스 지급 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=195094</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=195094</guid>
-            <pubDate>Wed, 02 Mar 2022 04:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[와디즈가 대규모 채용을 앞두고 전직원 연봉 20%의 사이닝보너스 지급과 함께, 지원자가 직접 포지션을 설계ㆍ 제안하는 ‘자율포지션’ 직무를 업계 최초로 도입한다.   라이프디자인 펀딩플랫폼 와디즈(대표 신..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_195094_16461941324961979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 집 마련, 부동산 투자도 모바일로! 부동산 앱 분석 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
