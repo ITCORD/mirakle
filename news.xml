@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 04:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 05:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메쉬코리아 부릉, 네이버 풀필먼트 플랫폼에 참여]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=212734</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=212734</guid>
+            <pubDate>Mon, 07 Mar 2022 05:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[IT 기반 종합 유통물류 브랜드 부릉(VROONG)을 운영하는 메쉬코리아(총괄대표 유정범)가 네이버(대표이사 한성숙)에서 구축한 온라인 풀필먼트 데이터 플랫폼 ‘NFA(Naver Fulfillment Alliance)’에 전격 합류한..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_212734_16466267864967013.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초행길 찾아갈 때, 운전할 때 필수! 대표적인 국산 지도/내비게이션 앱 Top3 비교]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=211686</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 00:35:25 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)이 SaaS 솔루션 구축을 원하는 기업 고객들을 위한 ‘SaaS 전환 솔루션’을 출시한다고 4일 밝혔다.  SaaS(Software as a Service)란 클라우드 컴퓨팅 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_202677_16463539704964367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H2O호스피탈리티, `글로벌 1위` 오라클 호스피탈리티에 호텔 시스템 연동]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=199529</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=199529</guid>
-            <pubDate>Thu, 03 Mar 2022 05:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[H2O호스피탈리티가 글로벌 호텔관리시스템(PMS) 1위 기업 ‘오라클 호스피탈리티’의 오페라 5.6버전과 클라우드 기반 서비스 ‘오페라 클라우드’에 자사 스마트 체크인 및 도어락 시스템 정식 연동을 승인 받았..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_199529_16462806014963406.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
