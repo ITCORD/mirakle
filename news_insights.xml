@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 00:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초행길 찾아갈 때, 운전할 때 필수! 대표적인 국산 지도/내비게이션 앱 Top3 비교]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=211686</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=211686</guid>
+            <pubDate>Mon, 07 Mar 2022 02:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[운전자든, 뚜벅이든, 스마트폰 사용자라면 대부분 지도 앱을 사용할 것이다. 지도 앱은 주행 정보, 빠른 길 안내 등 내비게이션 기능은 물론, 로드뷰 기능을 통해 내가 찾는 장소가 어떻게 생겼는지 사진으로 보여..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_211686_16466142614966774.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 집 마련, 부동산 투자도 모바일로! 부동산 앱 분석]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=187169</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[바쁜 현대인들에게 패스트푸드는 일상이다. 아침부터 저녁까지 언제 어디서나 찾을 수 있고, 빠르고 간편하면서 저렴하게 끼니를 때우기에도 좋아 시간에 쫓기는 직장인들과 학생 등이 즐겨 찾는다. 농림축산식품부..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_4566_16411768824904575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식을 줄 모르는 한국인의 커피 사랑, 2021 커피전문점 Top3 분석]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2021&amp;no=1208027</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2021&amp;no=1208027</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[현대인들의 커피 사랑은 남다르다. 대로변에서 골목까지 곳곳에 자리한 커피전문점에는 시험 기간의 대학생, 점심식사를 마친 직장인들이 가득하고, 길거리에는 테이크아웃 커피를 들고 다니는 이들도 적지 않다. 커..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1208027_16405684614896551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
