@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 10:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로켓 스타트업 이노스페이스 2022년 상반기 채용]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=229758</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=229758</guid>
+            <pubDate>Fri, 11 Mar 2022 10:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 스타트업에서 직접 우주로켓을 개발할 수 있는 기회가 열렸다. 소형발사체 개발 스타트업 이노스페이스가 신입/경력/전문연구요원을 채용한다고 11일 밝혔다. 해외사업, 항공우주연구소, 로켓추진연구소,..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_229758_16469915764972280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반도체 불량예측 AI솔루션 전문기업 에이아이비즈, 3.8억원 투자 유치 성공]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=228272</link>
@@ -77,14 +85,6 @@
             <pubDate>Tue, 08 Mar 2022 03:11:29 GMT</pubDate>
             <content:encoded><![CDATA[핀테크 스타트업 모인(대표 서일석)이 기업에 특화된 해외송금 서비스 ‘모인 비즈플러스’를 출시했다고 8일 밝혔다.   모인은 개인, 법인, 학생 등을 대상으로 누구나 쉽고 간편하게 사용할 수 있는 해외 송금..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216296_16467064854968166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[센스톤, 사이버시큐리티 글로벌 엑셀런스 어워드 금상 수상]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=216253</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=216253</guid>
-            <pubDate>Tue, 08 Mar 2022 03:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[국내 인증 보안 전문기업 센스톤(대표 유창훈)의 글로벌 헤드쿼터 swIDch(스위치)가 ‘제 18회 사이버시큐리티 글로벌 엑셀런스 어워드(Cyber Security Global Excellence Award)’에서 시큐리티 서비스 분야의 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216253_16467062204968153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
