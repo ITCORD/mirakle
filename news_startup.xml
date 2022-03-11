@@ -4,9 +4,16 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 불량예측 AI솔루션 전문기업 에이아이비즈, 3.8억원 투자 유치 성공]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=228272</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=228272</guid>
+            <pubDate>Fri, 11 Mar 2022 05:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[딥러닝 기반 불량예측 솔루션을 제공하는 AI솔루션 전문기업 에이아이비즈(대표 하승재)가 비상장기업 투자 플랫폼 오픈트레이드를 통해 약 3.8억원의 투자 유치에 성공했다. 이번 투자 유치는 올해 2월 14일에서 3..]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[두핸즈 ‘품고’, 글로벌 진출 위해 C레벨 핵심 인재 영입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=227579</link>
@@ -78,14 +85,6 @@
             <pubDate>Tue, 08 Mar 2022 03:11:29 GMT</pubDate>
             <content:encoded><![CDATA[국내 인증 보안 전문기업 센스톤(대표 유창훈)의 글로벌 헤드쿼터 swIDch(스위치)가 ‘제 18회 사이버시큐리티 글로벌 엑셀런스 어워드(Cyber Security Global Excellence Award)’에서 시큐리티 서비스 분야의 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216253_16467062204968153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 애그리게이터 클릭브랜즈, 우나브랜즈에서 1200억원 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=215770</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=215770</guid>
-            <pubDate>Tue, 08 Mar 2022 03:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[이커머스 애그리게이터 (Aggregator, 브랜드 인수 운영 플랫폼) 스타트업 클릭브랜즈(KlickBrands, 대표 현동훈)가 우나브랜즈로부터 약 1200억원의 투자를 유치했다고 8일 밝혔다.  클릭브랜즈는 8일 아태지역 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_215770_16467020944968041.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
