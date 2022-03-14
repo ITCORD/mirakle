@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장 보러 어디로 가세요? 대형마트 브랜드 Top3 분석]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=233006</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=233006</guid>
+            <pubDate>Mon, 14 Mar 2022 02:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 상품을 저렴하게 판매하는 대형마트는 남녀노소를 불문하고 누구나 즐겨 찾는다. 신선한 식재료, 각종 생활용품, TV와 냉장고 같은 가전제품까지, 대형마트에는 없는 물건이 없다. 뿐만이 아니다. 대부분의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_233006_16472185824973679.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초행길 찾아갈 때, 운전할 때 필수! 대표적인 국산 지도/내비게이션 앱 Top3 비교]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=211686</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[매년 1월 1일이 되면 사람들은 각자의 방식으로 지난 1년을 돌아보고, 앞으로의 1년에 대한 희망을 품는다. 대부분은 가족과 시간을 보내거나 새해 인사, 덕담을 주고받고, 어떤 이들은 해돋이 명소에서 새해 첫 일..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_29996_16418656814913710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 좋아하는 간편한 한끼, 2021 패스트푸드 브랜드 Top3]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=4566</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=4566</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[바쁜 현대인들에게 패스트푸드는 일상이다. 아침부터 저녁까지 언제 어디서나 찾을 수 있고, 빠르고 간편하면서 저렴하게 끼니를 때우기에도 좋아 시간에 쫓기는 직장인들과 학생 등이 즐겨 찾는다. 농림축산식품부..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_4566_16411768824904575.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

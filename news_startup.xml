@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원프레딕트, 산업AI 기반 모터 종합 관리 솔루션  ‘가디원 모터’ 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232995</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232995</guid>
+            <pubDate>Mon, 14 Mar 2022 02:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[산업AI 기반 설비 예지보전 솔루션 기업 원프레딕트가 모터 종합 진단 관리 제품인 GuardiOne® Motor (가디원 모터)를 공식 출시했다. 출시에 맞춰 신제품을 한달간 무료로 체험해볼 수 있는 이벤트도 함께 진..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_232995_16472184614973688.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔로알토 네트웍스, 자율 운영 보안 플랫폼 ‘코어텍스 XSIAM’ 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232910</link>
@@ -77,14 +85,6 @@
             <pubDate>Thu, 10 Mar 2022 09:11:22 GMT</pubDate>
             <content:encoded><![CDATA[메디컬아이피는 제 37회 국제의료기기 및 병원설비전시회(KIMES 2022)와 보건복지부가 주최하는 글로벌 헬스케어 및 의료관광 콘퍼런스(Medical Korea 2022)에 참가했다고 10일 밝혔다. 행사는 13일까지 코엑스에..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_226325_16469031794971005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿닥, 비대면 진료 서비스 론칭 한달만에 누적 사용자 수 16만명]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=216790</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=216790</guid>
-            <pubDate>Tue, 08 Mar 2022 05:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 헬스케어 플랫폼 기업 굿닥이 ‘의사를 만나는 가장 빠른 방법’을 모토로 론칭한 비대면 진료 서비스가 하루 평균 이용자 수 1만명, 누적 이용자 수 16만명을 돌파했다고 8일 밝혔다. 서비스 런칭 한 달..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216790_16467127084968320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
