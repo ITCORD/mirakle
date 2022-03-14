@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 08:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비욘드뮤직, FNC 및 플로(FLO)와 손잡고 음원 IP 시장 공략]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=235459</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=235459</guid>
+            <pubDate>Mon, 14 Mar 2022 08:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[음원 IP 전문 투자 및 매니지먼트 기업 비욘드뮤직이 인수합병과 협력을 통해 본격적으로 음원 확보 및 해외진출에 나선다. 14일 비욘드뮤직은 FNC 산하 음원 IP 보유사인 FNC 인베스트먼트를 470억원에 인수했다...]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_235459_16472431344974429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잡플래닛, HR 2.0 원스탑 채용 서비스 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=234780</link>
@@ -77,14 +85,6 @@
             <pubDate>Fri, 11 Mar 2022 02:08:38 GMT</pubDate>
             <content:encoded><![CDATA[국내에서 처음으로 골프장 이동서비스를 선보여 골퍼들의 많은 관심을 받았던 무브(MOVV)는 이용자들이 보다 편리하게 골프를 즐길 수 있도록 국내외 골프장 예약과 이동까지 모두 하나의 플랫폼으로 연결하는 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_227557_16469625834971420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올라케어, ‘재외국민 대상 비대면 진료’  규제특례 임시허가 획득]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=227517</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=227517</guid>
-            <pubDate>Fri, 11 Mar 2022 02:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[㈜블루앤트가 운영하는 비대면 진료 &amp; 약 배송 플랫폼 올라케어가 산업융합 규제특례심의위원회에서 재외국민 비대면 진료•상담 서비스에 대한 임시허가를 승인받았다.   올라케어는 온라인 플랫폼을 통..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_227517_16469622304971412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
