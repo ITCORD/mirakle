@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 00:34:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔로알토 네트웍스, 자율 운영 보안 플랫폼 ‘코어텍스 XSIAM’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=232910</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=232910</guid>
+            <pubDate>Mon, 14 Mar 2022 00:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 차세대 보안 선도 기업 팔로알토 네트웍스(Palo Alto Networks®, 지사장 이희만)는 보안 조직에서 데이터, 분석, 자동화를 구현할 수 있도록 하는 AI 기반 플랫폼 ‘코어텍스 XSIAM(Cortex® XSIAM)’을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_232910_16472178134973666.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로켓 스타트업 이노스페이스 2022년 상반기 채용 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=229758</link>
@@ -77,14 +85,6 @@
             <pubDate>Tue, 08 Mar 2022 05:07:44 GMT</pubDate>
             <content:encoded><![CDATA[모바일 헬스케어 플랫폼 기업 굿닥이 ‘의사를 만나는 가장 빠른 방법’을 모토로 론칭한 비대면 진료 서비스가 하루 평균 이용자 수 1만명, 누적 이용자 수 16만명을 돌파했다고 8일 밝혔다. 서비스 런칭 한 달..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216790_16467127084968320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모인, 기업 특화 해외송금 서비스 ‘모인 비즈플러스’ 런칭 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=216296</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=216296</guid>
-            <pubDate>Tue, 08 Mar 2022 04:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[핀테크 스타트업 모인(대표 서일석)이 기업에 특화된 해외송금 서비스 ‘모인 비즈플러스’를 출시했다고 8일 밝혔다.   모인은 개인, 법인, 학생 등을 대상으로 누구나 쉽고 간편하게 사용할 수 있는 해외 송금..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216296_16467064854968166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -245,6 +245,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_935285_16330716624801543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔로알토 네트웍스, 자율 운영 보안 플랫폼 ‘코어텍스 XSIAM’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232910</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232910</guid>
+            <pubDate>Mon, 14 Mar 2022 00:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 차세대 보안 선도 기업 팔로알토 네트웍스(Palo Alto Networks®, 지사장 이희만)는 보안 조직에서 데이터, 분석, 자동화를 구현할 수 있도록 하는 AI 기반 플랫폼 ‘코어텍스 XSIAM(Cortex® XSIAM)’을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_232910_16472178134973666.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로켓 스타트업 이노스페이스 2022년 상반기 채용 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=229758</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=229758</guid>
@@ -314,14 +322,6 @@
             <pubDate>Tue, 08 Mar 2022 05:08:15 GMT</pubDate>
             <content:encoded><![CDATA[모바일 헬스케어 플랫폼 기업 굿닥이 ‘의사를 만나는 가장 빠른 방법’을 모토로 론칭한 비대면 진료 서비스가 하루 평균 이용자 수 1만명, 누적 이용자 수 16만명을 돌파했다고 8일 밝혔다. 서비스 런칭 한 달..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216790_16467127084968320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모인, 기업 특화 해외송금 서비스 ‘모인 비즈플러스’ 런칭 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=216296</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=216296</guid>
-            <pubDate>Tue, 08 Mar 2022 03:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[핀테크 스타트업 모인(대표 서일석)이 기업에 특화된 해외송금 서비스 ‘모인 비즈플러스’를 출시했다고 8일 밝혔다.   모인은 개인, 법인, 학생 등을 대상으로 누구나 쉽고 간편하게 사용할 수 있는 해외 송금..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_216296_16467064854968166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초행길 찾아갈 때, 운전할 때 필수! 대표적인 국산 지도/내비게이션 앱 Top3 비교 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
