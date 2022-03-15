@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 07:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 08:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커리어테크 스타트업 ‘퍼블리’,  누적 유료 멤버십 가입자 7만 명 돌파]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=239177</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=239177</guid>
+            <pubDate>Tue, 15 Mar 2022 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표 커리어 지식구독 플랫폼 ‘퍼블리’의 누적 유료 멤버십 가입자가 7만 명을 넘어섰다.   커리어테크 스타트업 퍼블리(대표 박소령)는 ‘퍼블리 멤버십’의 누적 유료 가입자 수가 2월 말 기준 7만3321명..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_239177_16473304374975880.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저데이터, IDC ‘고객데이터플랫폼’ 부문 마켓 리더로 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=236894</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Mar 2022 06:12:39 GMT</pubDate>
             <content:encoded><![CDATA[사물인터넷(IoT) 기술 기반 공간관리솔루션 기업 키위스마트락(대표 김도현)은 자사의 블록체인 기반의 디지털 키 플랫폼 ‘키링(KEYRING)’에 가상화폐 채굴의 개념을 차용한 신개념 보상 프로그램인 ‘쎄서미 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_234767_16472367164974201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원프레딕트, 산업AI 기반 모터 종합 관리 솔루션  ‘가디원 모터’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232995</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=232995</guid>
-            <pubDate>Mon, 14 Mar 2022 02:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[산업AI 기반 설비 예지보전 솔루션 기업 원프레딕트가 모터 종합 진단 관리 제품인 GuardiOne® Motor (가디원 모터)를 공식 출시했다. 출시에 맞춰 신제품을 한달간 무료로 체험해볼 수 있는 이벤트도 함께 진..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_232995_16472184614973688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
