@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창립 10주년 맞은 패스트트랙아시아, ‘컴퍼니빌더에서 유니콘빌더로’ 비전 제시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=249099</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=249099</guid>
+            <pubDate>Fri, 18 Mar 2022 01:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[컴퍼니빌더 패스트트랙아시아(대표 박지웅)가 창립 10주년을 맞아 향후 비전을 제시하고 지금까지 만들어낸 회사 가치의 총합이 약 8,000억 원에 달한다고 18일 밝혔다.   패스트트랙아시아는 2012년 박지웅 대..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_249099_16475644954979052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채널톡,  중기부 ‘비대면 서비스 바우처 공급기업’ 3년 연속 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=246468</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 02:16:55 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)이 자사의 클라우드 관리 플랫폼(CMP, Cloud Management Platform) ‘옵스나우(OpsNow)’의 고객이 2,000곳을 넘어섰다고 16일 밝혔다.  옵스나우는 베..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_240860_16473926384976590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트썸원, 15억원 규모 프리 시리즈 A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=240816</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=240816</guid>
-            <pubDate>Wed, 16 Mar 2022 02:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최초 작곡가 필수 플랫폼을 서비스하는 ‘비트썸원’이 15억 원 규모의 프리 시리즈 A 투자를 유치했다고 11일 밝혔다. 이번 투자에는 사모펀드 머카바와 호반건설 계열의 코너스톤투자파트너스이 참여했다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_240816_16473924194976586.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
