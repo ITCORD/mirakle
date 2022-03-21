@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업가치 1조원 이상, 2021 신규 유니콘 기업 7개사 앱 분석]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=254824</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=254824</guid>
+            <pubDate>Mon, 21 Mar 2022 02:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[서울중소벤처기업청은 지난 2월 ‘21년 유니콘기업 현황’을 발표했다. 이에 따르면 지난해 말 기준 국내의 유니콘 기업은 역대 최다인 18개사이며, 21년 들어 새롭게 탄생한 국내 유니콘 기업도 집계 이래 최다인 7..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_254824_16478229764981224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장 보러 어디로 가세요? 대형마트 브랜드 Top3 분석]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=233006</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[한 달 전인 12월 13일 디지털 백신 접종 완료 증명서 COOV 앱이 마비되며 많은 이들이 불편을 겪은 데 이어, 지난 1월 6일에는 영업장에서 사용하는 전자출입명부 앱 KI-PASS가 5시간 동안 접속 장애를 일으켰다.  K..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_47888_16423818034919506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임인년 새해 맞아 ‘신년운세’ 관심 급증해]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=29996</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=29996</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[매년 1월 1일이 되면 사람들은 각자의 방식으로 지난 1년을 돌아보고, 앞으로의 1년에 대한 희망을 품는다. 대부분은 가족과 시간을 보내거나 새해 인사, 덕담을 주고받고, 어떤 이들은 해돋이 명소에서 새해 첫 일..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_29996_16418656814913710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
