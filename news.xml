@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 06:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핀테크 스타트업 동네, 250억원 규모 시리즈A 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=269340</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=269340</guid>
+            <pubDate>Thu, 24 Mar 2022 07:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[주거용 부동산 시장의 혁신을 꾀하는 핀테크 기업 동네(대표 차민근(Matthew Shampine))가 250억 원 규모의 시리즈A 자금을 추가로 유치했다고 밝혔다. 동네는 이번 투자 유치를 통해 인재 채용과 기술개발, 그..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_269340_16481055464986022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 모빌리티 스타트업, 탄소배출 감축을 위한 두굿 컨소시엄 발족]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=267737</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 06:12:26 GMT</pubDate>
             <content:encoded><![CDATA[케이유니콘인베스트먼트(대표 김홍일)가 최근 261억원 규모의 신기술투자조합 결성에 성공했다고 23일 밝혔다. 이번 펀드는 핵심 기술력을 중심으로 폭발적인 중장기 성장을 달성할 것으로 기대되는 후기 스타트업..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_264498_16480136774984447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종합 콘텐츠 제작사 테이크원컴퍼니, 필름몬스터, 아이스크림스튜디오와 NFT 프로젝트 협약]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=264437</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=264437</guid>
-            <pubDate>Wed, 23 Mar 2022 06:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[종합 콘텐츠 제작사 테이크원컴퍼니(대표 정민채)가 콘텐츠 NFT 사업에 적극 나선다.  테이크원컴퍼니는 넷플릭스 오리지널 시리즈 ‘지금 우리 학교는’의 제작사 필름몬스터(대표 박철수), EBS 애니메이션 ‘..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_264437_16480132864984444.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
