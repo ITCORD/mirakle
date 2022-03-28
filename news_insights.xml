@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기름값 고공행진중, 유가정보 앱 오피넷 및 주유소 차량도착수 분석]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=278661</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=278661</guid>
+            <pubDate>Mon, 28 Mar 2022 05:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 기름값이 9주 연속 상승세를 이어가며 운전자들의 부담이 커지고 있다. 한국석유공사 유가 정보 사이트 오피넷에 따르면 전국 주유소의 휘발유 평균 판매 가격은 3월 15일부터 리터당 2,000원대를 넘겼고, 비..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_278661_16484420774989278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업가치 1조원 이상, 2021 신규 유니콘 기업 7개사 앱 분석]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=254824</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부가 지난 18일 ‘2021년 12월 및 연간 자동차산업 동향’을 발표했다. 해당 조사에 따르면 작년 1년간 국산과 외산 신차의 내수 판매는 1,725,783대이며, 이는 전년 동기 대비 8.5% 감소한 수치라고 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_69882_16429888584926843.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또다시 먹통에 사업주들 혼란, 전자출입명부 KI-PASS 앱]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=47888</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=47888</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[한 달 전인 12월 13일 디지털 백신 접종 완료 증명서 COOV 앱이 마비되며 많은 이들이 불편을 겪은 데 이어, 지난 1월 6일에는 영업장에서 사용하는 전자출입명부 앱 KI-PASS가 5시간 동안 접속 장애를 일으켰다.  K..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/01/image_readtop_2022_47888_16423818034919506.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
