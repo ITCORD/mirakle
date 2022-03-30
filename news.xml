@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 03:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 04:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지플러스생명과학, 유전자가위 항암 플랫폼 ‘캔서레이스’ 미국 특허 취득]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=286464</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=286464</guid>
+            <pubDate>Wed, 30 Mar 2022 04:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[크리스퍼 유전자가위 연구개발 선도기업 ㈜지플러스생명과학(대표이사: 최성화)이 크리스퍼 유전자가위 항암 플랫폼 ‘캔서레이스(Cancerase)’가 미국에서도 등록 결정 됐다고 30일 밝혔다.   지플러스생명과학의..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_286464_16486119154992016.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온라인 영상 자동 제작 솔루션 기업 비디오몬스터, 30억 규모 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=285614</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Mar 2022 02:28:47 GMT</pubDate>
             <content:encoded><![CDATA[서울시의 디지털 혁신인재 양성과 중소기업 성장을 지원하는 서울산업진흥원(SBA, 대표이사 김현우)은 청년취업사관학교 마포 캠퍼스에서 서울시민을 대상으로 총 3개 DT 과정(디지털마케팅, 서비스 기획, 퍼블..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_281484_16485156434990387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건설 드론 데이터 솔루션 엔젤스윙, 안전관리 플랫폼 런칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=281402</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=281402</guid>
-            <pubDate>Tue, 29 Mar 2022 02:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[건설 드론 데이터 솔루션을 서비스하는 콘테크 스타트업 엔젤스윙 (대표 박원녕)은 건설 현장을 위한 안전관리 플랫폼을 정식 런칭한다고 29일 밝혔다.  엔젤스윙 안전관리 플랫폼은 드론 매핑으로 얻은 데이터..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_281402_16485148714990355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
