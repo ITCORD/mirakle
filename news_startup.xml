@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 00:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘리스, 전 직군 200명 대규모 채용]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=300127</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=300127</guid>
+            <pubDate>Mon, 04 Apr 2022 00:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 교육 실습 플랫폼 엘리스(대표 김재원)가 사업 분야 확대와 성장에 따라 전 직군에 걸쳐 200명 수준의 대규모 상시 채용을 진행한다고 1일 밝혔다. 엘리스는 연말까지 직원 수를 300명까지 확대할 계획이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_300127_16490324324997174.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술 축제로 오세요]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=295767</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 02:22:21 GMT</pubDate>
             <content:encoded><![CDATA[비상장 주식 중개 플랫폼 ‘서울거래 비상장’을 운영하는 피에스엑스(대표 김세영)가 전문투자자 대상 서비스 강화 계획을 밝혔다.   이번 강화 계획은 지난 30일 금융당국의 혁신금융서비스 연장 발표에 따른 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_289958_16486902764993202.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더핑크퐁컴퍼니, 美 타임지 ‘세계에서 가장 영향력 있는 100대 기업’ 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=289921</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=289921</guid>
-            <pubDate>Thu, 31 Mar 2022 02:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 패밀리 엔터테인먼트 기업 더핑크퐁컴퍼니(대표 김민석)가 미국 시사주간지 타임(TIME)이 발표한 ‘세계에서 가장 영향력 있는 100대 기업(TIME100 Most Influential Companies)’에 선정됐다고 31일 밝..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_289921_16486899664993195.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
