@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,6 +245,22 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_966448_16340227364813034.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["아무리 좋은 항암제도 내성 생기면 못 쓴다" 엘베이스의 신약개발도전 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=306556</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=306556</guid>
+            <pubDate>Tue, 05 Apr 2022 08:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[암치료가 어려운 점은 항암제가 부족해서가 아니라 내성의 문제가 큽니다.   지난 15일 성수동 사무실에서 만난 전도용 엘베이스 대표는 최근 항암제 연구에 대해서 이렇게 설명했다. 전 대표는 처음 표적항..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_306556_16491450374999260.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 기업 캐리버스, 31억 시리즈 A 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=306494</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=306494</guid>
+            <pubDate>Tue, 05 Apr 2022 08:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠IP 기업 캐리소프트와 중견 게임 개발사 멘티스코가 2022년 1월 합작법인으로 설립한 (주)캐리버스가 설립 2개월만에 31억원의 시리즈A 투자를 유치했다고 5일 밝혔다. 이번 투자는 센트럴투자파트너스가 리..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_306494_16491428204999224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀바이뮤직, JTBC 유튜브에 음원 공급 계약 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=304492</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=304492</guid>
@@ -306,22 +322,6 @@
             <pubDate>Fri, 01 Apr 2022 02:50:10 GMT</pubDate>
             <content:encoded><![CDATA[AI 기반 의료솔루션 기업 비플러스랩(대표 정훈재)이 지난 3월 31일 인당의료재단 부민병원(이하 ‘부민병원’), 분당서울대병원과 외국인 및 재외국민 환자의 진료 및 수술 시 협진 체계를 마련하기 위해 업무..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_293715_16487728554994540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파크플러스, 스플라운지 서비스 오픈 6개월만에 1만4천여 명 방문 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=293637</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=293637</guid>
-            <pubDate>Fri, 01 Apr 2022 02:50:10 GMT</pubDate>
-            <content:encoded><![CDATA[토종 공유오피스 기업 스파크플러스가 월간 비즈니스 라운지 멤버십 ‘스플라운지’를 오픈한지 6개월 만에 누적 이용객 1만 4천여 명(3월 31일 기준)을 돌파했다고 1일 밝혔다.  지난해 10월 첫 선을 보인 스플..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_293637_16487721554994525.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타트업을 위한 교육 서비스‘그로우앤베터’, 7억원의 시드 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=293592</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=293592</guid>
-            <pubDate>Fri, 01 Apr 2022 02:50:10 GMT</pubDate>
-            <content:encoded><![CDATA[실전 중심의 온라인 교육 서비스 ‘그로우앤베터’를 제공하는 (주)더자람컴퍼니(대표 천세희)가 성장 가능성을 인정 받아 7억 원의 시드 투자 유치에 성공했다고 밝혔다. 이번 투자에는 미래과학기술지주, 인포..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_293592_16487717044994517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배달 수수료 인상에 자사 배달 주문 앱 활성화에 나선 외식 브랜드 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
