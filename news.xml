@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블루포인트파트너스 "어린이 공간 서비스 사업 CEO 모십니다"]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=310036</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=310036</guid>
+            <pubDate>Wed, 06 Apr 2022 07:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[테크 엣지 액셀러레이터 블루포인트파트너스(이하 블루포인트)가 1호 컴퍼니빌딩 프로젝트인 어린이 공간 서비스 사업을 위해 자회사 ‘디프런트도어즈’를 설립했다고 6일 밝혔다.   디프런트도어즈는 블루포인트..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_310036_16492248215000556.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아무리 좋은 항암제도 내성 생기면 못 쓴다" 엘베이스의 신약개발도전]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=306556</link>
@@ -77,14 +85,6 @@
             <pubDate>Mon, 04 Apr 2022 02:37:43 GMT</pubDate>
             <content:encoded><![CDATA[디지털 교육 실습 플랫폼 엘리스(대표 김재원)가 사업 분야 확대와 성장에 따라 전 직군에 걸쳐 200명 수준의 대규모 상시 채용을 진행한다고 1일 밝혔다. 엘리스는 연말까지 직원 수를 300명까지 확대할 계획이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_300127_16490324324997174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프록시헬스케어, `트로마츠 심플` 리뉴얼 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=293780</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=293780</guid>
-            <pubDate>Fri, 01 Apr 2022 00:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[미생물막 제거를 통해 일상을 안전하게 보호하는 친환경 헬스케어 기업 (주)프록시헬스케어(대표 김영욱)의 구강 케어 브랜드 트로마츠는 무진동, 무자극의 초미세전류로 미생물막(플라그)을 제거하여 잇몸 염증..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_293780_16487733464994554.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
