@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,6 +245,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_966448_16340227364813034.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블루포인트파트너스 "어린이 공간 서비스 사업 CEO 모십니다" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=310036</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=310036</guid>
+            <pubDate>Wed, 06 Apr 2022 08:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[테크 엣지 액셀러레이터 블루포인트파트너스(이하 블루포인트)가 1호 컴퍼니빌딩 프로젝트인 어린이 공간 서비스 사업을 위해 자회사 ‘디프런트도어즈’를 설립했다고 6일 밝혔다.   디프런트도어즈는 블루포인트..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_310036_16492248215000556.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["아무리 좋은 항암제도 내성 생기면 못 쓴다" 엘베이스의 신약개발도전 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=306556</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=306556</guid>
@@ -314,14 +322,6 @@
             <pubDate>Fri, 01 Apr 2022 02:50:10 GMT</pubDate>
             <content:encoded><![CDATA[미생물막 제거를 통해 일상을 안전하게 보호하는 친환경 헬스케어 기업 (주)프록시헬스케어(대표 김영욱)의 구강 케어 브랜드 트로마츠는 무진동, 무자극의 초미세전류로 미생물막(플라그)을 제거하여 잇몸 염증..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_293780_16487733464994554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비플러스랩, 부민병원•분당서울대병원과 협진 체계 마련 위해 협력 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=293715</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=293715</guid>
-            <pubDate>Fri, 01 Apr 2022 02:50:10 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 의료솔루션 기업 비플러스랩(대표 정훈재)이 지난 3월 31일 인당의료재단 부민병원(이하 ‘부민병원’), 분당서울대병원과 외국인 및 재외국민 환자의 진료 및 수술 시 협진 체계를 마련하기 위해 업무..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_293715_16487728554994540.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배달 수수료 인상에 자사 배달 주문 앱 활성화에 나선 외식 브랜드 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
