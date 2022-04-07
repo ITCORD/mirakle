@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 12:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 13:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미디언스, 4주의 퍼포먼스 마케팅 교육 이수자 16명을 수습사원으로 선발]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=315547</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=315547</guid>
+            <pubDate>Thu, 07 Apr 2022 13:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[애드테크(Ad-Tech) 스타트업 미디언스(대표 김민석)가 입사희망자를 대상으로 마케팅 교육과정을 진행하고 이를 이수한 지원자를 수습사원으로 채용했다고 7일 밝혔다. 미디언스와 지난해 미디언스의 자회사로 편..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_315547_16493368555002880.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수소 안전 기업 하이드로켐, 소풍벤처스 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=313972</link>
@@ -77,14 +85,6 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=300445</guid>
             <pubDate>Mon, 04 Apr 2022 02:39:20 GMT</pubDate>
             <content:encoded><![CDATA[전기자전거 공유 서비스 ‘일레클’ 운영사인 나인투원(대표 배지훈)이 시범운영 중인 정기구독 서비스를 확대해 올 하반기에 정식 서비스로 오픈할 예정이다. 정기구독 서비스는 작년 12월부터 시범 운영 중이다.  ..]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블루포인트파트너스-GS에너지, ‘더 지에스 챌린지’ 2기 데모데이 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=300212</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=300212</guid>
-            <pubDate>Mon, 04 Apr 2022 02:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[테크 엣지 액셀러레이터 블루포인트파트너스가 GS에너지와 `더 지에스 챌린지 퓨처에너지(The GS Challenge. Future Energy)` 2기 데모데이를 오는 7일 개최한다고 밝혔다.  최근 유망 스타트업을 통해 혁신을 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_300212_16490330384997214.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
