@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명품 쇼핑 플랫폼 폭발적 성장, 트렌비 & 발란 모바일 앱 이용 현황은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=322717</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=322717</guid>
+            <pubDate>Mon, 11 Apr 2022 03:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[최근 온라인 명품 쇼핑 플랫폼이 가파른 성장세를 보이고 있다. 장기화된 코로나19로 인해 비대면 쇼핑이 대세가 됐고, 억눌렸던 소비 심리가 명품, 고가품을 통한 보복 소비로 이어지며 수요가 폭발적으로 늘어났기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_322717_16496377815005589.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달 수수료 인상에 자사 배달 주문 앱 활성화에 나선 외식 브랜드]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=302446</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[작년 11월 12일, 콘텐츠계의 제왕으로 유명한 디즈니의 OTT 서비스 Disney+(이하 디즈니 플러스)가 한국 서비스를 정식으로 시작했다. 디즈니 플러스는 작년 초부터 한국 출시를 예고했었는데, 이를 두고 대중은 풍..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_135738_16447989624945668.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 방송하는 시대, 인터넷방송 앱 분석]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=108279</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=108279</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷방송 플랫폼의 인기 BJ, 스트리머들은 현재 젊은 세대 사이에서 최고의 대화 소재다. 방송가에서 자취를 감췄던 연예인 A가 인터넷 방송을 시작했다는 이야기도, 유명 인터넷방송인 B의 월 소득이 직장인 연봉..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_108279_16441950024938596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
