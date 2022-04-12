@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메쉬코리아 부릉, 카카오엔터프라이즈와 AI 기반 물류 생태계 공동 구축]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=327831</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=327831</guid>
+            <pubDate>Tue, 12 Apr 2022 07:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[IT 기반 종합 유통물류 브랜드 부릉(VROONG)을 운영하는 메쉬코리아(총괄대표 유정범)가 카카오엔터프라이즈(대표 백상엽)와 협업으로 인공지능(AI)과 빅데이터 기술을 활용한 유통물류 생태계를 공동 구축한다고 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_327831_16497440845007175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숙박업소 자율운영 B2B 플랫폼 벤디트, 40억원 규모 프리 시리즈A 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=326346</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 03:35:57 GMT</pubDate>
             <content:encoded><![CDATA[SNS 1인 마켓 시장을 구축한 와이어드컴퍼니(대표 황봄님)가 시리즈A 투자를 완료했다고 밝혔다. 이번 시리즈A 투자는 하나금융투자 등 약 3개 기관이 참여하였고 누적 투자 금액은 62억원에 달한다.   와이어드..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_322835_16496400565005643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴패러다임인베스트먼트, 메타버스 스타트업 ‘이매지니어스’에 프리A 투자]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=322779</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=322779</guid>
-            <pubDate>Mon, 11 Apr 2022 03:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[팁스(TIPS) 운영사인 뉴패러다임인베스트먼트(대표 배상승,박제현)가 AR 메타버스 스타트업 ‘이매지니어스’(IMAGINEERS, 대표 김진성)에 프리A 투자했다고 11일 밝혔다. 이번 투자에는 기존 투자자인 넥스트드..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_322779_16496384485005634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
