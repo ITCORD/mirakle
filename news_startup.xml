@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 00:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어밸브(AVALVE), 오늘의꽃과 MOU 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=337235</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=337235</guid>
+            <pubDate>Fri, 15 Apr 2022 00:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[주식회사 어밸브(공동대표 박규태, 이원준)는 오늘의꽃과 인공지능(AI)을 활용한 화훼작물 재배 사업 확대를 위한 양해각서(MOU)를 체결했다고 15일 밝혔다.  이번 협약으로 오늘의꽃은 4차 산업을 대비하여 화..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_337235_16499830195010426.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타트업도 대출 받을 수 있다! 온라인 매출 거래 플랫폼 `레베뉴마켓`]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=335886</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Apr 2022 00:39:04 GMT</pubDate>
             <content:encoded><![CDATA[국내외 홈카페 시장을 선도하는 푸드테크 스타트업 메디프레소(대표 김하섭)와 AI, 빅데이터 기반으로 개인 맞춤형 음원 서비스를 제공하는 스트레스솔루션(대표 배익렬)이 지난 6일 차세대 헬스케어 솔루션 개..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_329667_16498100045007892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메쉬코리아 부릉, 카카오엔터프라이즈와 AI 기반 물류 생태계 공동 구축]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=327831</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=327831</guid>
-            <pubDate>Tue, 12 Apr 2022 08:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[IT 기반 종합 유통물류 브랜드 부릉(VROONG)을 운영하는 메쉬코리아(총괄대표 유정범)가 카카오엔터프라이즈(대표 백상엽)와 협업으로 인공지능(AI)과 빅데이터 기술을 활용한 유통물류 생태계를 공동 구축한다고 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_327831_16497440845007175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
