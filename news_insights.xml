@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지점 수 줄이고 모바일 역량 강화, 4대 시중은행 모바일뱅킹 앱 비교]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=344453</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=344453</guid>
+            <pubDate>Mon, 18 Apr 2022 06:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[전국 은행의 점포 감소 추세가 지속되고 있다. 금융감독원이 지난달 31일 발표한 보도자료에 따르면 ‘21년 말 전국 은행의 점포 수는 전년 말에 비해 311개 감소한 6,094개로 집계됐으며, 은행 점포 수의 감소 폭도..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_344453_16502601095013142.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명품 쇼핑 플랫폼 폭발적 성장, 트렌비 & 발란 모바일 앱 이용 현황은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=322717</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
             <content:encoded><![CDATA[모든 것이 구독서비스화가 되어가고 있습니다. 소상공인에게는 돌파구가 필요합니다.  최근 매일경제와 인터뷰한 `구독경제:소유의 종말` 저자 전호겸 서울벤처대학원대학교(구독경제전략연구센터) 교수는 소상..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_138895_16449022114947195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느새 국내 상륙 3개월차, 디즈니 플러스 성적표]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=135738</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=135738</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[작년 11월 12일, 콘텐츠계의 제왕으로 유명한 디즈니의 OTT 서비스 Disney+(이하 디즈니 플러스)가 한국 서비스를 정식으로 시작했다. 디즈니 플러스는 작년 초부터 한국 출시를 예고했었는데, 이를 두고 대중은 풍..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_135738_16447989624945668.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

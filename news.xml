@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지점 수 줄이고 모바일 역량 강화, 4대 시중은행 모바일뱅킹 앱 비교]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=344453</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=344453</guid>
+            <pubDate>Mon, 18 Apr 2022 06:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[전국 은행의 점포 감소 추세가 지속되고 있다. 금융감독원이 지난달 31일 발표한 보도자료에 따르면 ‘21년 말 전국 은행의 점포 수는 전년 말에 비해 311개 감소한 6,094개로 집계됐으며, 은행 점포 수의 감소 폭도..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_344453_16502601095013142.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두핸즈 ‘품고’, 뷰티 플랫폼 ‘화해’에  IT 및 풀필먼트 인프라 제공]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=343321</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Apr 2022 02:38:19 GMT</pubDate>
             <content:encoded><![CDATA[아트 컨텐츠 기업 웨이브아이(대표 최동렬)는 블록체인기술연구소(IBCT)와 공동 개발을 거쳐 순수미술 원작 NFT 플랫폼 ‘리얼컬렉션(RealCollection)’의 베타버전을 종료하고 4월 18일 정식 오픈한다.   리얼..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_333597_16498980325009234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막삼십분, 기술 고도화로 주차차량관리 플랫폼으로 성장 준비중]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=332245</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=332245</guid>
-            <pubDate>Wed, 13 Apr 2022 09:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[“주차하는 시간을 줄여주는 것이 마지막삼십분의 기업 가치다. 주차중인 차량을 어떻게 관리하는가도 중요하다. 마지막삼십분은 주차를 통한 차량관리 플랫폼으로의 성장을 준비하고 있다.”  서울창업허브에서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_332245_16498398035008707.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
