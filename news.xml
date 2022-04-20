@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 08:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메쉬코리아 부릉, 패션산업 셀러 위한 전용 풀필먼트센터 첫 오픈]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=353539</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=353539</guid>
+            <pubDate>Wed, 20 Apr 2022 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[IT 기반의 종합 유통물류 브랜드 ‘부릉(VROONG)’을 운영하는 메쉬코리아(총괄대표 유정범)가 국내 패션 셀러들을 위한 의류 전용 디지털 풀필먼트센터를 업계 최초로 선보인다고 21일 밝혔다.  경기도 남양주시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_353539_16504450425016246.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스파크플러스 강남•잠실권 5곳 상반기 오픈, 32호점 달성]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=350558</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Apr 2022 03:36:59 GMT</pubDate>
             <content:encoded><![CDATA[이커머스 풀필먼트 솔루션 품고를 운영하는 ㈜두핸즈(대표 박찬재)가 버드뷰(대표 이웅)의 뷰티 플랫폼 ‘화해’에 이커머스 풀필먼트 솔루션 ‘품고’를 공급하는 계약을 체결했다고 18일 밝혔다.   품고는 자..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_343321_16502439735012841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라잇벨리, ‘플랜트볼 카레라이스’, ‘플랜트 김치왕교자’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=343275</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=343275</guid>
-            <pubDate>Mon, 18 Apr 2022 03:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[식물성 푸드 혁신기업 올가니카가 설립한 대체육 간편식 스타트업 `브라잇벨리(BriteBelly)’는 식물성 기반의 대체육이 함유된 일본식 카레 ‘플랜트볼 카레라이스’와 기존 왕교자에 신선한 국산 김치소를 추..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_343275_16502434955012795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
