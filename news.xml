@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 00:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넛지헬스케어㈜, B2B 플랫폼 ‘팀워크’ 론칭]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=354757</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=354757</guid>
+            <pubDate>Thu, 21 Apr 2022 00:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[넛지헬스케어㈜(공동대표 나승균, 박정신)가 지자체 및 기업 사용자의 디지털 헬스케어 사업 운영 효율을 높이기 위해 대표 건강관리 앱 캐시워크에 B2B 플랫폼 `팀워크(TeamWalk)`를 론칭한다.   팀워크는 꾸준..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_354757_16505009425016759.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의자계의 에르메스 허먼밀러 BNPL로 분납구매하면?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=353569</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Apr 2022 02:54:38 GMT</pubDate>
             <content:encoded><![CDATA[1호 전문개인신용평가사(비금융CB) 크레파스솔루션(대표:김민정)이 신한카드와 협력하여 대안신용평가사업을 강화한다. 크레파스솔루션은 4월 18일 신한카드와 업무협약식을 진행하고, 향후 대안신용평가를 빠르..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_346519_16503275865014028.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지점 수 줄이고 모바일 역량 강화, 4대 시중은행 모바일뱅킹 앱 비교]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=344453</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=344453</guid>
-            <pubDate>Mon, 18 Apr 2022 06:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[전국 은행의 점포 감소 추세가 지속되고 있다. 금융감독원이 지난달 31일 발표한 보도자료에 따르면 ‘21년 말 전국 은행의 점포 수는 전년 말에 비해 311개 감소한 6,094개로 집계됐으며, 은행 점포 수의 감소 폭도..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_344453_16502601095013142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
