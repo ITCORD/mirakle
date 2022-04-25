@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 액셀러레이터 스파크랩, 18기 온라인 데모데이 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=365077</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=365077</guid>
+            <pubDate>Mon, 25 Apr 2022 02:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 액셀러레이터 스파크랩(공동대표 김유진)이 다음 달 3일(화) ‘18기 온라인 데모데이’를 개최한다고 밝혔다. 이번 데모데이는 온라인으로 진행되며 스파크랩 데모데이 홈페이지를 통해 사전 등록 후 참..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_365077_16508478705020644.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닥터나우, 헬스케어 스타트업 ‘부스터즈 컴퍼니’ 인수]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=365011</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=365011</guid>
+            <pubDate>Mon, 25 Apr 2022 02:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 1위 원격의료 플랫폼 닥터나우(대표이사 장지호)가 헬스케어 스타트업 ‘부스터즈 컴퍼니’를 인수하며 김종상 대표를 닥터나우 최고제품책임자(이하 CPO)로 선임했다고 25일 밝혔다.  부스터즈 컴퍼니는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_365011_16508472905020610.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블루웨일컴퍼니, JDC Route330 ICT 액셀러레이팅 프로그램 2기 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=358966</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 21 Apr 2022 07:08:14 GMT</pubDate>
             <content:encoded><![CDATA[성인 교육 콘텐츠 전문기업 데이원컴퍼니(대표 이강민)가 350억 원의 신규 투자 유치를 마무리했다고 21일 밝혔다.  이번 투자는 작년 12월 진행된 112억원 규모의 시리즈 C 라운드에 이은 후속 투자 유치로, 한..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_354882_16505022465016794.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저데이터, 클라우드 기반 고객 인게이지먼트 기업  신치(Sinch)와 파트너십 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=354846</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=354846</guid>
-            <pubDate>Thu, 21 Apr 2022 07:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[고객데이터플랫폼(CDP : Customer Data Platform) 글로벌 리더 트레저데이터(Treasure Data)는 클라우드 기반 음성, 영상, 메시징 서비스를 선도하는 글로벌 클라우드 컴퓨팅 기업 신치(Sinch)와 전략적 파트너..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_354846_16505018875016787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넛지헬스케어㈜, B2B 플랫폼 ‘팀워크’ 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=354757</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=354757</guid>
-            <pubDate>Thu, 21 Apr 2022 00:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[넛지헬스케어㈜(공동대표 나승균, 박정신)가 지자체 및 기업 사용자의 디지털 헬스케어 사업 운영 효율을 높이기 위해 대표 건강관리 앱 캐시워크에 B2B 플랫폼 `팀워크(TeamWalk)`를 론칭한다.   팀워크는 꾸준..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_354757_16505009425016759.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

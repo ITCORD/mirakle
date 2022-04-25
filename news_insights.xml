@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대형마트 매출 앞지른 편의점 업계, 모바일 앱 차별화로 MZ세대 공략]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=364996</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=364996</guid>
+            <pubDate>Mon, 25 Apr 2022 02:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[편의점 사업이 국내 오프라인 유통업계에 지각변동을 일으키고 있다. 지난 1월 산업통상자원부가 발표한 ‘21년 연간, ‘21년 12월 주요유통업체 매출 동향에 따르면, 2021년 온라인, 대형마트, 백화점, 편의점 등 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_364996_16508472645020596.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지점 수 줄이고 모바일 역량 강화, 4대 시중은행 모바일뱅킹 앱 비교]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=344453</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 01:53:28 GMT</pubDate>
             <content:encoded><![CDATA[지난 16일 통계청에서 2022년 1월 고용동향을 발표했다. 이에 따르면 올해 1월 고용률은 59.6%로 전년동월대비 2.2%P 상승했으며, 실업률은 4.1%로 전년동월대비 1.6%P 하락했다고 한다. 산업별로는 보건업 및 사회..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_163629_16454063064952571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전호겸 구독경제 저자 겸 교수 "소상공인 지역 구독 서비스 구축해야"]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=138895</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=138895</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[모든 것이 구독서비스화가 되어가고 있습니다. 소상공인에게는 돌파구가 필요합니다.  최근 매일경제와 인터뷰한 `구독경제:소유의 종말` 저자 전호겸 서울벤처대학원대학교(구독경제전략연구센터) 교수는 소상..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_138895_16449022114947195.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
