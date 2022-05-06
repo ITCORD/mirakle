@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 04:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_966448_16340227364813034.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[H2O호스피탈리티, 호반호텔앤리조트 예약과 객실관리 함께 디지털화 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=401565</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=401565</guid>
+            <pubDate>Fri, 06 May 2022 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[호텔산업 디지털전환 기업 H2O호스피탈리티(이하 H2O)가 호반호텔앤리조트의 예약자동화시스템(CRS)과 객실관리시스템(RMS)의 디지털 전환 작업을 함께 진행하고 있다고 6일 밝혔다.  호반호텔앤리조트는 리솜리조..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_401565_16518084005033716.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패스트벤처스, `FV START Program` 참가팀 모집 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=400644</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=400644</guid>
@@ -316,14 +324,6 @@
             <pubDate>Tue, 03 May 2022 03:48:27 GMT</pubDate>
             <content:encoded><![CDATA[HR테크 기업 ㈜원티드랩(376980, 대표 이복기)은 3일 공시를 통해 1분기 매출 110억원, 영업이익 12억4000만원을 기록했다고 밝혔다.   1분기 매출액은 전년 동기 대비 92.7% 증가하며, 창사 이래 최대 분기 실..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_391551_16515417235030178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누비랩, 카카오헬스케어와 개인 건강 관리 및 환경 개선 사업 구축을 위한 MOU 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=391501</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=391501</guid>
-            <pubDate>Tue, 03 May 2022 03:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[㈜누비랩(대표:김대훈)이 5월 2일 카카오 헬스케어와 개인의 건강 관리 및 환경 개선 시스템 구축을 위한 업무 협약을 체결 했다고 3일 밝혔다.  양사는 이번 업무 협약으로 국민의 식이 습관 개선을 통한 건강..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_391501_16515414535030163.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사회적 거리두기 전면 해제, 앱 이용 현황으로 살펴본 대중의 반응은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
