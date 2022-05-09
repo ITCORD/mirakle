@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 00:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행 산업 회복되나…빅데이터로 살펴본 여행 업계]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=406364</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=406364</guid>
+            <pubDate>Mon, 09 May 2022 00:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19의 발발 이후 지난 2년간 적자의 늪에 빠져있던 여행 업계에 훈풍이 불고 있다. 3월 중순을 기점으로 코로나19 유행 상황이 뚜렷한 감소세를 보이자 해외 입국자 격리, 사회적 거리두기, 특별여행주의보 등..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_406364_16520529015035877.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사회적 거리두기 전면 해제, 앱 이용 현황으로 살펴본 대중의 반응은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=387181</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 02:06:09 GMT</pubDate>
             <content:encoded><![CDATA[운전자든, 뚜벅이든, 스마트폰 사용자라면 대부분 지도 앱을 사용할 것이다. 지도 앱은 주행 정보, 빠른 길 안내 등 내비게이션 기능은 물론, 로드뷰 기능을 통해 내가 찾는 장소가 어떻게 생겼는지 사진으로 보여..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_211686_16466142614966774.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 집 마련, 부동산 투자도 모바일로! 부동산 앱 분석]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=187169</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=187169</guid>
-            <pubDate>Mon, 28 Feb 2022 02:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[최근 수년간 부동산 시장에 대한 관심이 꾸준히 높아지고 있다. 홀로서기를 시작하며 자취할 곳이 필요한 20대 사회초년생도, 결혼이나 내 집 마련을 목표로 열심히 일하는 30대 청년들도, 부동산 투자를 통한 노후..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_187169_16460098824959859.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
