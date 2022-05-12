@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이앤스토어, 프리시리즈A 23억원 규모 투자유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=420242</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=420242</guid>
+            <pubDate>Thu, 12 May 2022 06:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 QR/NFC 인프라 스타트업인 페이앤스토어가 23억원 규모의 프리 시리즈A 투자 유치에 성공했다고 12일 밝혔다. 이번 투자에는 메인스트리트 인베스트먼트, 스케일업벤처스 등이 참여했다.   페이앤스토어..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_420242_16523350095040224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 스타트업 소프트리에이아이, 시드 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=418462</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 11 May 2022 02:52:08 GMT</pubDate>
             <content:encoded><![CDATA[의류 제작 허브 플랫폼 ‘오슬’ 운영사인 위아더(WE ARE THE, 대표 조형일)가 중소벤처기업부에서 주관하는 민간투자 주도형 기술창업지원 프로그램인 ‘팁스’(TIPS, Tech Incubator Program for Startup)에 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_414809_16522308645038538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이오프, 65억 규모 시리즈 A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=414790</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=414790</guid>
-            <pubDate>Wed, 11 May 2022 02:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[하이퍼 캐주얼 게임 퍼블리셔인 먼데이오프(MondayOFF Inc., 대표 강혁준)가 지난 2021년 시드 투자 1년만에 추가로 65억 규모의 시리즈 A를 성공적으로 유치하였다고 밝혔다. 신규 투자자로 참여한 에이티넘인..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_414790_16522305185038526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
