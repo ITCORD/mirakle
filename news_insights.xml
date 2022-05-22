@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 17:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 역대급 호실적을 거둔 자동차보험사, 모바일 앱 이용 현황은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=429041</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=429041</guid>
+            <pubDate>Sun, 22 May 2022 17:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 18일, 금융감독원은 ‘2021년 자동차보험 사업실적 및 감독방향’을 발표했다. 금감원에 따르면 각 보험사의 원수보험료를 기준으로 지난해 자동차보험 시장의 규모는 사상 최초로 20조 원을 돌파, 꾸준한 증..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429041_16526601735043494.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행 산업 회복되나…빅데이터로 살펴본 여행 업계]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=406364</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Mar 2022 02:07:56 GMT</pubDate>
             <content:encoded><![CDATA[다양한 상품을 저렴하게 판매하는 대형마트는 남녀노소를 불문하고 누구나 즐겨 찾는다. 신선한 식재료, 각종 생활용품, TV와 냉장고 같은 가전제품까지, 대형마트에는 없는 물건이 없다. 뿐만이 아니다. 대부분의 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_233006_16472185824973679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초행길 찾아갈 때, 운전할 때 필수! 대표적인 국산 지도/내비게이션 앱 Top3 비교]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=211686</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=211686</guid>
-            <pubDate>Mon, 07 Mar 2022 02:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[운전자든, 뚜벅이든, 스마트폰 사용자라면 대부분 지도 앱을 사용할 것이다. 지도 앱은 주행 정보, 빠른 길 안내 등 내비게이션 기능은 물론, 로드뷰 기능을 통해 내가 찾는 장소가 어떻게 생겼는지 사진으로 보여..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_211686_16466142614966774.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

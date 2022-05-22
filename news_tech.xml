@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 17:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트레저데이터, 매일경제 교육센터와 오프라인 세미나 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=429272</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=429272</guid>
+            <pubDate>Sun, 22 May 2022 17:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[트레저데이터가 매일경제 교육센터와 함께 오프라인 세미나를 개최한다. 주제는 `성공적인 CX(고객경험)을 만들어 내는 데이터액션`으로 고영혁 트레저데이터 한국 대표가 직접 강연한다. 일시는 6월17일 오후1시3..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429272_16526621065043535.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이프스타일 디벨로퍼 ‘네오밸류’, 2022년 신입사원 채용]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=235917</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:17 GMT</pubDate>
             <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 `플래티어(대표 이상훈)`가 `메타버스 시대, 실감기술(XR)을 활용한 패션 비즈니스 흐름과 전망`이란 주제의 `2021 인사이트 리포트 3호`를 12일 발간했다.  최근 코로나19 유행이 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_966475_16340230754813057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이프로 자회사 전력반도체용 웨이퍼 본격 생산]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2021&amp;no=966448</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2021&amp;no=966448</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[2차전지 활성화 공정 장비 전문 기업 에이프로의 반도체 계열 자회사 에이프로세미콘이 MOCVD 장비 가동을 본격화했다고 밝혔다. 이 장비는 반도체 생산의 기초가 되는 에피웨이퍼를 생산하는 장비로, 8인치 양산..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_966448_16340227364813034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
