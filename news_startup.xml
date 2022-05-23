@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 06:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 07:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행권청년창업재단 10주년 "10년간 10만명 고용창출"]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=454056</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=454056</guid>
+            <pubDate>Mon, 23 May 2022 07:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[청년세대의 창업을 돕고 일자리 창출에 기여하고자 2012년 설립된 은행권청년창업재단(이사장 김광수)이 10주년을 맞았다. 은행권청년창업재단은 설립 당시 19개 금융기관이 은행권 사회공헌활동의 일환으로 약정..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_454056_16532831565051346.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아하, 표창원 AMA`(Ask Me Anything) 첫 단독 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=453255</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 20:10:57 GMT</pubDate>
             <content:encoded><![CDATA[디지털 문구 콘텐츠 플랫폼 ‘위버딩(WeBudding)’을 운영하고 있는 누트컴퍼니(대표이사 신동환)가 22억 원 규모의 프리 시리즈A 라운드 투자를 유치했다고 20일 밝혔다.  이번 투자에는 당근마켓, 클래스101, 숨..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_446732_16530252085049022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악어디지털, 문서전자화 솔루션 ‘파인웍스’ GS인증 1등급 획득]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=446630</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=446630</guid>
-            <pubDate>Sun, 22 May 2022 20:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 문서 전자화 기업 악어디지털(대표 김용섭) 이 문서 전자화 공정 관리 솔루션 ‘파인웍스(PineWorks)’가 한국정보통신기술협회(TTA)에서 GS 인증 1등급을 획득했다고 20일 밝혔다.  ‘파인웍스’는 문서 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_446630_16530244085048996.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
