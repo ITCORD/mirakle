@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 08:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_446732_16530252085049022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팬데믹으로 급성장한 배달앱, 엔데믹에 기세 꺾이나? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=453760</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=453760</guid>
+            <pubDate>Mon, 23 May 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 특수로 급성장하던 배달 시장이 엔데믹으로 제동이 걸렸다는 평가가 나오고 있다. 부쩍 따뜻해진 날씨와 사회적 거리두기의 전면 해제 등으로 억눌렸던 외식 수요가 폭발했으며, 이와 반대급부로 소비자들..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_453760_16532810625051284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지난해 역대급 호실적을 거둔 자동차보험사, 모바일 앱 이용 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=429041</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=429041</guid>
@@ -396,14 +404,6 @@
             <pubDate>Mon, 21 Mar 2022 02:24:23 GMT</pubDate>
             <content:encoded><![CDATA[서울중소벤처기업청은 지난 2월 ‘21년 유니콘기업 현황’을 발표했다. 이에 따르면 지난해 말 기준 국내의 유니콘 기업은 역대 최다인 18개사이며, 21년 들어 새롭게 탄생한 국내 유니콘 기업도 집계 이래 최다인 7..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_254824_16478229764981224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장 보러 어디로 가세요? 대형마트 브랜드 Top3 분석 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=233006</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=233006</guid>
-            <pubDate>Mon, 14 Mar 2022 02:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 상품을 저렴하게 판매하는 대형마트는 남녀노소를 불문하고 누구나 즐겨 찾는다. 신선한 식재료, 각종 생활용품, TV와 냉장고 같은 가전제품까지, 대형마트에는 없는 물건이 없다. 뿐만이 아니다. 대부분의 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_233006_16472185824973679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
