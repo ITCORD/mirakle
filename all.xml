@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 09:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 10:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[버추얼 유튜버, 메타버스 엔터산업의 미래를 보여주다. (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=474127</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=474127</guid>
+            <pubDate>Sun, 29 May 2022 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 8일 일본 도쿄거래소에 `애니칼라`라고 하는 다소 수상한 회사가 상장한다. 이 회사가 운영하는 연예기획사인 ‘니지산지’에는 수많은 개인 인플루언서들이 소속되어있다. 하지만 홈페이지에 들어가 보..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_474127_16538110595058571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트레저데이터, 매일경제 교육센터와 오프라인 세미나 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=429272</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=429272</guid>
@@ -236,14 +244,6 @@
             <pubDate>Wed, 16 Feb 2022 03:23:17 GMT</pubDate>
             <content:encoded><![CDATA[구독형 푸드테크 스타트업 브라운백커피(대표 손종수)가 40여 명 규모의 신입 및 경력사원을 공개 채용한다고 10일 밝혔다.   브라운백커피 이번 채용의 모집 직무는 ▲개발자(10명) ▲디자이너(3명) ▲PM/PO(4명)..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1128201_16391044444879292.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 메타버스 주제 인사이트 리포트 3호 발간 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2021&amp;no=966475</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2021&amp;no=966475</guid>
-            <pubDate>Wed, 16 Feb 2022 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 `플래티어(대표 이상훈)`가 `메타버스 시대, 실감기술(XR)을 활용한 패션 비즈니스 흐름과 전망`이란 주제의 `2021 인사이트 리포트 3호`를 12일 발간했다.  최근 코로나19 유행이 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_966475_16340230754813057.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이노스페이스, 국내 민간 첫 시험발사체 ‘한빛-TLV’ 실물 공개 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
