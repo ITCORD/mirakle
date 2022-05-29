@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 08:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이노스페이스, 국내 민간 첫 시험발사체 ‘한빛-TLV’ 실물 공개]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=474035</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=474035</guid>
+            <pubDate>Sun, 29 May 2022 08:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[우주 발사체 스타트업 ㈜이노스페이스(대표이사 김수종)가 국내 민간 첫 시험발사체 ‘한빛-TLV’ 실물을 공개했다. 실제 발사에 사용될 이동식 통합발사시스템을 청주사업장(흥덕구 강내면 소재)에 설치하고, 5월..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_474035_16538084795058537.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워크OS 스윗, 에스앤아이코퍼레이션에 업무혁신을 위한 솔루션 전사공급]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=469360</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 May 2022 02:57:19 GMT</pubDate>
             <content:encoded><![CDATA[친환경 모빌리티 충전 플랫폼 소프트베리(대표 박용희)가 청각 장애인 기사가 운전하는 택시 서비스 플랫폼 고요한 M을 운영사 코액터스(대표 송민표)와 업무 협약을 체결했다고 26일 밝혔다.  이번 협약에 따..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_464474_16535276215055305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤부네트워크, 60억원 규모 프리 시리즈 B 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=464407</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=464407</guid>
-            <pubDate>Thu, 26 May 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[종합 콘텐츠 스튜디오 밤부네트워크(대표 송윤근, 정다빈)가 60억 원 규모의 프리 시리즈B 투자를 유치했다고 26일 밝혔다. 이번 투자에는 교보증권, 펜타스톤인베스트먼트, 엘로힘파트너스가 새로운 투자자로 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_464407_16535270685055285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
