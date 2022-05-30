@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT 교육 플랫폼 인프런 2021년 실적 공개, “전년 대비 214% 이상 성장”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=476589</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=476589</guid>
+            <pubDate>Mon, 30 May 2022 06:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[IT 교육 플랫폼 인프런 운영사 인프랩(대표 이형주)이 2021년 실적을 발표했다.   2021년 매출은 128억원으로 전년 대비 214% 이상 증가한 수치다. 인프랩은 성장의 주요인으로 기업교육 수요 증가를 꼽았다. ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_476589_16538895495059468.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[`이세계아이돌` 소속 MCN 패러블엔터, 메타버스 콘텐츠 공모전]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475684</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[커뮤니티 기반 오디오 크리에이터 이코노미 서비스 ‘흐름 (HREUM de salon)’을 운영하는 나이비가 콘텐츠테크놀로지스로부터 프리시리즈A 투자를 유치했다. 콘텐츠테크놀로지스는 콘텐츠 지식재산권(IP) 기반 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475180_16538713235059109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그램퍼스, 100억원 규모 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475128</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475128</guid>
-            <pubDate>Mon, 30 May 2022 00:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 멀티플랫폼 게임 기업인 그램퍼스(대표 김지인)는 지엑스씨(GXC), 카우라(Kaura) 등의 엑셀러레이터 및 유수의 투자사를 통해서 총100억원 규모의 시리즈 B 투자를 유치했다고 30일 밝혔다. 그램퍼스는 2..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475128_16538706745059092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
