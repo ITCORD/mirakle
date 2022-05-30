@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 00:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소셜 오디오 SNS ‘흐름’ 운영사 나이비, 프리시리즈 A 투자유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475180</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475180</guid>
+            <pubDate>Mon, 30 May 2022 00:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티 기반 오디오 크리에이터 이코노미 서비스 ‘흐름 (HREUM de salon)’을 운영하는 나이비가 콘텐츠테크놀로지스로부터 프리시리즈A 투자를 유치했다. 콘텐츠테크놀로지스는 콘텐츠 지식재산권(IP) 기반 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475180_16538713235059109.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그램퍼스, 100억원 규모 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475128</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=475128</guid>
+            <pubDate>Mon, 30 May 2022 00:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 멀티플랫폼 게임 기업인 그램퍼스(대표 김지인)는 지엑스씨(GXC), 카우라(Kaura) 등의 엑셀러레이터 및 유수의 투자사를 통해서 총100억원 규모의 시리즈 B 투자를 유치했다고 30일 밝혔다. 그램퍼스는 2..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475128_16538706745059092.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이노스페이스, 국내 민간 첫 시험발사체 ‘한빛-TLV’ 실물 공개]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=474035</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 26 May 2022 02:57:19 GMT</pubDate>
             <content:encoded><![CDATA[전국 100만 사업장에 도입된 경영관리 서비스 캐시노트를 운영하는 한국신용데이터(KCD)는 ‘급여명세서 간단 작성’ 기능을 출시했다고 26일 밝혔다.   급여명세서 발급은 지난해 11월부터 소상공인, 자영업자..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_464803_16535306795055430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키즈 전문 플랫폼 ‘애기야가자’, 구글 2022년 창구 프로그램 4기 1위 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=464583</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=464583</guid>
-            <pubDate>Thu, 26 May 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[애기야가자(대표 오세정)rk 구글플레이와 중소벤처기업부가 국내 앱·게임 개발사 콘텐츠 고도화와 해외 시장 진출을 지원하는 2022년 창구 프로그램 4기 1위에 올랐다고 25일 밝혔다.  ‘창구프로그램’은 2019..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_464583_16535287685055370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트베리, `고요한M` 운영사 코액터스와 업무 협약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=464474</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=464474</guid>
-            <pubDate>Thu, 26 May 2022 02:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[친환경 모빌리티 충전 플랫폼 소프트베리(대표 박용희)가 청각 장애인 기사가 운전하는 택시 서비스 플랫폼 고요한 M을 운영사 코액터스(대표 송민표)와 업무 협약을 체결했다고 26일 밝혔다.  이번 협약에 따..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_464474_16535276215055305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
