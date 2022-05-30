@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 00:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 03:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계인들이 모이는 소통의 장, 소셜네트워크(SNS) 앱 최근 이용 현황]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=475464</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=475464</guid>
+            <pubDate>Mon, 30 May 2022 03:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰의 보급 이래로 현대인들이 하루 중 인터넷에서 보내는 시간은 갈수록 늘어나고 있다. 우리는 하루에도 수 차례 스마트폰을 통해 인터넷 쇼핑을 하거나, 뉴스를 읽고 친한 친구들과 대화를 나눈다. 동영상 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475464_16538745625059213.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹으로 급성장한 배달앱, 엔데믹에 기세 꺾이나?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=453760</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 05:11:50 GMT</pubDate>
             <content:encoded><![CDATA[국내 기름값이 9주 연속 상승세를 이어가며 운전자들의 부담이 커지고 있다. 한국석유공사 유가 정보 사이트 오피넷에 따르면 전국 주유소의 휘발유 평균 판매 가격은 3월 15일부터 리터당 2,000원대를 넘겼고, 비..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_278661_16484420774989278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업가치 1조원 이상, 2021 신규 유니콘 기업 7개사 앱 분석]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=254824</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=254824</guid>
-            <pubDate>Mon, 21 Mar 2022 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[서울중소벤처기업청은 지난 2월 ‘21년 유니콘기업 현황’을 발표했다. 이에 따르면 지난해 말 기준 국내의 유니콘 기업은 역대 최다인 18개사이며, 21년 들어 새롭게 탄생한 국내 유니콘 기업도 집계 이래 최다인 7..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_254824_16478229764981224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
