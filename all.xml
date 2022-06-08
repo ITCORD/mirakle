@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1128201_16391044444879292.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[음악 플랫폼으로 글로벌 진출을 꿈꾸는 미디어스코프 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=502719</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=502719</guid>
+            <pubDate>Wed, 08 Jun 2022 08:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[“우리나라 최초로 음악 플랫폼으로 글로벌 진출하는 회사를 만들고 싶다.”  미디어스코프의 금기훈 대표의 포부다. 금기훈 대표는 디지털 음악의 1세대이자 지금까지 디지털 음악을 하고 있는 산증인이라고 자..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_502719_16546701685068596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콜로세움, 국제물류산업대전(KOREA MAT2022)참가 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=502300</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=502300</guid>
@@ -316,14 +324,6 @@
             <pubDate>Wed, 08 Jun 2022 00:39:25 GMT</pubDate>
             <content:encoded><![CDATA[로봇용 핵심 센서•솔루션 개발 스타트업 에이딘로보틱스가 45억원 규모의 시리즈A 투자를 유치했다고 8일 밝혔다. 에이딘로보틱스는 이번 투자를 기반으로 시설 확충과 인재 확보에 박차를 가할 계획이다...]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_500779_16546477695068090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알지노믹스, 372억원 규모 시리즈C 투자유치 확정 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=500485</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=500485</guid>
-            <pubDate>Wed, 08 Jun 2022 00:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[리보핵산(RNA) 기반 유전자 치료제 신약 개발 기업인 알지노믹스가 372억원의 시리즈C 투자유치를 완료했다고 7일 밝혔다. 이번 투자에는 산업은행, AON 인베스트먼트, 파트너스 인베스트먼트, IBK 캐피탈, 쿼드벤..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_500485_16546420445067939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계인들이 모이는 소통의 장, 소셜네트워크(SNS) 앱 최근 이용 현황 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
