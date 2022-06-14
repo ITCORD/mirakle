@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 03:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 04:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더인벤션랩, DS네트웍스와 공동 투자연계형 IR데이 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=519048</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=519048</guid>
+            <pubDate>Tue, 14 Jun 2022 04:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업 초기투자기관이자 팁스운영사인 더인벤션랩(대표 김진영)이 국내 1위 민간 시행사인 DS네트웍스 및 서울산업진흥원(SBA)과 공동으로 라이프 스타일 혁신분야 6개 초기 기업을 선발하여, IR데이(넥스트유..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_519048_16551769015074728.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[센스톤, KDB 산업은행 50억원 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=518078</link>
@@ -77,14 +85,6 @@
             <pubDate>Mon, 13 Jun 2022 04:33:07 GMT</pubDate>
             <content:encoded><![CDATA[렌트카 가격 비교 1등 앱 카모아(대표 홍성주)가 1개월 단위로 이용 가능한 ‘카모아 월구독’ 서비스를 출시했다. 신차 출고 지연 및 중고차 가격 상승에 따른 대안 마련과 함께 증가하고 있는 중단기 렌트 수..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_514875_16550826675073389.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨처플레이, 150억 규모 프리IPO 펀딩 마무리]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=514704</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=514704</guid>
-            <pubDate>Mon, 13 Jun 2022 04:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[퓨처플레이(대표 류중희)가 기업공개(IPO)를 앞두고 150억 원 규모의 프리IPO(상장 전 지분 투자) 펀딩을 마무리했다고 13일 밝혔다. 이번 프리IPO에서 인정받은 기업 가치는 2,000억원에 이른다.  이번 투자에..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_514704_16550806925073336.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
