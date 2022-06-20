@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 08:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와이낫미디어, BTS 타이니탄 핵심 멤버들이 설립한 네임엑스엔터에 지분 투자]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=537735</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=537735</guid>
+            <pubDate>Mon, 20 Jun 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[와이낫미디어가 캐릭터&amp;애니메이션 IP 스튜디오 네임엑스엔터테인먼트(이하 네임엑스엔터)에 지분투자를 하며 2대 주주의 지위를 확보했다고 20일 밝혔다.  와이낫미디어는 이번 투자를 통해 웹드라마에서 TV 및..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_537735_16557030315081257.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[씨젠의료재단-프로메디우스, 글로벌 동반 성장을 위한 업무협약(MOU) 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=536846</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Jun 2022 00:37:51 GMT</pubDate>
             <content:encoded><![CDATA[코딩 교육 스타트업 팀스파르타가 개발자 전문 채용 플랫폼 ‘Port99(포트99)’를 정식 론칭 한다고 20일 밝혔다.                                                        	  Port99는 복잡한 절차 없이 개발 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_536393_16556852215080877.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스윗, 넥스트라이즈 2022서  ‘글로벌 B2B 시장의 고투마켓 전략’에 대해 발표]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=530401</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=530401</guid>
-            <pubDate>Fri, 17 Jun 2022 02:57:12 GMT</pubDate>
-            <content:encoded><![CDATA[직원생산성을 위한 기업의 디지털 전환을 돕는 글로벌 SaaS 기업 스윗테크놀로지스(대표 이주환)가 산업은행, 무역협회, 국가과학기술연구회, 벤처기업협회, 한국벤처캐피탈협회가 공동주최하는 ‘넥스트라이즈 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_530401_16554296605078396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
