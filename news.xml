@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 00:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀스파르타, 개발자 채용 전문 플랫폼  ‘Port99’ 정식 론칭]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=536393</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=536393</guid>
+            <pubDate>Mon, 20 Jun 2022 00:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[코딩 교육 스타트업 팀스파르타가 개발자 전문 채용 플랫폼 ‘Port99(포트99)’를 정식 론칭 한다고 20일 밝혔다.                                                        	  Port99는 복잡한 절차 없이 개발 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_536393_16556852215080877.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스윗, 넥스트라이즈 2022서  ‘글로벌 B2B 시장의 고투마켓 전략’에 대해 발표]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=530401</link>
@@ -77,14 +85,6 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=526990</guid>
             <pubDate>Thu, 16 Jun 2022 02:54:27 GMT</pubDate>
             <content:encoded><![CDATA[취업 플랫폼 잡코리아에 따르면 구직자 10명 중 7명이 스타트업에 취업할 의향이 있는 것으로 나타났다. 응답자들은 ‘기업의 높은 성장 가능성’, ‘수평적인 조직문화’, ‘복지제도’ 등을 스타트업 취업의 장점..]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비플러스랩, ‘오율의원’과 협력해 만성질환 및 비만 치료 강화]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=526847</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=526847</guid>
-            <pubDate>Thu, 16 Jun 2022 02:54:27 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 의료솔루션 기업 비플러스랩(대표 정훈재•허기준)이 지난 15일 비플러스랩 컨퍼런스홀에서 오율의원(대표원장 오형규)과 만성질환 및 비만 치료에 대해 상호 교류와 협력을 위한 업무협약(MOU)을 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_526847_16553447395077192.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
