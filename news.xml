@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코코지, 국내 대표 캐릭터사들과 IP 계약 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=545866</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=545866</guid>
+            <pubDate>Wed, 22 Jun 2022 05:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[키즈 오디오 콘텐츠 스타트업 코코지(대표 박지희)가 국내 대표 애니메이션 제작사 ‘로이비쥬얼’과 ‘퍼니플럭스’ 양사와 캐릭터 지식재산권(IP)에 대한 라이선스 계약을 체결했다.  이번 계약은 핑크퐁과 아..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_545866_16558729335083584.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더브이플래닛, 다음달 온라인 마케팅 자동화 플랫폼 ‘브이플레이트’ 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=545180</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Jun 2022 03:00:01 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 앱이 인기를 끌고 있는 가운데 AI 음성인식 영어회화 서비스 스픽(대표: 코너 니콜라이 즈윅)이 대규모 투자 유치에 성공했다고 밝혔다.  스픽이 이번에 유치한 투자는 250억 원 규모의 시리즈 A ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_544424_16558576855083272.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아시스비즈니스, `넥스트라이즈 2022, 서울` 참가해 매출 예측 알고리즘 기술 소개]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=541857</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=541857</guid>
-            <pubDate>Tue, 21 Jun 2022 08:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[상업용 부동산 가치평가 스타트업 오아시스비즈니스(대표 문욱)가 16일부터 이틀 간 서울 삼성동 코엑스에서 열린 ‘넥스트라이즈(NextRise) 2022, 서울’에 참가해 인공지능 매출 예측 알고리즘 기술을 소개하..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_541857_16557906265082464.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
