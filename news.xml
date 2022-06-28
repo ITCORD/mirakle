@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 13:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 14:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베스핀글로벌, 마이크로서비스 개발과 운영을 쉽고 빠르게 지원하는 트랜잭션 관리 솔루션 ‘MSA Maker’ 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=566044</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=566044</guid>
+            <pubDate>Tue, 28 Jun 2022 14:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)이 마이크로 서비스 개발과 운영을 지원하는 분산 트랜잭션 관리 솔루션 ‘MSA Maker’를 출시한다고 28일 밝혔다.  ‘MSA Maker’는 마이크로서비스(M..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_566044_16564002905089943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엠디톡, 재외국민 비대면 진료 서비스 도입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=566005</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Jun 2022 07:07:23 GMT</pubDate>
             <content:encoded><![CDATA[수술 인공지능(AI) 플랫폼 기업 휴톰은 아주대학교병원(이하 아주대병원)과 ‘AI 수술 보조 내비게이션 RUS의 상용화 및 사업화를 위한 업무협약(MOU)을 체결했다’고 28일 밝혔다. 이번 MOU 체결로 휴톰은 신속..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_564971_16563917225089721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고피자, 하나은행과 예비 창업주 및 기존 가맹점주 대상 금융지원을 위한 업무 협약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=564943</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=564943</guid>
-            <pubDate>Tue, 28 Jun 2022 07:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[1인 피자 브랜드 고피자(대표 임재원)는 예비 창업주 및 기존 가맹점주의 안정적인 매장 운영과 지속 성장을 지원하기 위해 하나은행과 금융 지원을 위한 업무 협약을 체결했다고 밝혔다.   이번 업무 협약을 통..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_564943_16563912705089708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
