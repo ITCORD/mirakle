@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 10:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 11:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대 최대 고용률 기록…채용 공고 앱의 변화는?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=585477</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=585477</guid>
+            <pubDate>Mon, 04 Jul 2022 11:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[통계청은 ‘2022년 5월 고용동향’을 통해 지난 5월 63%의 고용률을 기록했다고 밝혔다. 이는 관련 통계를 작성하기 시작한 1982년 7월 이후 최고 수치다. 역대 최대 고용률 기록에 국내 대표 취업 플랫폼 앱 사용자..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_585477_16569171015096122.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펜데믹 수혜 입은 모바일게임, 엔데믹 전환이 끼친 영향은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=559510</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Apr 2022 02:46:59 GMT</pubDate>
             <content:encoded><![CDATA[편의점 사업이 국내 오프라인 유통업계에 지각변동을 일으키고 있다. 지난 1월 산업통상자원부가 발표한 ‘21년 연간, ‘21년 12월 주요유통업체 매출 동향에 따르면, 2021년 온라인, 대형마트, 백화점, 편의점 등 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_364996_16508472645020596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지점 수 줄이고 모바일 역량 강화, 4대 시중은행 모바일뱅킹 앱 비교]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=344453</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=344453</guid>
-            <pubDate>Mon, 18 Apr 2022 06:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[전국 은행의 점포 감소 추세가 지속되고 있다. 금융감독원이 지난달 31일 발표한 보도자료에 따르면 ‘21년 말 전국 은행의 점포 수는 전년 말에 비해 311개 감소한 6,094개로 집계됐으며, 은행 점포 수의 감소 폭도..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_344453_16502601095013142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
