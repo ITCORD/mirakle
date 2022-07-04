@@ -4,9 +4,16 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 23:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음성 대화형 인터페이스 개발사 `와들,` 팁스(TIPS) 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=585850</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=585850</guid>
+            <pubDate>Mon, 04 Jul 2022 23:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[음성 대화형 쇼핑 ‘소리마켓’ 개발사 ‘와들(대표 박지혁)’이 중소벤처기업부의 팁스(TIPS) 프로그램에 선정됐다.  2019년 설립된 와들은 ‘누구나 자유롭게 대화로 쇼핑하는’ 세상을 만드는 것을 목표로 음성 ..]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[레몬헬스케어, 블록체인 시스템 ‘레몬체인’ 도입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=583840</link>
@@ -61,7 +68,7 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=583415</guid>
             <pubDate>Mon, 04 Jul 2022 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[E-모빌리티 충전 서비스 허브 플랫폼 그린도트(대표 이화진)가 국내 최대 상업용 부동산 종합 서비스 기업인 젠스타메이트(사장 이창욱)와 손을 잡고 모빌리티 전기 충전 플랫폼 구축을 추진한다.   그린도트는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_583415_16568957705095668.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_583415_16569200915095668.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로그래머스, 데이터 사이언스 과제 테스트 무료 체험 기업 모집]]></title>
@@ -78,14 +85,6 @@
             <pubDate>Sat, 02 Jul 2022 22:11:51 GMT</pubDate>
             <content:encoded><![CDATA[세종텔레콤 컨소시엄(세종텔레콤, 비브릭(B-BRICK), 이지스자산운용, 디에스네트웍스자산운용)의 부동산 간편 투자 앱 `비브릭(BBRIC)’이 공모 상장 1호 건물 `초량 MDM타워’의 첫 분배금을 1일 지급한다.  투..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_579745_16566666155094156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 헬스케어 스타트업 모노랩스, 125억원 규모 시리즈B 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=577475</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=577475</guid>
-            <pubDate>Sat, 02 Jul 2022 22:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 헬스케어 스타트업 모노랩스(대표 소태환)가 2200억원 이상의 기업가치를 인정받으며 125억원 규모의 시리즈B 투자를 유치했다고 1일 밝혔다.  이번 투자에는 기존 투자사 메인스트리트인베스트먼트와 신..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_577475_16566398205093375.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
