@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 09:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 10:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1136066_16394719354883693.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[니도컴퍼니, 오피스 공유 브랜드 `세컨라운드` 출범 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=601914</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=601914</guid>
+            <pubDate>Fri, 08 Jul 2022 10:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[일과 삶을 위한 공간 전문 서비스 기업인 니도컴퍼니(대표이사 박정준)가 IoT 기반의 하이브리드 오피스 ‘세컨라운드’ 브랜드로 코로나로 인해 빠르게 변화 중인 오피스 시장에 진출한다.  ‘일이 되게 하는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_601914_16572574735101218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에이펀인터렉티브, 트위치 공동창업자 케빈 린(Kevin Lin)으로부터 전략적 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=600434</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=600434</guid>
@@ -316,14 +324,6 @@
             <pubDate>Thu, 07 Jul 2022 21:08:42 GMT</pubDate>
             <content:encoded><![CDATA[발달 육아 전문 스타트업 올디너리매직(대표 허청아)은 동남아시아 최대 이커머스 플랫폼 ‘쇼피 (Shopee)’에 공식 브랜드관을 열고 해외 진출 공략을 본격화한다고 밝혔다.  유아동 발달 맞춤형 놀잇감을 선보..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_596218_16571550265099686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏폼 오리지널 오디오 콘텐츠 나디오, KT 기가지니에 ‘공감 에세이’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=596152</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=596152</guid>
-            <pubDate>Thu, 07 Jul 2022 21:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 형식의 힐링 오디오 콘텐츠 플랫폼 나디오의 이어가다(주)(공동대표: 최자인, 박현아)가 KT 인공지능 스피커 기가지니에 탑재됐다.   나디오는 일상, 위로, 지혜, 공감, 여행, 직업 등 다양한 주제의 일상 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_596152_16571751975099675.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 최대 고용률 기록…채용 공고 앱의 변화는? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
