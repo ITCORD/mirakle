@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 13:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어메이즈VR, SM엔터와 글로벌 VR 콘서트 ‘조인트 벤처’ 설립]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=610245</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=610245</guid>
+            <pubDate>Mon, 11 Jul 2022 14:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[VR 콘서트 플랫폼 기업 어메이즈VR 이 SM엔터테인먼트(이하 SM)와 글로벌 VR 콘서트 제작사 조인트 벤처인 `스튜디오 A (가칭)’를 설립한다. 조인트 벤처는 어메이즈VR이 보유한 VR 콘서트 제작 도구를 기반으로 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_610245_16575476615104278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펀블, 부동산 조각투자 첫 공모 준비 완료...새로운 대형 자산 투자법 제시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=609580</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 03:02:36 GMT</pubDate>
             <content:encoded><![CDATA[최근 ‘크리에이터 이코노미’(Creator Economy, 창작자 경제)가 새로운 경제 형태로 급부상한 가운데, 크리에이터만을 위한 새로운 소통의 장이 마련된다.   마플코퍼레이션은 크리에이터를 위한 신개념 커뮤니..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_607283_16575023185103388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크레파스솔루션, BNPL 대안신용평가 고도화를 위해 리체와 업무협약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=607194</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=607194</guid>
-            <pubDate>Mon, 11 Jul 2022 03:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내 1호 대안신용평가사인 크레파스솔루션(대표 김민정)이 BNPL 핀테크 기업 리체(대표 김홍규)와 손을 맞잡았다.  크레파스솔루션은 리체와 함께 ‘BNPL 서비스를 위한 대안신용평가모델 고도화’를 목표로 협..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_607194_16575018085103371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
