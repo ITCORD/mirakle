@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 00:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“새해 목표, 잘 지키고 계신가요?”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=607417</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=607417</guid>
+            <pubDate>Mon, 11 Jul 2022 03:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사람들은 새해를 맞이하며 한 해 이루고 싶은 계획을 세운다. 작년보다 좀 더 나은 삶을 살기 위한 ‘새해 목표’ 말이다. 신년의 굳은 결심이 2022년의 절반을 보낸 현재까지도 잘 지켜지고 있는지 데이터 분..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_607417_16575034225103405.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대 최대 고용률 기록…채용 공고 앱의 변화는?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=585477</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 03:18:17 GMT</pubDate>
             <content:encoded><![CDATA[지난 15일, 김부겸 국무총리는 정부서울청사에서 열린 코로나19 중앙재난안전대책본부 회의를 통해 4월 18일부로 다중이용시설 영업시간 제한 및 사적 모임 인원 제한을 전면 해제한다고 발표했다. 2020년 3월, 코..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_387181_16514528485028694.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대형마트 매출 앞지른 편의점 업계, 모바일 앱 차별화로 MZ세대 공략]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=364996</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=364996</guid>
-            <pubDate>Mon, 25 Apr 2022 02:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[편의점 사업이 국내 오프라인 유통업계에 지각변동을 일으키고 있다. 지난 1월 산업통상자원부가 발표한 ‘21년 연간, ‘21년 12월 주요유통업체 매출 동향에 따르면, 2021년 온라인, 대형마트, 백화점, 편의점 등 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_364996_16508472645020596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
