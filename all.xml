@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 10:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_630372_16581045715110619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[22년 상반기 백화점 업계 빅데이터 분석 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=631185</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=631185</guid>
+            <pubDate>Mon, 18 Jul 2022 11:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[백화점 업계는 약 2년 만에 이뤄진 거리 두기 해제에 따라 올 상반기 손님 맞이에 분주한 모습을 보였다. 실제 시장조사업체에 따르면 22년 2분기 국내 3대 백화점(롯데·현대·신세계)의 매출액은 전년 동기 대비 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_631185_16581111175110763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“새해 목표, 잘 지키고 계신가요?” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=607417</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=607417</guid>
@@ -396,14 +404,6 @@
             <pubDate>Mon, 09 May 2022 00:40:16 GMT</pubDate>
             <content:encoded><![CDATA[코로나19의 발발 이후 지난 2년간 적자의 늪에 빠져있던 여행 업계에 훈풍이 불고 있다. 3월 중순을 기점으로 코로나19 유행 상황이 뚜렷한 감소세를 보이자 해외 입국자 격리, 사회적 거리두기, 특별여행주의보 등..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_406364_16520529015035877.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사회적 거리두기 전면 해제, 앱 이용 현황으로 살펴본 대중의 반응은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=387181</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=387181</guid>
-            <pubDate>Mon, 02 May 2022 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 15일, 김부겸 국무총리는 정부서울청사에서 열린 코로나19 중앙재난안전대책본부 회의를 통해 4월 18일부로 다중이용시설 영업시간 제한 및 사적 모임 인원 제한을 전면 해제한다고 발표했다. 2020년 3월, 코..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_387181_16514528485028694.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
