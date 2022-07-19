@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RP, 아이유 증강현실(AR) 포토카드 반올림피자에 공급]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=636105</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=636105</guid>
+            <pubDate>Tue, 19 Jul 2022 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[로봇벽화 및 공공 경관개선 전문기업 RP가 의외의 제품으로 성공을 거두고 있다. 바로 AR(증강현실) 기술을 활용한 포토카드다. RP는 벽화를 전용 스마트폰 앱으로 찍으면 AR과 연결되는 기술을 가지고 있는데 이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_636105_16582132695112281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장마•폭염 싫어요… 사무실에서 점심먹는 직장인들 늘었다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=635085</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Jul 2022 05:01:56 GMT</pubDate>
             <content:encoded><![CDATA[중소벤처기업부의 팁스(TIPS) 운영사인 뉴패러다임인베스트먼트(대표 배상승, 박제현)가 에듀테크 스타트업 ‘에듀템’(edutem, 공동대표 신정훈, 김진숙)에 프리A(Pre-A) 투자했다고 19일 밝혔다.  에듀템은 ‘..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_633743_16581890755111654.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4060 웹소설 구독 플랫폼 ‘텍스트소다’ 운영사  ‘디엘피스튜디오’, 매쉬업엔젤스로부터 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=633694</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=633694</guid>
-            <pubDate>Tue, 19 Jul 2022 05:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[웹소설 구독 플랫폼 ‘텍스트소다’ 운영사 ‘디엘피스튜디오(대표 서현철)’가 초기 스타트업 전문 투자사 ‘매쉬업엔젤스(대표파트너 이택경)’로부터 초기 투자를 유치했다.   디엘피스튜디오는 지난해 3월에..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_633694_16581886615111648.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
