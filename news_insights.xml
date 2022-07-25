@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 00:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[高물가에 한 푼이라도…전 세대 리워드 앱 ‘주목’]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=652534</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=652534</guid>
+            <pubDate>Mon, 25 Jul 2022 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[30대 직장인 김예지 씨는 최근 회사 탕비실의 음식이나 단백질바로 점심을 간단히 해결하고 있다. ‘100만 원으로 한 달 살기’를 위해 식비 지출을 줄인 것이다. 그는 목표 달성을 위해 몇 년 전 호기심에 설치해 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_652534_16587141015117757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[22년 상반기 백화점 업계 빅데이터 분석]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=631185</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 17:20:16 GMT</pubDate>
             <content:encoded><![CDATA[지난달 18일, 금융감독원은 ‘2021년 자동차보험 사업실적 및 감독방향’을 발표했다. 금감원에 따르면 각 보험사의 원수보험료를 기준으로 지난해 자동차보험 시장의 규모는 사상 최초로 20조 원을 돌파, 꾸준한 증..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429041_16526601735043494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행 산업 회복되나…빅데이터로 살펴본 여행 업계]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=406364</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=406364</guid>
-            <pubDate>Mon, 09 May 2022 00:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19의 발발 이후 지난 2년간 적자의 늪에 빠져있던 여행 업계에 훈풍이 불고 있다. 3월 중순을 기점으로 코로나19 유행 상황이 뚜렷한 감소세를 보이자 해외 입국자 격리, 사회적 거리두기, 특별여행주의보 등..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_406364_16520529015035877.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
