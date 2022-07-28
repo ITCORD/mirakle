@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디캠프, 에너지를 주제로 한 7월 디데이 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=667549</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=667549</guid>
+            <pubDate>Thu, 28 Jul 2022 10:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(상임이사 김영덕)가 7월 디데이를 28일 선릉 디캠프 6층 다목적홀에서 개최했다.   7월 디데이는 한국전력공사(대표이사 정승일), 한국에너지공과대학교(총장 윤의준)와 신기술 에너..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_667549_16590010955122079.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모빌리티 기반 여행 서비스 플랫폼 `제시카`, 오렌지렌트카와 MOU 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=666674</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Jul 2022 00:44:35 GMT</pubDate>
             <content:encoded><![CDATA[IT 인재양성 스타트업 코드스테이츠(대표 김인기)가 서울핀테크랩과 ‘스타트업의 생태계 활성화를 지원하기 위한 업무협약(MOU)’을 체결했다고 28일 밝혔다.  양사는 서울핀테크랩 입주기업 성장 촉진을 위해 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_664272_16589687715121152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카사 부티크호텔 르릿, 첫 배당금 지급]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=664264</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=664264</guid>
-            <pubDate>Thu, 28 Jul 2022 00:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[부동산디지털수익증권(DABS, 이하 댑스) 업계 최대 거래소 카사가 부티크호텔 르릿의 첫 배당금을 29일 지급한다.  부티크호텔 르릿의 첫 배당금은 1댑스당 45원(세전)으로, 배당 기준일(6월 30일) 장 마감 시까..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_664264_16589685865121150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
