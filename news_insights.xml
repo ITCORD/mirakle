@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온 국민이 주목하는 부동산 시장…관련 앱 현황은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=675877</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=675877</guid>
+            <pubDate>Mon, 01 Aug 2022 08:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[인간 생활의 기본 요소 중 하나인 주거 문제는 정부가 해결해야 할 가장 중요한 현안으로 여겨진다. 문재인 전 대통령은 집값 상승, 투기 등의 문제가 이어진 데에 정책 실패를 언급한 바 있으며, 더불어민주당은 제..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_675877_16593298815124624.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[高물가에 한 푼이라도…전 세대 리워드 앱 ‘주목’]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=652534</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 May 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 특수로 급성장하던 배달 시장이 엔데믹으로 제동이 걸렸다는 평가가 나오고 있다. 부쩍 따뜻해진 날씨와 사회적 거리두기의 전면 해제 등으로 억눌렸던 외식 수요가 폭발했으며, 이와 반대급부로 소비자들..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_453760_16532810625051284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 역대급 호실적을 거둔 자동차보험사, 모바일 앱 이용 현황은?]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=429041</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=429041</guid>
-            <pubDate>Sun, 22 May 2022 17:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 18일, 금융감독원은 ‘2021년 자동차보험 사업실적 및 감독방향’을 발표했다. 금감원에 따르면 각 보험사의 원수보험료를 기준으로 지난해 자동차보험 시장의 규모는 사상 최초로 20조 원을 돌파, 꾸준한 증..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429041_16526601735043494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
