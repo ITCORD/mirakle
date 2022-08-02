@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 05:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메디프레소, 티믹솔로지 전문기업 에버티와 MOU 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=679401</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=679401</guid>
+            <pubDate>Tue, 02 Aug 2022 05:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 홈카페 시장을 선도하는 푸드테크 스타트업 메디프레소(대표 김하섭)가 독보적인 티믹솔로지(TEA MIXOLOGY) 기술력을 갖춘 차 전문 선도기업 에버티(대표 송우준)와 국내외 차시장을 겨냥해 다양한 형태의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_679401_16594161865125677.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GSMA, 2일 싱가포르에서 "Building Digital Nations" 주제로 `Mobile 360 Asia Pacific` 개최]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=678659</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Aug 2022 03:29:59 GMT</pubDate>
             <content:encoded><![CDATA[빅데이터 마케팅 솔루션 기업 스토어링크(대표 정용은)가 스타트업 육성 프로그램 `신한 인큐베이션’ 9기에 선발됐다고 2일 밝혔다.  ‘신한 인큐베이션’은 스타트업의 투자유치 및 비즈니스 역량 강화를 지원..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_678372_16594026225125463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료 AI 로봇기업 `코넥티브`, 시드 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=678341</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=678341</guid>
-            <pubDate>Tue, 02 Aug 2022 03:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[정형외과 진료 프로세스 효율화 및 자동화를 도와주는 코넥티브가 카카오벤처스로부터 시드 투자를 유치했다고 2일 밝혔다. 카카오벤처스와 슈미트가 이번 라운드에 참여했으며 금액은 비공개다. 코넥티브는 내..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_678341_16594024465125451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
