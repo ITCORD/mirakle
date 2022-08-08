@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름과 함께 잦아진 소나기…날씨 앱 사용 현황은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=695865</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=695865</guid>
+            <pubDate>Mon, 08 Aug 2022 06:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 시작과 함께 소나기가 잦아졌다. 편의점 이마트24는 지난 6월 우산 매출이 전년 동기 대비 45% 증가했다고 밝힌 바 있다. 뜨거운 지열과 찬 공기가 만나 대기가 불안정해지며 하루에도 수차례 비가 오락가락..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_695865_16599202825130892.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온 국민이 주목하는 부동산 시장…관련 앱 현황은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=675877</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 03:02:29 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰의 보급 이래로 현대인들이 하루 중 인터넷에서 보내는 시간은 갈수록 늘어나고 있다. 우리는 하루에도 수 차례 스마트폰을 통해 인터넷 쇼핑을 하거나, 뉴스를 읽고 친한 친구들과 대화를 나눈다. 동영상 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475464_16538745625059213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹으로 급성장한 배달앱, 엔데믹에 기세 꺾이나?]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=453760</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=453760</guid>
-            <pubDate>Mon, 23 May 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 특수로 급성장하던 배달 시장이 엔데믹으로 제동이 걸렸다는 평가가 나오고 있다. 부쩍 따뜻해진 날씨와 사회적 거리두기의 전면 해제 등으로 억눌렸던 외식 수요가 폭발했으며, 이와 반대급부로 소비자들..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_453760_16532810625051284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
