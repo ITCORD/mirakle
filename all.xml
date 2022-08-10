@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,13 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2021/12/image_readtop_2021_1221029_16408435764900729.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매출과 투자로 성장 증명한 스타트업 ‘눈길’ (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=705264</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=705264</guid>
+            <pubDate>Wed, 10 Aug 2022 07:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계적으로 불어닥친 고금리, 고물가 여파로 투자심리가 위축될 거란 전망이다. 장기화된 경기침체와 불확실한 경제 전망으로 벤처캐피탈 업계의 옥석가리기가 본격화되면서 꾸준히 성과를 내며 미래산업 및 디지..]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[웹툰 창작 플랫폼 콘파파 끌림벤처스로부터 4억원 시드투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=704028</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=704028</guid>
@@ -316,14 +323,6 @@
             <pubDate>Wed, 10 Aug 2022 04:13:20 GMT</pubDate>
             <content:encoded><![CDATA[딜리버스는 카카오스타일이 운영하는 스타일 커머스 플랫폼 ‘지그재그’와 당일 주문, 당일 배송 업무 협약을 체결했다고 밝혔다.   지그재그 앱 내 ‘직진배송’에서 상품을 주문한 고객은 서울 지역에 한해 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_703397_16600916725133079.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융투자 플랫폼 콴텍, 시리즈 C 1차 50억원 투자유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=703342</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=703342</guid>
-            <pubDate>Wed, 10 Aug 2022 04:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[금융투자 플랫폼 콴텍(대표 이상근)이 50억원 규모의 시리즈C 라운드 1차 투자 유치에 성공했다고 10일 밝혔다. 이번 투자로 콴텍의 누적 투자금은 160억원을 넘어섰다.  콴텍은 860억원의 기업가치(Pre-Value)..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_703342_16600912515133066.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름과 함께 잦아진 소나기…날씨 앱 사용 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
