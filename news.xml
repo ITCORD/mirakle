@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 04:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울바이오허브, 국내 유일한 바이오 전문 지원 기관]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=709275</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=709275</guid>
+            <pubDate>Thu, 11 Aug 2022 05:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[연구시설 장비는 세포배양실, 초순수제조장치, 초저온냉동고 등의 기초적인 장비부터 액체크로마토그래피, 질량분석기, 공초점현미경, 3D프린터, 클라우드컴퓨팅시스템, SMT패키징시스템 등의 고가의 고성능 연..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_709275_16601942245134752.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국사회투자, 10주년 맞아 C레벨 체제…  “젊은 리더십 통해 전문성 강화할 것”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=708272</link>
@@ -78,13 +86,6 @@
             <pubDate>Wed, 10 Aug 2022 08:10:41 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 스타트업 페스티벌 ‘컴업(COMEUP) 2022’의 주관기관 코리아스타트업포럼(의장 박재욱, 이하 코스포)은 컴업스타즈(COMEUP Stars) 참가 스타트업 모집 경쟁률이 역대 최고치를 기록했다고 10일 밝혔다.   ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_705803_16601157165133533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매출과 투자로 성장 증명한 스타트업 ‘눈길’]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=705264</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=705264</guid>
-            <pubDate>Wed, 10 Aug 2022 08:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적으로 불어닥친 고금리, 고물가 여파로 투자심리가 위축될 거란 전망이다. 장기화된 경기침체와 불확실한 경제 전망으로 벤처캐피탈 업계의 옥석가리기가 본격화되면서 꾸준히 성과를 내며 미래산업 및 디지..]]></content:encoded>
         </item>
     </channel>
 </rss>
