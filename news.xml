@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 15:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 16:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, 상반기 매출액 234억원 역대최대 기록]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=713889</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=713889</guid>
+            <pubDate>Fri, 12 Aug 2022 16:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 ‘플래티어(대표 이상훈)’가 2022년도 상반기 경영실적을 12일 공시를 통해 밝혔다.  플래티어가 12일 공시한 실적 내용에 따르면 상반기 매출액은 전년 동기 대비 36.6% 증가한 2..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_713889_16602840455136018.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올리브인터내셔널 성분에디터•밀크터치, 현대백화점 면세점 입점]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=711975</link>
@@ -77,14 +85,6 @@
             <pubDate>Thu, 11 Aug 2022 02:51:57 GMT</pubDate>
             <content:encoded><![CDATA[한국사회투자가 창립 10주년을 맞아 최고책임자급 ‘C레벨’ 체제로 전환한다고 11일 밝혔다. 조직 규모가 확대됨에 따라 책임경영을 강화하고 젊은 리더십을 전면 배치함으로써 전문성을 강화한다는 방침이다. ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_708272_16601820055134579.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔라브리지, 1.5MW 지붕형 그룹 태양광 발전소 투자 상품 1차 오픈]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=708058</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=708058</guid>
-            <pubDate>Thu, 11 Aug 2022 02:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[재생에너지 전문 투자 플랫폼 솔라브리지(대표 김태호)가 유휴 부지인 공장 지붕에 태양광 발전소를 건설하여 연이율 12%의 수익과 탄소 저감 효과까지 기대할 수 있는 ‘지붕형 그룹 태양광 발전소 투자 상품’..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_708058_16601802645134533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
