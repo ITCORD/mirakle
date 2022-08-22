@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 00:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 03:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘혈세 낭비’일까…공공 배달 앱 이용 현황은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=739524</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=739524</guid>
+            <pubDate>Mon, 22 Aug 2022 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[정부나 지자체·공공기관에서 만든 공공 앱 대다수에는 혈세 낭비 지적이 잇따른다. 성과를 위해 일단 내놓긴 했지만 관리나 운영을 제대로 하지 않아 ‘무용지물’이라는 것이다. 비판이 이어지는 가운데 살아남은 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_739524_16611286225143788.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름과 함께 잦아진 소나기…날씨 앱 사용 현황은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=695865</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Jun 2022 05:17:12 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰 카메라는 2010년, 500만 대의 화소가 출시된 이후 최근 1억 화소 이상까지 개발됐으며, 현재 대부분의 스마트폰에 5,000만 이상의 고화소 카메라가 탑재돼 있을 만큼 크게 성장했다. 이와 함께 카메라 앱의..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_515035_16550848225073418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계인들이 모이는 소통의 장, 소셜네트워크(SNS) 앱 최근 이용 현황]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=475464</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=475464</guid>
-            <pubDate>Mon, 30 May 2022 03:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰의 보급 이래로 현대인들이 하루 중 인터넷에서 보내는 시간은 갈수록 늘어나고 있다. 우리는 하루에도 수 차례 스마트폰을 통해 인터넷 쇼핑을 하거나, 뉴스를 읽고 친한 친구들과 대화를 나눈다. 동영상 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_475464_16538745625059213.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
