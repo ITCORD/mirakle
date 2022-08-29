@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 05:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반려동물 보유세 추진되나…인식 변화에 관련 앱 ‘훨훨’]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=761429</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=761429</guid>
+            <pubDate>Mon, 29 Aug 2022 06:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘반려동물 보유세’가 수면 위로 떠오르고 있다. 동물권 보호가 목적이지만 실효성 논란이 일고 있어 추진된다 해도 긴 시간이 소요될 것으로 전망된다. 그러나 보유세 도입이 언급되고 있는 현상만으로도 반려동..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_761429_16617358825150469.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘혈세 낭비’일까…공공 배달 앱 이용 현황은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=739524</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
             <content:encoded><![CDATA[과거 ‘애들이나 보는 것’이라 여겨지던 웹툰의 위상이 달라졌다. 다양한 장르와 소재의 웹툰이 인기를 끌자 산업의 규모가 놀랄 만큼 성장했으며, 웹툰의 해외 수출도 큰 폭으로 늘었다. 웹툰을 원작으로 한 드라..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_536502_16556865015080904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀 더 예쁘고, 특별하게” 데이터 분석으로 보는 카메라 앱 현황]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=515035</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=515035</guid>
-            <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰 카메라는 2010년, 500만 대의 화소가 출시된 이후 최근 1억 화소 이상까지 개발됐으며, 현재 대부분의 스마트폰에 5,000만 이상의 고화소 카메라가 탑재돼 있을 만큼 크게 성장했다. 이와 함께 카메라 앱의..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_515035_16550848225073418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
