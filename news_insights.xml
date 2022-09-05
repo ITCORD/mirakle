@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 17:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 18:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘택시 대란’에 웃는 택시 호출 앱]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=784661</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=784661</guid>
+            <pubDate>Mon, 05 Sep 2022 18:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[수도권의 심야 시간 택시 대란이 뜨거운 감자다. 코로나로 축소된 택시 업계가 거리 두기 해제 이후 다시 늘어난 수요를 감당하지 못한 모양새다. 서울시는 택시 승차난 해소를 위해 기본요금 인상 및 심야 할증 체..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_784661_16623435695157383.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려동물 보유세 추진되나…인식 변화에 관련 앱 ‘훨훨’]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=761429</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2년간 코로나19 펜데믹의 여파로 모바일 게임이 중심인 국내의 게임 산업은 급속도로 성장했다. 강도 높은 사회적 거리두기가 유지되는 동안 많은 이들이 게임을 통해 지루한 시간을 견뎌내야 했으며, 이에 따..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_559510_16562907625088312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제2의 전성기 맞이한 ‘K-웹툰’, 모바일 앱 이용 현황은?]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=536502</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=536502</guid>
-            <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[과거 ‘애들이나 보는 것’이라 여겨지던 웹툰의 위상이 달라졌다. 다양한 장르와 소재의 웹툰이 인기를 끌자 산업의 규모가 놀랄 만큼 성장했으며, 웹툰의 해외 수출도 큰 폭으로 늘었다. 웹툰을 원작으로 한 드라..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_536502_16556865015080904.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
