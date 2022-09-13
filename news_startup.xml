@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끌림벤처스와 에어스메디컬, 2022 SNU FastMRI 챌린지 후원]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=807633</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=807633</guid>
+            <pubDate>Tue, 13 Sep 2022 07:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[끌림벤처스와 에어스메디컬이 올해 2회 째를 맞는 2022 서울대학교 FastMRI 챌린지(2022 SNU FastMRI Challenge)를 후원해 행사가 성공적으로 마무리됐다고 13일 밝혔다.  이번 행사는 서울대학교 전기정보공학부..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_807633_16630512685164689.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알지노믹스, FDA에 임상시험 IND 신청]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=806015</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Sep 2022 05:26:49 GMT</pubDate>
             <content:encoded><![CDATA[모바일 팀구매 커머스 플랫폼 ‘올웨이즈’를 운영하는 레브잇(대표 강재윤)이 133억원 규모의 시리즈A 투자를 유치했다. 이번 투자는 미래에셋캐피탈, 미래에셋벤처투자, 한국투자파트너스, GS벤처스, 끌림벤처..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_805504_16630279755164246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 맛집편집샵 먼키, 외식업계 최상위 다점포율 기록]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=799829</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=799829</guid>
-            <pubDate>Thu, 08 Sep 2022 07:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 맛집편집샵 먼키가 다점포율 35%를 돌파했다고 8일 밝혔다.   먼키는 전국의 지역 맛집과 유명 외식브랜드로 구성된 맛집편집샵에 IT, AI 공유주방 시스템을 접목한 차세대 외식플랫폼으로 현재 강남역, 시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_799829_16626202845162023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
