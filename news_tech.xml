@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우왁굳 `고멤가요제` 8만명 동시 시청, 트위치 시청자 전세계 1위]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=822621</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=822621</guid>
+            <pubDate>Mon, 19 Sep 2022 10:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[게임 스트리머 `우왁굳`의 초대형 기획 콘텐츠인 `고멤가요제`가 17일 밤 성공적으로 끝났다. 이날 밤 9시부터 시작된 `고멤가요제` 트위치 라이브 방송은 우왁굳 채널 기준 최대 8만명이 동시에 시청했으며 동시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_822621_16634833365169629.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어, 상반기 매출액 234억원 역대최대 기록]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=713889</link>
@@ -78,13 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
             <content:encoded><![CDATA[B2B 핀테크 선도 및 기업∙공공 자금관리 전문 회사 ‘웹케시(대표 강원주)’가 2월 중 중견·대기업 및 공공 자금관리 시스템 ‘브랜치4.0’에 횡령방지를 위한 ‘AI안심자금보고서’ 및 ‘FDS시스템’을 추..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_123315_16444572034942397.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한결원 "서울사랑상품권과 `서울페이+` 문제 신속 해결되도록 돕겠다"]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=110869</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=110869</guid>
-            <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[한국간편결제진흥원(이사장 윤완수, 이하 한결원)이 서울사랑상품권과 `서울페이+`에서 발생하는 문제점에 대해서 한결원이 지원을 통해서 신속하게 해결하도록 돕겠다고 7일 밝혔다.  서울사랑상품권은 지난해 말까..]]></content:encoded>
         </item>
     </channel>
 </rss>

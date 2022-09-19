@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기 침체에 불안한 증시…증권사 MTS 앱 현황은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=826353</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=826353</guid>
+            <pubDate>Mon, 19 Sep 2022 10:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[주식 시장이 대중화된 데는 스마트폰의 발달이 큰 영향을 미쳤다. MTS(Moblie Trading System) 도입으로 주식 거래 편의성이 높아짐에 따라 개인 투자자들이 대거 유입된 것이다. 지난해까지 열풍을 일으켰던 주식 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_826353_16635795995170875.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이종선 메쉬코리아 CTO "물류·유통의 아마존웹서비스 만들겠다"]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=826263</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=826263</guid>
+            <pubDate>Mon, 19 Sep 2022 10:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[미래 물류는 유통과 연결되어야 한다는 것이 메쉬코리아의 생각입니다  부릉으로 알려진 물류IT기업 메쉬코리아 이종선 CTO(최고 기술책임자)는 이렇게 매일경제에 말했다. 이 CTO는 미국 일리노이주립대(UIUC)..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_826263_16635731575170776.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인덴트코퍼레이션 `스프레이`, 런칭 4개월 만에 리뷰 커머스 수익 실현 본격화]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=824054</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 16 Sep 2022 03:44:52 GMT</pubDate>
             <content:encoded><![CDATA[스타트업 액셀러레이터 스파크랩(공동대표 김유진, 김호민, 이한주, 버나드문)이 오는 11월 3일(목) 코엑스 오디토리움에서 10주년 기념 데모데이인 ‘스파크랩 데모데이 엑스(SparkLabs Demoday X)’를 개최한..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_817274_16633104645167829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초소형 머신러닝 스타트업 클리카, 14억원 프리시드 투자유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=814355</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=814355</guid>
-            <pubDate>Thu, 15 Sep 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[자동 초소형머신러닝 (Auto TinyML) 스타트업 ‘클리카’가 김기사랩, 디캠프(은행권청년창업재단), 도담벤처스 및 센드버드 코리아 이상희 대표로부터 프리시드 투자를 유치했다.  클리카는 2021년도 3월 창업한 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_814355_16632130755166794.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널코퍼레이션, `대한민국 4차 산업혁명 페스티벌 2022` 참가]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=814333</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=814333</guid>
-            <pubDate>Thu, 15 Sep 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[올인원 비즈 메신저 채널톡을 운영하는 채널코퍼레이션(공동대표 최시원, 김재홍)이 국내 최대 디지털 축제 ‘대한민국 4차 산업혁명 페스티벌 2022’에 참가한다고 15일 밝혔다.  오늘(15일) 부터 17일까지 서울 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_814333_16632127845166791.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
