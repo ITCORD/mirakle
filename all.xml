@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 13:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 14:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_123315_16444572034942397.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이종선 메쉬코리아 CTO "물류·유통의 아마존웹서비스 만들겠다" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=826263</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=826263</guid>
+            <pubDate>Mon, 19 Sep 2022 14:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[미래 물류는 유통과 연결되어야 한다는 것이 메쉬코리아의 생각입니다  부릉으로 알려진 물류IT기업 메쉬코리아 이종선 CTO(최고 기술책임자)는 이렇게 매일경제에 말했다. 이 CTO는 미국 일리노이주립대(UIUC)..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_826263_16635731575170776.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인덴트코퍼레이션 `스프레이`, 런칭 4개월 만에 리뷰 커머스 수익 실현 본격화 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=824054</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=824054</guid>
@@ -317,14 +325,6 @@
             <pubDate>Thu, 15 Sep 2022 05:18:22 GMT</pubDate>
             <content:encoded><![CDATA[올인원 비즈 메신저 채널톡을 운영하는 채널코퍼레이션(공동대표 최시원, 김재홍)이 국내 최대 디지털 축제 ‘대한민국 4차 산업혁명 페스티벌 2022’에 참가한다고 15일 밝혔다.  오늘(15일) 부터 17일까지 서울 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_814333_16632127845166791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국사회투자, 비엔지파트너스와 넷제로 스타트업 투자 ‘본격화’…”100억 원 규모 ESG 펀드 조성 추진” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=813634</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=813634</guid>
-            <pubDate>Thu, 15 Sep 2022 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[비영리 임팩트투자사이자 액셀러레이터인 한국사회투자(대표 이종익, 이순열)는 넷제로전문기관인 비엔지파트너스(대표 임대웅, Beyond Net Zero PARTNERS)와 함께 넷제로 테크 스타트업 투자를 위한 ESG 펀드 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_813634_16632057665166655.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기 침체에 불안한 증시…증권사 MTS 앱 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
