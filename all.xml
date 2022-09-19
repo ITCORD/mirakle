@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 10:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 11:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,6 +327,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_813634_16632057665166655.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경기 침체에 불안한 증시…증권사 MTS 앱 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=826353</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=826353</guid>
+            <pubDate>Mon, 19 Sep 2022 11:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[주식 시장이 대중화된 데는 스마트폰의 발달이 큰 영향을 미쳤다. MTS(Moblie Trading System) 도입으로 주식 거래 편의성이 높아짐에 따라 개인 투자자들이 대거 유입된 것이다. 지난해까지 열풍을 일으켰던 주식 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_826353_16635795995170875.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘택시 대란’에 웃는 택시 호출 앱 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=784661</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=784661</guid>
@@ -397,14 +405,6 @@
             <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
             <content:encoded><![CDATA[통계청은 ‘2022년 5월 고용동향’을 통해 지난 5월 63%의 고용률을 기록했다고 밝혔다. 이는 관련 통계를 작성하기 시작한 1982년 7월 이후 최고 수치다. 역대 최대 고용률 기록에 국내 대표 취업 플랫폼 앱 사용자..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_585477_16569171015096122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜데믹 수혜 입은 모바일게임, 엔데믹 전환이 끼친 영향은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=559510</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=559510</guid>
-            <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2년간 코로나19 펜데믹의 여파로 모바일 게임이 중심인 국내의 게임 산업은 급속도로 성장했다. 강도 높은 사회적 거리두기가 유지되는 동안 많은 이들이 게임을 통해 지루한 시간을 견뎌내야 했으며, 이에 따..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_559510_16562907625088312.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
