@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 09:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 10:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업앤컴퍼니, 전문 파이낸셜 커뮤니케이션으로 성장 중 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=834779</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=834779</guid>
+            <pubDate>Wed, 21 Sep 2022 10:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[“소비재 마케팅이나 기업 브랜딩 홍보에 주력했던 기업이 기업 가치를 높이기 위한 홍보에 관심을 가지기 시작했다. 최근에 크라우드 펀딩, 조각 투자 등 일반인도 투자할 수 있는 환경이 만들어지면서 파이낸..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_834779_16637475695173406.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그루비, 국내 최대 디지털 마케팅 컨퍼런스 ‘맥스서밋 2022’ 연사 참여 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=833226</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 05:20:53 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 데이터 플랫폼 사업을 선도하는 기업 슈퍼브에이아이(대표 김현수)는 220억 규모의 시리즈B 1차 펀딩 라운드를 마무리했다고 21일 밝혔다. 슈퍼브에이아이는 지난해 1월 110억 원의 시리즈A 투자 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_832292_16637227185172809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤터스, ‘성공적인 행사 개최를 위한 데이터와 IT 활용법’ 온라인 콘퍼런스 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=832194</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=832194</guid>
-            <pubDate>Wed, 21 Sep 2022 05:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[이벤트 테크 스타트업 이벤터스(대표 안영학)가 기업, 기관 등의 행사 주최자와 운영사를 대상으로 성공적인 행사 개최를 위한 데이터와 IT 활용 방법을 주제로 온라인 콘퍼런스인 ‘이벤콘(EVENCON)’을 개최한..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_832194_16637219735172799.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -247,6 +247,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_123315_16444572034942397.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[업앤컴퍼니, 전문 파이낸셜 커뮤니케이션으로 성장 중 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=834779</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=834779</guid>
+            <pubDate>Wed, 21 Sep 2022 10:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[“소비재 마케팅이나 기업 브랜딩 홍보에 주력했던 기업이 기업 가치를 높이기 위한 홍보에 관심을 가지기 시작했다. 최근에 크라우드 펀딩, 조각 투자 등 일반인도 투자할 수 있는 환경이 만들어지면서 파이낸..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_834779_16637475695173406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그루비, 국내 최대 디지털 마케팅 컨퍼런스 ‘맥스서밋 2022’ 연사 참여 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=833226</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=833226</guid>
@@ -317,14 +325,6 @@
             <pubDate>Wed, 21 Sep 2022 05:22:12 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 데이터 플랫폼 사업을 선도하는 기업 슈퍼브에이아이(대표 김현수)는 220억 규모의 시리즈B 1차 펀딩 라운드를 마무리했다고 21일 밝혔다. 슈퍼브에이아이는 지난해 1월 110억 원의 시리즈A 투자 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_832292_16637227185172809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이벤터스, ‘성공적인 행사 개최를 위한 데이터와 IT 활용법’ 온라인 콘퍼런스 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=832194</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=832194</guid>
-            <pubDate>Wed, 21 Sep 2022 05:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[이벤트 테크 스타트업 이벤터스(대표 안영학)가 기업, 기관 등의 행사 주최자와 운영사를 대상으로 성공적인 행사 개최를 위한 데이터와 IT 활용 방법을 주제로 온라인 콘퍼런스인 ‘이벤콘(EVENCON)’을 개최한..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_832194_16637219735172799.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기 침체에 불안한 증시…증권사 MTS 앱 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
