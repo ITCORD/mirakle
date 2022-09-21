@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 23:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 00:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 학습 및 참여 플랫폼 Kahoot!, 한국어 버전 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=832116</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=832116</guid>
+            <pubDate>Wed, 21 Sep 2022 00:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 학습 및 참여 플랫폼 기업인 Kahoot!이 한국어 버전 웹 플랫폼 및 모바일 앱 출시를 발표했다. 이번 출시로 아시아 전역에서 Kahoot! 제품의 개인 맞춤화된 사용자 경험이 확장돼, 수백만 명의 평생 학습..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_832116_16637212865172790.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인텐트 마케팅 솔루션 ‘리스닝마인드’ 시리즈A 투자유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=832031</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=832031</guid>
+            <pubDate>Wed, 21 Sep 2022 00:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[검색 데이터 기반의 인텐트 마케팅 솔루션 ‘리스닝마인드 허블(이하, 리스닝마인드)’를 제공하는 어센트코리아(대표 박세용)가 35억 원 규모의 시리즈A 투자를 유치했다고 밝혔다. 이번 라운드는 주식회사 신..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_832031_16637206485172775.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BNPL 커머스 로마드 올해 누적매출 100억원 돌파]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=829842</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 20 Sep 2022 07:19:47 GMT</pubDate>
             <content:encoded><![CDATA[에이펀 인터렉티브는 아뽀키가 성공적인 글로벌 시장 진출을 목표로 일본 소니뮤직엔터테인먼트(Sony Music Entertainment Inc)의 자회사 소니 뮤직 솔루션스와 에이전트 계약을 체결했다고 20일 밝혔다.   소니..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_827619_16636341915171481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두핸즈 ‘품고’, 3PL 물류센터 연합 ‘품고 파트너스’ 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=827590</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=827590</guid>
-            <pubDate>Tue, 20 Sep 2022 07:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[풀필먼트 서비스 품고 운영사 ㈜두핸즈(박찬재 대표)가 물류 업계 생태계 강화를 위해 3PL(Third Party Logistics, 3자물류)사들과의 연합인 ‘품고 파트너스’를 론칭한다고 20일 밝혔다.   두핸즈는 ‘품고 파..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_827590_16636340165171478.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워크OS ‘스윗’, 글로벌 1위 협업툴이 궁금한 기업고객 위한 무료 웨비나 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=827559</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=827559</guid>
-            <pubDate>Tue, 20 Sep 2022 07:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 협업 플랫폼 워크OS 스윗테크놀로지스(대표 이주환)이 워크OS의 설명과 자사 솔루션 ‘Swit(스윗)’에 대한 무료 웨비나 세션을 제공한다고 20일 밝혔다.   팬데믹으로 재택근무나 하이브리드 업무 환경..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_827559_16636336915171463.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
