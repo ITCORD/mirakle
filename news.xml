@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 07:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 08:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이워치 EWA 서비스, 국내 대표 F&B 기업들이 도입]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=842908</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=842908</guid>
+            <pubDate>Fri, 23 Sep 2022 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표 핀테크 스타트업 ‘페이워치(Paywatch)’의 새로운 급여 지급 서비스인 ‘EWA 서비스’를 국내 대표 F&amp;B 기업들이 도입하고 있다고 23일 회사측이 밝혔다.   직원들이 일한 시간 만큼 급여를 먼저 지급..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_842908_16639169615176175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아프지마, 4가 독감백신 무료 접종 의료기관 조회 서비스 런칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=841529</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Sep 2022 08:13:38 GMT</pubDate>
             <content:encoded><![CDATA[한국축산데이터가 세계 유일의 축산 데이터톤 ‘한국 축산 데이터톤 2022(Animal Datathon Korea 2022)’를 오는 11월 5일부터 6일 양일에 걸쳐 개최한다고 22일 밝혔다.  ‘데이터톤(Datathon)’은 ‘데이터(Da..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_836405_16638065495174141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아드리엘, 광고 소재 별 성과까지 한눈에 파악하는 애드옵스 신규 기능 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=836370</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=836370</guid>
-            <pubDate>Thu, 22 Sep 2022 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[“일잘러들은 마케팅도 쉽게! 지금 우리 회사에 가장 효과 있는 광고는?”  글로벌 애드테크 기업 아드리엘(대표 엄수원)이 자사의 마케팅 솔루션 ‘애드옵스(AdOps)’에 광고 소재 별 성과까지 실시간으로 한눈..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_836370_16638060425174119.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
