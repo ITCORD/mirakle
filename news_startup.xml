@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 07:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매스아시아, 중국 홍지그룹과 전략적 파트너십 체결]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=857781</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=857781</guid>
+            <pubDate>Wed, 28 Sep 2022 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[공유 모빌리티 ‘알파카’의 운영사 ㈜매스아시아(정수영 대표)가 중국의 E-Mobility 전문 홍지그룹(Hongji Group, 쒸홍진 대표)과 전략적 파트너십을 체결했다고 28일 발표했다.  이번 매스아시아와 전략적 파..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_857781_16643476865180553.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채널코퍼레이션, 하반기 신입 및 경력사원 공개 채용]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=857723</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Sep 2022 06:44:45 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 패션 스토어 구축 서비스 ‘팝스’ 개발사 ‘에이아이닷엠(대표 최예림)’이 초기 스타트업 전문 투자사 ‘매쉬업엔젤스(대표파트너 이택경)’로부터 초기 투자를 유치했다.     ‘에이아이닷엠’은 인..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_851035_16642405255178941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동네, 美 비즈니스 인사이더 선정 ‘2022년 가장 유망한 프롭테크 스타트업’]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=850993</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=850993</guid>
-            <pubDate>Tue, 27 Sep 2022 06:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[주거용 부동산 시장의 혁신을 꾀하는 프롭테크 기업 동네(대표 차민근(Matthew Shampine))가 미 경제 매체 비즈니스 인사이더(Business Insider)가 선정한 ‘2022년 가장 유망한 프롭테크 스타트업’에 국내 기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_850993_16642403375178938.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
