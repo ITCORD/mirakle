@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 11:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 12:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘발아 가능성’ 높은 시드 스타트업 주목!]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=858340</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=858340</guid>
+            <pubDate>Wed, 28 Sep 2022 12:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[투자 혹한기에도 불구하고 초기 스타트업에 대한 시장의 관심은 오히려 높아지고 있다. `될성부른` 초기 스타트업 투자가 회수 리스크가 적기 때문이다.   스타트업얼라이언스에 따르면 올 7월 기준 국내 스타트..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_858340_16643538205180749.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매스아시아, 중국 홍지그룹과 전략적 파트너십 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=857781</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Sep 2022 06:44:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈 1주년을 맞은 와디즈 스토어가 펀딩으로 검증된 브랜드와 팬슈머(fan+consumer)를 연결하는 새로운 유통 성공 채널로 도약하고 있다.    라이프디자인 펀딩플랫폼 와디즈(대표자: 신혜성)는 펀딩에 성공한 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_851083_16642408405178942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 패션 스토어 구축 서비스 ‘팝스’ 개발사  ‘에이아이닷엠’, 매쉬업엔젤스로부터 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=851035</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=851035</guid>
-            <pubDate>Tue, 27 Sep 2022 06:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 패션 스토어 구축 서비스 ‘팝스’ 개발사 ‘에이아이닷엠(대표 최예림)’이 초기 스타트업 전문 투자사 ‘매쉬업엔젤스(대표파트너 이택경)’로부터 초기 투자를 유치했다.     ‘에이아이닷엠’은 인..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_851035_16642405255178941.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
