@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 10:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 11:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_169470_16455135934954412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신촌에서 열린 10월 디데이 x 캠퍼스리그, `바이오리서치AI` 우승 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=912436</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=912436</guid>
+            <pubDate>Sat, 15 Oct 2022 11:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(상임이사 김영덕)는 15일 신촌 연세로 야외광장에서 개최한 `10월 디데이 X 캠퍼스리그`에서 바이오리서치AI(대표 이상윤)가 우승했다고 밝혔다. 준우승 격인 서대문구청장상은 폼즈(공동..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_912436_16658272725197795.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디지털 혁신 시대 기업의 모순적 과제 해결하는 모놀리, 180억원 시드 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=909424</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=909424</guid>
@@ -317,14 +325,6 @@
             <pubDate>Thu, 13 Oct 2022 10:14:57 GMT</pubDate>
             <content:encoded><![CDATA[업계 선도적인 글로벌 리모트 채용 플랫폼 G-P가 글로벌 시장조사기관 에베레스트 그룹(Everest Group)이 발표한 2022 피크 매트릭스 평가(PEAK Matrix® Assessment 2022) 조사에서 ‘EOR(Employer of Record; ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_903979_16656240545194986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메디컬 에듀테크 기업 ‘뉴베이스’, 정상분만 간호 VR 교육 콘텐츠 공개 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=903955</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=903955</guid>
-            <pubDate>Thu, 13 Oct 2022 10:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[메디컬 에듀테크 기업 뉴베이스(대표 박선영)가 정상분만 간호 교육콘텐츠를 공개했다고 13일 밝혔다.  널스베이스 VR 앱을 통해 새롭게 공개되는 정상분만 간호 교육 콘텐츠는 실제 분만 임상에서 시행되고 있..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_903955_16656236985194976.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘백화점 진출’ 중고 시장…역할 컸던 중고 거래 플랫폼 살펴보니 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
