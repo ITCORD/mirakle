@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 01:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 03:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인 쇼핑 ‘훨훨’ 나는데…홈쇼핑 업계, 올 들어 고전 지속]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=915857</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=915857</guid>
+            <pubDate>Mon, 17 Oct 2022 03:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 쇼핑 시대다. 통계청이 발표한 ‘2022년 8월 온라인쇼핑동향’에 따르면 지난 8월 기준 거래액은 총 17조 7,181억 원으로 전년 동월 대비 16%(2조 4,425억 원) 증가했다. 이 중 모바일쇼핑 거래액은 전체의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_915857_16659726035198866.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘백화점 진출’ 중고 시장…역할 컸던 중고 거래 플랫폼 살펴보니]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=848589</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
             <content:encoded><![CDATA[백화점 업계는 약 2년 만에 이뤄진 거리 두기 해제에 따라 올 상반기 손님 맞이에 분주한 모습을 보였다. 실제 시장조사업체에 따르면 22년 2분기 국내 3대 백화점(롯데·현대·신세계)의 매출액은 전년 동기 대비 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_631185_16581111175110763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“새해 목표, 잘 지키고 계신가요?”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=607417</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=607417</guid>
-            <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[많은 사람들은 새해를 맞이하며 한 해 이루고 싶은 계획을 세운다. 작년보다 좀 더 나은 삶을 살기 위한 ‘새해 목표’ 말이다. 신년의 굳은 결심이 2022년의 절반을 보낸 현재까지도 잘 지켜지고 있는지 데이터 분..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_607417_16575034225103405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
