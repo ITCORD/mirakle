@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 05:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 06:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커지는 한국 버추얼 시장.. 남성 버추얼 아이돌 CGV서 쇼케이스]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=921017</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=921017</guid>
+            <pubDate>Tue, 18 Oct 2022 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[이번달 29일 신인 아이돌 그룹이 서울의 CGV 영화관에서 신곡 발표 `쇼케이스`를 한다. 디지털 싱글 앨범과 두 가지 버전의 뮤직비디오를 최초 공개한다. 그런데 이 아이돌 그룹은  CGV 용산아이파크몰, 왕십리, ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_921017_16660686575200466.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어 그루비, 개인화 상품 추천 장치 특허 취득]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=906365</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
             <content:encoded><![CDATA[한국간편결제진흥원(이사장 윤완수, 이하 한결원)과 서울시 교육청(교육감 조희연)은 업무 협약을 체결하고 2022년도 입학준비금 모바일상품권 지급을 시작했다고 2일 밝혔다.   서울시 교육청의 입학준비금은 새..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_195171_16461953544962000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, ‘멀티 클라우드’ 환경 보안을 주제로 리포트 발행]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=169470</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=169470</guid>
-            <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 전문 기업 `플래티어(대표 이상훈)`는 22일 ‘디지털 전환 시대, 보안 패러다임의 변화와 대응’이란 주제의 ‘플래티어 인사이트 리포트 Vol.1’을 발행했다.  대부분의 기업에서 지향하는 디지털 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_169470_16455135934954412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
