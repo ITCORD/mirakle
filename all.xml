@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 07:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 08:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,6 +327,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_928244_16662249415202894.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타트업 글로벌 진출 열쇠는 테크매칭 : 테크매칭 성사 실마리는  ‘리버스 피칭’ (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=933517</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=933517</guid>
+            <pubDate>Fri, 21 Oct 2022 08:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘글로벌은 이웃, 큰 시장에서 StartUp’ 혁신 기술 기업 해외진출을 지원하는 본투글로벌센터에서 바라 본 스타트업 생태계와 트렌드, 기술매칭 현황 등을 유진평 본투글로벌센터 미디어 전문위원이 소개합니다..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_933517_16663175155204578.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[온라인 쇼핑 ‘훨훨’ 나는데…홈쇼핑 업계, 올 들어 고전 지속 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=915857</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=915857</guid>
@@ -397,14 +405,6 @@
             <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
             <content:encoded><![CDATA[30대 직장인 김예지 씨는 최근 회사 탕비실의 음식이나 단백질바로 점심을 간단히 해결하고 있다. ‘100만 원으로 한 달 살기’를 위해 식비 지출을 줄인 것이다. 그는 목표 달성을 위해 몇 년 전 호기심에 설치해 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_652534_16587141015117757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22년 상반기 백화점 업계 빅데이터 분석 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=631185</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=631185</guid>
-            <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[백화점 업계는 약 2년 만에 이뤄진 거리 두기 해제에 따라 올 상반기 손님 맞이에 분주한 모습을 보였다. 실제 시장조사업체에 따르면 22년 2분기 국내 3대 백화점(롯데·현대·신세계)의 매출액은 전년 동기 대비 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/07/image_readtop_2022_631185_16581111175110763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
