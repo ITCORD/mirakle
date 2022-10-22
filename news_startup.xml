@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 18:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 19:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크립톤, 패밀리테크 포트폴리오 데이 성료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=936740</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=936740</guid>
+            <pubDate>Sat, 22 Oct 2022 19:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최장수 액셀러레이터 크립톤이 주최한 ‘패밀리테크 포트폴리오 데이’가 22일 마루180에서 열렸다.   이번 패밀리테크 포트폴리오 데이에 참여한 5개팀은 크립톤 투자유치 후 최근까지의 성과와 실전경험..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_936740_16664237265205976.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루센트블록, 소유 2호 건물 ‘이태원 새비지가든’, 첫 임대수익 지급]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=933331</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Oct 2022 08:15:47 GMT</pubDate>
             <content:encoded><![CDATA[베트남 금융API 플랫폼 제공 서비스 개발 기업 인포플러스가 60억원 규모 시리즈A 투자를 유치했다고 20일 밝혔다.   이번 투자는 전략적 사업 파트너사인 주식회사 더즌과 더스퀘어앤컴패니가 신규 투자자로 참여..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_931160_16662511335203694.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두들린의 채용관리 플랫폼 ‘그리팅’, 한국식품산업협회의 효율적인 채용 돕는다]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=928244</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=928244</guid>
-            <pubDate>Thu, 20 Oct 2022 07:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[채용관리 솔루션 스타트업 두들린(대표 이태규)이 자사의 기업용 채용관리 플랫폼 ‘그리팅(Greeting)’을 통해 한국식품산업협회(회장 이효율)의 효율적인 채용을 지원했다고 20일 밝혔다. 한국식품산업협회는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_928244_16662249415202894.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
