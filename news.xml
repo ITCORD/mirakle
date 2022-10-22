@@ -4,16 +4,24 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 08:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 09:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[스타트업 글로벌 진출 열쇠는 테크매칭 : 테크매칭 성사 실마리는  ‘리버스 피칭’]]></title>
+            <title><![CDATA[크립톤, 패밀리테크 포트폴리오 데이 성료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=936740</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=936740</guid>
+            <pubDate>Sat, 22 Oct 2022 09:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최장수 액셀러레이터 크립톤이 주최한 ‘패밀리테크 포트폴리오 데이’가 22일 마루180에서 열렸다.   이번 패밀리테크 포트폴리오 데이에 참여한 5개팀은 크립톤 투자유치 후 최근까지의 성과와 실전경험..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_936740_16664237265205976.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유진평의 K스타트업 진(단)평(가)]스타트업 글로벌 진출 열쇠는 테크매칭 : 테크매칭 성사 실마리는  ‘리버스 피칭’]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=933517</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=933517</guid>
             <pubDate>Fri, 21 Oct 2022 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[‘글로벌은 이웃, 큰 시장에서 StartUp’ 혁신 기술 기업 해외진출을 지원하는 본투글로벌센터에서 바라 본 스타트업 생태계와 트렌드, 기술매칭 현황 등을 유진평 본투글로벌센터 미디어 전문위원이 소개합니다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_933517_16663175155204578.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_933517_16664238495204578.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루센트블록, 소유 2호 건물 ‘이태원 새비지가든’, 첫 임대수익 지급]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Oct 2022 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[1인 피자 브랜드 고피자(대표 임재원)가 총 250억원 규모의 시리즈C 투자 유치에 성공했다고 21일 밝혔다.  이번 투자에는 미래에셋증권, GS 벤처스, CJ 인베스트먼트, 엔코어벤처스 등의 대기업 및 해외에 LP를..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_932883_16663107555204455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남 금융API 플랫폼 인포플러스 60억원 규모 시리즈A 투자유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=931160</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=931160</guid>
-            <pubDate>Thu, 20 Oct 2022 11:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[베트남 금융API 플랫폼 제공 서비스 개발 기업 인포플러스가 60억원 규모 시리즈A 투자를 유치했다고 20일 밝혔다.   이번 투자는 전략적 사업 파트너사인 주식회사 더즌과 더스퀘어앤컴패니가 신규 투자자로 참여..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_931160_16662511335203694.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
