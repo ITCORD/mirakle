@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 16:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 17:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악어디지털, KISA ‘전자화 문서 관리 규정’ 등록 완료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=954967</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=954967</guid>
+            <pubDate>Thu, 27 Oct 2022 17:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[AI 기반 문서 전자화 기업 악어디지털(대표 김용섭)이 자사 문서 전자화 작업장이 한국인터넷진흥원(KISA)의 심사를 통과하고 ‘전자화 문서관리 규정’을 등록했다고 27일 밝혔다.  전자화 문서관리 규정 등록제(..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_954967_16668463885211385.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 HR 서비스 딜(Deel), 위워크, 호피와 파트너십으로  인사 관리 서비스 편의성 확대]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=954004</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Oct 2022 03:05:45 GMT</pubDate>
             <content:encoded><![CDATA[개발자 성장 플랫폼 ‘프로그래머스(programmers)’를 운영하는 그렙(대표 이확영•임성수)이 ‘프로그래머스 캠퍼스’를 출시하고 본격적인 B2B(기업간거래) 프로그래밍 교육 사업으로 영역 확장에 나선다..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_953438_16668304905211108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수요응답형 교통 솔루션 회사 브이유에스, 팁스(TIPS) 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=953319</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=953319</guid>
-            <pubDate>Thu, 27 Oct 2022 03:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[대중교통 모빌리티 스타트업 브이유에스(VUS, Vetter than bUS, 대표 황윤익)가 중소벤처기업부 팁스(TIPS) 프로그램에 최종 선정됐다고 27일 밝혔다.  팁스는 중기부가 민간 투자사를 통해 세계시장을 선도할 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_953319_16668296355211087.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
