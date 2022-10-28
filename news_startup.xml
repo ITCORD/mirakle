@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 20:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 21:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 이모티콘 플랫폼 `플랫팜`, 하노이에 매장]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=959916</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=959916</guid>
+            <pubDate>Fri, 28 Oct 2022 21:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 플랫폼 기업 플랫팜은 베트남 하노이에 플래그십 스토어 `주키즈 원더월드`를 열고, 온·오프라인 연계 캐릭터 상품화에 나선다고 28일 밝혔다.  플래그십 스토어는 하노이의 문화를 상징하는 국립영화센터..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_959916_16669361135213168.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제11회 정주영 창업경진대회 우승 `LRHR`과 `플룸디`]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=958839</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Oct 2022 03:05:45 GMT</pubDate>
             <content:encoded><![CDATA[유니콘 사관학교 `스타벤처스`(대표 문지은)가 혁신기술 기반 예비 유니콘 기업을 집중 발굴·육성하기 위한 `스타벤처스 개인투자조합 1호`를 설립했다고 27일 밝혔다. 이에따라 스타벤처스는 유망기업 발굴부..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_953744_16668328175211148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스랩, 사전 영상면접 솔루션 ‘프리인터뷰’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=953679</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=953679</guid>
-            <pubDate>Thu, 27 Oct 2022 03:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[AI 면접솔루션 뷰인터HR을 서비스하는 테크 스타트업 제네시스랩이 사전 영상면접 솔루션  ‘프리인터뷰(Pre-interview)’를 출시했다고 27일 밝혔다.  새롭게 선보인 프리인터뷰는 본 면접을 진행하기 전 사전 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_953679_16668324005211140.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
