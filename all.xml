@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 04:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 05:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,6 +327,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_958839_16669214515212872.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘카톡 오류’ 이전과 이후 변화는? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=965268</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=965268</guid>
+            <pubDate>Mon, 31 Oct 2022 05:31:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘국민 앱’으로 불려도 손색없을 카카오톡이 지난 15일 ‘먹통’ 오류로 홍역을 치렀다. 2010년 출시된 이후 최장기간 이어진 서비스 오류 사태다. 나라 전체가 혼란에 빠질만한 것이 카카오톡뿐만 아니라 카카오T..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_965268_16671769095215200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘캠핑업계’ 엔데믹 이겨내고 가을 성수기 맞이할까 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=939457</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=939457</guid>
@@ -397,14 +405,6 @@
             <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
             <content:encoded><![CDATA[여름의 시작과 함께 소나기가 잦아졌다. 편의점 이마트24는 지난 6월 우산 매출이 전년 동기 대비 45% 증가했다고 밝힌 바 있다. 뜨거운 지열과 찬 공기가 만나 대기가 불안정해지며 하루에도 수차례 비가 오락가락..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_695865_16599202825130892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온 국민이 주목하는 부동산 시장…관련 앱 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=675877</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=675877</guid>
-            <pubDate>Wed, 24 Aug 2022 19:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[인간 생활의 기본 요소 중 하나인 주거 문제는 정부가 해결해야 할 가장 중요한 현안으로 여겨진다. 문재인 전 대통령은 집값 상승, 투기 등의 문제가 이어진 데에 정책 실패를 언급한 바 있으며, 더불어민주당은 제..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_675877_16595770045124624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
