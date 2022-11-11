@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 06:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제1회 혁신의숲 어워즈 개최…5개 부문 8개 혁신 스타트업 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1008470</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1008470</guid>
+            <pubDate>Fri, 11 Nov 2022 07:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[실제 데이터기반으로 성장 가능성 높은 기업이 수상 네이버클라우드, AWS, 고위드, AI양재허브 등 참여 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1008470_16681491015232121.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘급여선지급 서비스’ 페이워치?전자금융업 등록 승인]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1008356</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1008356</guid>
+            <pubDate>Fri, 11 Nov 2022 07:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[신용조회 없는 무이자로 급여선지급 서비스 월 200만원으로 한도 상향돼 복지효과 톡톡 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1008356_16681483215232083.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[먼키, 먼키앱 무료배달 시청점으로 확대]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1006870</link>
@@ -69,22 +85,6 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1003628</guid>
             <pubDate>Thu, 10 Nov 2022 10:09:25 GMT</pubDate>
             <content:encoded><![CDATA[케이씨모듈러(KC모듈러)가 여주에 모듈러주택전시관을 준공했다고 10일 밝혔다. 케이씨모듈러는 프리캐스트 콘크리트(Pre-cast Concrete) 전문 KC산업의 자회사다. 전시관은 여주 공장 인근에 건축한 2층 48평형 규..]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비대면 투자일임 서비스 앱 ‘콴텍’, 누적 다운로드 수 10만 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1003519</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1003519</guid>
-            <pubDate>Thu, 10 Nov 2022 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[앱 출시 7개월 만에 10만 다운로드 수 달성  비대면 투자일임 서비스 애플리케이션..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1003519_16680579015229745.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메디프레소, 국내 최초 기능성 원료 사용한 헬시플레저 티캡슐 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1003488</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1003488</guid>
-            <pubDate>Thu, 10 Nov 2022 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[홈카페 시장을 선도하고 있는 캡슐티 제조기업 메디프레소(대표 김하섭)는 네스프레소 호환 ‘헬시플레저 티캡슐’ 4종을 출시했다고 10일 밝혔다. 헬시플레저(Healthy Pleasure)란 Healthy(건강한)와 Pleasure(기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1003488_16680576025229727.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
