@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 23:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 00:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔 연회장 예약 플랫폼 루북, 프리시리즈A 브릿지 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1013061</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1013061</guid>
+            <pubDate>Mon, 14 Nov 2022 00:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[루북, 국내 최초 호텔 연회장 전문 예약 서비스 플랫폼으로 디지털 전환 이끌어 공간 예약 관리 SaaS 솔루션으로 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1013061_16683856215234446.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제1회 혁신의숲 어워즈 개최…5개 부문 8개 혁신 스타트업 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1008470</link>
@@ -78,13 +86,6 @@
             <pubDate>Fri, 11 Nov 2022 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[티비티 파트너스, 휴맥스, 스마일게이트, 우미글로벌, 더웰스, 신용보증기금에서 95억원 투자 버스 대중교통망 체..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1006219_16681272025231234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이씨모듈러, 콘크리트 모듈러로 지은 여주 전시관 개관]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1003628</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1003628</guid>
-            <pubDate>Thu, 10 Nov 2022 12:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[케이씨모듈러(KC모듈러)가 여주에 모듈러주택전시관을 준공했다고 10일 밝혔다. 케이씨모듈러는 프리캐스트 콘크리트(Pre-cast Concrete) 전문 KC산업의 자회사다. 전시관은 여주 공장 인근에 건축한 2층 48평형 규..]]></content:encoded>
         </item>
     </channel>
 </rss>
