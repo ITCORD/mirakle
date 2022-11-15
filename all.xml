@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 11:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 12:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -251,6 +251,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429272_16526621065043535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메디프레소, 프리미엄 캡슐커피 브랜드 제로캡슐 론칭 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1020862</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1020862</guid>
+            <pubDate>Tue, 15 Nov 2022 12:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[옥수수 전분으로 만든 생분해 캡슐 사용 친환경과 프리미엄 모두 잡은 커피캡슐  ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1020862_16684980025237071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최고의 장사 고수들이 성공 노하우 무료로 알려준다 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1019471</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1019471</guid>
@@ -325,14 +333,6 @@
             <pubDate>Tue, 15 Nov 2022 05:08:35 GMT</pubDate>
             <content:encoded><![CDATA[세계 최초 매장 인식 특허 기술 보유…온?오프라인 결제 시 분산되어 있고 변경 잦은 카드사 혜택 한눈에 제공 서..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1018044_16684719025236139.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨앤에이아이, 팬딩-아이엠폼과 3자 업무협약 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1014655</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1014655</guid>
-            <pubDate>Mon, 14 Nov 2022 18:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[AI와 커머스 기술 적용해 메타버스 사업 확장 메타버스에서 활용 가능한 생성 프로그램 개발?지원 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1014655_16683996625234797.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘카톡 오류’ 이전과 이후 변화는? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
