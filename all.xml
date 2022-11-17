@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 12:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 13:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,6 +171,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔터프라이즈블록체인-‘동남아 우버’ 그랩, 합작사 설립 나선다 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1031971</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1031971</guid>
+            <pubDate>Thu, 17 Nov 2022 13:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[재능마켓플래폼 구축 인도네시아에 공동구축  딥테크 기업 ‘엔터프라이즈블록체인..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1031971_16686738025240773.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[플래티어, 3분기 매출 134억...2분기 연속 최대 매출 경신 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1014731</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1014731</guid>
@@ -241,14 +249,6 @@
             <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
             <content:encoded><![CDATA[오는 6월 8일 일본 도쿄거래소에 `애니칼라`라고 하는 다소 수상한 회사가 상장한다. 이 회사가 운영하는 연예기획사인 ‘니지산지’에는 수많은 개인 인플루언서들이 소속되어있다. 하지만 홈페이지에 들어가 보..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_474127_16538110595058571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저데이터, 매일경제 교육센터와 오프라인 세미나 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=429272</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=429272</guid>
-            <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[트레저데이터가 매일경제 교육센터와 함께 오프라인 세미나를 개최한다. 주제는 `성공적인 CX(고객경험)을 만들어 내는 데이터액션`으로 고영혁 트레저데이터 한국 대표가 직접 강연한다. 일시는 6월17일 오후1시3..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429272_16526621065043535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닷 패드, CES 2023 접근성 부문 최고혁신상 수상 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
