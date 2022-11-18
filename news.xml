@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 07:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 08:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자율주행 로봇 ‘뉴비’, ‘CES 2023’ 혁신상 수상]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1036502</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1036502</guid>
+            <pubDate>Fri, 18 Nov 2022 08:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[자율주행 로봇 배달 플랫폼 뉴빌리티(대표 이상민)의 자율주행 로봇 ‘뉴비(Neubie)’가 CES 2023 스마트시티 부문 혁신상을 수상했다고 18일 밝혔다. CES 혁신상은 미국소비자기술협회(CTA: Consumer Technology A..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1036502_16687553415242297.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아프지마, 전국 병의원별 전립선 결찰술 가격 조회비교 서비스 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1035929</link>
@@ -80,16 +88,6 @@
             <pubDate>Thu, 17 Nov 2022 00:41:07 GMT</pubDate>
             <content:encoded><![CDATA[37대 1의 경쟁률과 3차에 걸친 치열한 경합 끝 최종 선발 플랫폼 활용해 교육과 프로젝트 실시하며 기업의 실질적..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1028013_16686438615239589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리모델링 비용 부담 낮추는 가심비 패키지
-
-아파트멘터리, ‘파이브 스탠다드’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1027961</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1027961</guid>
-            <pubDate>Thu, 17 Nov 2022 00:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[금리 및 자재비 인상으로 높아진 리모델링 비용 부담 덜어주는 가심비 패키지 상품 스탠다드 급의 자재와 대중적..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1027961_16686435025239576.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
