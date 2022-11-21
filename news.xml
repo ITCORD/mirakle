@@ -4,9 +4,19 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 00:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경영분석 플랫폼 ‘하이퍼라운지’,
+
+106억 원 규모 시리즈A 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1043254</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1043254</guid>
+            <pubDate>Mon, 21 Nov 2022 00:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[알타라벤처스, 퓨처플레이, 스톤브릿지, BA파트너스, 유경PSG, 넥스트랜스, 유클릭 등 투자 중소 및 중견기업 경..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1043254_16689909025244469.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자율주행 로봇 ‘뉴비’, ‘CES 2023’ 혁신상 수상]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1036502</link>
@@ -80,14 +90,6 @@
             <pubDate>Thu, 17 Nov 2022 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[디지털 트윈 기술 기반으로 누구나 접근할 수 있는 친환경 에너지 소재 디지털 연구개발 플랫폼 ‘고성능 전기화..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1030182_16686616225240079.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스, ‘제8기 혁신아이콘’ 선정…유니콘 기업으로 성장 가능성 확인]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1028013</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1028013</guid>
-            <pubDate>Thu, 17 Nov 2022 00:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[37대 1의 경쟁률과 3차에 걸친 치열한 경합 끝 최종 선발 플랫폼 활용해 교육과 프로젝트 실시하며 기업의 실질적..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1028013_16686438615239589.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
