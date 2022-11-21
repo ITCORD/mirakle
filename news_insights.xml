@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 22:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 23:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘온라인 쇼핑’ 업계의 성장…그 중심에는 ‘이것’이 있다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1046152</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1046152</guid>
+            <pubDate>Mon, 21 Nov 2022 23:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 쇼핑 시장 규모가 지속적으로 커지고 있다. 통계청이 발표한 ‘22년 9월 온라인 쇼핑 동향’에 따르면 지난 9월 기준 온라인 쇼핑 거래액은 총 17조 4,553억 원으로 지난해 동월 대비 약 11.8% 증가했다. 그 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1046152_16690213825245607.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘카톡 오류’ 이전과 이후 변화는?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=965268</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
             <content:encoded><![CDATA[정부나 지자체·공공기관에서 만든 공공 앱 대다수에는 혈세 낭비 지적이 잇따른다. 성과를 위해 일단 내놓긴 했지만 관리나 운영을 제대로 하지 않아 ‘무용지물’이라는 것이다. 비판이 이어지는 가운데 살아남은 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_739524_16611286225143788.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름과 함께 잦아진 소나기…날씨 앱 사용 현황은?]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=695865</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=695865</guid>
-            <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 시작과 함께 소나기가 잦아졌다. 편의점 이마트24는 지난 6월 우산 매출이 전년 동기 대비 45% 증가했다고 밝힌 바 있다. 뜨거운 지열과 찬 공기가 만나 대기가 불안정해지며 하루에도 수차례 비가 오락가락..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_695865_16599202825130892.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
