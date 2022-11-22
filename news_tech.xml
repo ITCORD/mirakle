@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, ‘디지털 마케팅 인사이트 2023’서 인사이트 발표]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1049346</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1049346</guid>
+            <pubDate>Tue, 22 Nov 2022 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 플래티어(대표 이상훈)가 22일 잠실 롯데호텔에서 열리는 ‘디지털 마케팅 인사이트 2023’에 참석해 퍼스트파티 데이터를 활용한 이커머스 고객 공략법을 소개했다고 22일 밝혔다. ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1049346_16690967425246490.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔터프라이즈블록체인-‘동남아 우버’ 그랩, 합작사 설립 나선다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1031971</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
             <content:encoded><![CDATA[경비지출관리 솔루션 제공 기업 비즈플레이(대표 김홍기)가 오는 6월 15일 경비지출관리 업무 현황 및 비즈플레이 실제 고객사 활용 사례를 통해 경비지출업무 디지털 전환의 효과를 소개하는 웨비나를 개최한다. ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_515099_16550853745073442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버추얼 유튜버, 메타버스 엔터산업의 미래를 보여주다.]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=474127</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=474127</guid>
-            <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[오는 6월 8일 일본 도쿄거래소에 `애니칼라`라고 하는 다소 수상한 회사가 상장한다. 이 회사가 운영하는 연예기획사인 ‘니지산지’에는 수많은 개인 인플루언서들이 소속되어있다. 하지만 홈페이지에 들어가 보..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_474127_16538110595058571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
