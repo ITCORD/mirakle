@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 00:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 02:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,83 +246,88 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_474127_16538110595058571.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘남들과는 다르게’, 프리미엄 리빙 중요시하는 MZ취향 저격 나선 스타트업 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1046053</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1046053</guid>
-            <pubDate>Mon, 21 Nov 2022 16:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[홈 스타일링부터 해외 명품 리빙 브랜드 리셀링까지…나만의 취향을 반영한 주거 공간 중시하는 MZ 고객 타깃 서..]]></content:encoded>
+            <title><![CDATA[솔라브리지, 지붕형 태양광 발전소 단기 투자 상품 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047813</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047813</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[충청북도 충주시 999kW 지붕형 태양광 발전소 사업으로 투자자 모집 중 연이율 14% 고금리와 3개월의 짧은 투자 기간, 태양광 사업의 안정성이 강점  재생에너지 전문 투자 플랫폼 솔라브리지(대표 김태호)가 높은 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047813_16690812665246125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디캠프, 22개 금융기관과 협조해 연중 최대 규모의 디데이 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1045386</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1045386</guid>
-            <pubDate>Mon, 21 Nov 2022 16:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[11월 디데이x디캠프 올스타전 24일 개최 초기스타트업 5개사, 성장가도 기업 5개사 이노뱃, 베터데이터 등 해외기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1045386_16690138235245200.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘맞춤형 보험 가입 플랫폼’ 세이브노트, 10억 원 시드 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047806</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047806</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[서울대기술지주, 스트롱벤처스, 고려대기술지주가 투자 맞춤형 보험 가입 플랫폼 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047806_16690811425246118.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[PTC, 현장 서비스 관리 SaaS 전문 기업 서비스 맥스 인수 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043526</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043526</guid>
-            <pubDate>Mon, 21 Nov 2022 16:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[PTC의 폐쇄 루프 PLM 포트폴리오에 서비스 역량을 더해 시장 리더십 이어갈 것  제조 고객들이 제품 성능, 고객 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1043526_16689928825244566.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[젤리크루, 협업 크리에이터 누적 정산액 60억 원 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047802</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047802</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[상위 크리에이터 3인 평균 누적 정산액 4억원  핸드허그(대표 박준홍)의 크리에이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047802_16690811415246110.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[서비스 로봇 스타트업 ‘엑스와이지’, 100 억원 규모 시리즈 A 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043496</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043496</guid>
-            <pubDate>Mon, 21 Nov 2022 16:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[마그나인베스트먼트, 현대자동차 제로원, 삼성벤처투자 등 6 개사 참여 바리스타 로봇, 아이스크림 로봇 등 자동..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1043496_16689926425244552.png" length="0" type="image/png"/>
+            <title><![CDATA[악어디지털, 에이스손해보험과 ‘보험금 청구 자동화’ 사업 진행 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047799</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047799</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[AI 기반 문서 전자화 기업 악어디지털(대표 김용섭)이 글로벌 보험기업 CHUBB 그룹의 국내 계열사인 에이스아메리칸화재해상보험주식회사(사장 에드워드 콥, 이하 에이스손해보험)와 보험금 청구 프로세스 자동화 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047799_16690811415246121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[글로벌 HR 서비스 딜(Deel), 파트너 프로그램 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043408</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043408</guid>
-            <pubDate>Mon, 21 Nov 2022 16:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[해외 고용 관련 모든 서비스를 제공하는 마켓플레이스 목표 기업 고객사 대상 에어비앤비, AWS, 슬랙, AVIS렌트카..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1043408_16689922225244518.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[채널톡, 이메일 연동 및 권한 세분화 추가 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047798</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047798</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[채널톡이 카카오 상담톡, 네이버 밴드, 인스타그램 DM(Direct Message)에 이어 이메일까지 하나의 툴에서 통합 관리할 수 있는 옴니 채널 기능을 강화했다. 올인원 비즈 메신저 채널톡을 운영하는 채널코퍼레이션(..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047798_16690811415246122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경영분석 플랫폼 ‘하이퍼라운지’,106억 원 규모 시리즈A 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043254</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1043254</guid>
-            <pubDate>Mon, 21 Nov 2022 16:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[알타라벤처스, 퓨처플레이, 스톤브릿지, BA파트너스, 유경PSG, 넥스트랜스, 유클릭 등 투자 중소 및 중견기업 경영진을 위한 실시간 경영 데이터 분석 SaaS 상용화 올 2월 상용화 후 맘스터치, 정샘물뷰티 등 다양한..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1043254_16690053625244874.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아톤, 로보어드바이저기업 쿼터백에 전략투자 단행…”핀테크 경쟁력 시너지 기대” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047674</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047674</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[핀테크 보안기업 아톤(ATON, 대표 김종서)이 로보어드바이저 기반 디지털 자산운용기업 쿼터백그룹(대표 장두영)에 전략적 투자를 단행해 지분 약 40%를 취득했다고 22일 밝혔다. 아톤은 이번 전략 투자를 계기로 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047674_16690802425246088.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자율주행 로봇 ‘뉴비’, ‘CES 2023’ 혁신상 수상 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1036502</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1036502</guid>
-            <pubDate>Fri, 18 Nov 2022 07:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행 로봇 배달 플랫폼 뉴빌리티(대표 이상민)의 자율주행 로봇 ‘뉴비(Neubie)’가 CES 2023 스마트시티 부문 혁신상을 수상했다고 18일 밝혔다. CES 혁신상은 미국소비자기술협회(CTA: Consumer Technology A..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1036502_16687553415242297.png" length="0" type="image/png"/>
+            <title><![CDATA[포자랩스, 순이엔티와 ‘AI 음원 활용한 숏폼 마케팅’ MOU 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047572</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047572</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터 맞춤형 AI 음원 제작해 콘텐츠 경쟁력 강화할 계획  AI 음원 창작 기업..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047572_16690794615246074.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아프지마, 전국 병의원별 전립선 결찰술 가격 조회비교 서비스 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1035929</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1035929</guid>
-            <pubDate>Fri, 18 Nov 2022 07:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[비급여 병원비 정보 조회 플랫폼 ‘아프지마’를 서비스하고 있는 아프지마(대표 김대이)가 전국 병의원별 전립선 결찰술 가격 조회 및 비교 서비스를 시작한다고 18일 밝했다. 전립선 결찰술은 전립선 비대증 환자..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1035929_16687495225242010.png" length="0" type="image/png"/>
+            <title><![CDATA[스타트업 더블엔씨-대덕소프트웨어마이스터고
+
+IT 인재 양성 위한 산학협력 체결 및 채용 연계 나서 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047407</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047407</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[더블엔씨, 대덕소프트웨어마이스터고와 IT 인재 양성 및 우수 개발자 채용을 위한 산학협력 체결 IT직무 현장 실..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047407_16690782025246048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이어엑스, 인포뱅크와 IBK캐피탈로부터 프리 A 브릿지 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1034714</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1034714</guid>
-            <pubDate>Fri, 18 Nov 2022 07:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 매장 업무관리 플랫폼 ‘워키도키’ 및 우리 동네 무인매장 관리 서비스 ‘브라우니’ 운영사 ‘하이어엑스’가 인포뱅크와 IBK캐피탈로부터 프리 A 브릿지 투자를 유치했다고 18일 밝혔다. ‘워키도키’..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1034714_16687341025241515.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스토어링크-카이스트(KAIST),
+
+‘리뷰 데이터 기반 소구점 분석’ 기술 개발 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047391</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047391</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[스토어링크, 카이스트 BREIL 팀과의 협업 통해 마케팅 효율성 극대화하는 혁신 기술 완성 100여개 오픈마켓 리뷰 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047391_16690779625246040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콘텐츠테크놀로지스, 485억원 규모 시리즈 A 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1034713</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1034713</guid>
-            <pubDate>Fri, 18 Nov 2022 07:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[메이븐그로쓰 등 13개 투자사가 투자 참여 음원IP사 비욘드뮤직 등 7개사 컴퍼니빌딩 아시아를 선도하는 테크&amp;..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1034713_16687341025241517.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인텔리시스, 초거대 인공지능(AI) 활용한 쇼핑몰 큐레이션 서비스 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047354</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1047354</guid>
+            <pubDate>Tue, 22 Nov 2022 02:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[스토리를 중심으로 상품 광고문구를 자동 창작하는 인공지능 서비스 ‘리스토리닷에이아이’ ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1047354_16690775415246024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘온라인 쇼핑’ 업계의 성장…그 중심에는 ‘이것’이 있다 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
