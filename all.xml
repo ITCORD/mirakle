@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 16:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 17:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,6 +171,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저데이터, ‘인플레이션 시대’ 마케팅 조사 결과 공개 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1055381</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1055381</guid>
+            <pubDate>Thu, 24 Nov 2022 17:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[미국 소비자 2000명과 마케터 대상 조사 마케터 10명중 7명 “예산 삭감” “고객 데이터 최적화 부실로 38% 낭비..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1055381_16691846425247862.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플래티어, ‘디지털 마케팅 인사이트 2023’서 인사이트 발표 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1049346</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1049346</guid>
@@ -241,14 +249,6 @@
             <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
             <content:encoded><![CDATA[전세계 콘텐츠 크리에이터들이 치열하게 경쟁하는 유튜브. 최근 크리에이터 콘텐츠는 점점 대형화되고 시리즈화 되어가고 있다. `1인 방송` 스트리머 중 가장 대형 기획에 강한 것은 트위치에서 활동하는 `우왁굳`..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_694391_16600152535130315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비즈플레이, ‘AI기반의 경비지출업무 자동화’ 무료 웨비나 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=515099</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=515099</guid>
-            <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[경비지출관리 솔루션 제공 기업 비즈플레이(대표 김홍기)가 오는 6월 15일 경비지출관리 업무 현황 및 비즈플레이 실제 고객사 활용 사례를 통해 경비지출업무 디지털 전환의 효과를 소개하는 웨비나를 개최한다. ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_515099_16550853745073442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디캠프, 스타트업 축제 ‘올스타리그’ 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
