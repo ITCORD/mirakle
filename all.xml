@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_515099_16550853745073442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디캠프, 스타트업 축제 ‘올스타리그’ 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1060722</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1060722</guid>
+            <pubDate>Thu, 24 Nov 2022 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(상임이사 김영덕)가 24일 프론트원 1층에서 ‘디캠프 올스타전’을 개최했다. 이날 행사는 글로벌 밋업, 디캠프 오피스아워, 디데이, 올스타 네트워킹으로 진행됐다. 글로벌 밋업은 싱가..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1060722_16692784815249884.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[“미수금 없애라”… 식자재 외상거래 피해 없애는 푸드테크 스타트업 각광 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1058092</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1058092</guid>
@@ -269,8 +277,8 @@
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1057762</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1057762</guid>
             <pubDate>Thu, 24 Nov 2022 07:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[대전광역시 유성구 어은동 4층 건물, 연 5%대 수익률 5년 장기 임대차계약 1만 1,600㎡ 규모의 스타트업 파크 건..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1057762_16692512415248976.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[대전광역시 유성구 어은동 3층 건물, 연 5%대 수익률 5년 장기 임대차계약 1만 1,600㎡ 규모의 스타트업 파크 건설로 주변 상업부지 호재  부동산 조각 투자 플랫폼 ‘소유’를 운영하는 루센트블록(대표 허세영)이 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1057762_16692745215249628.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코코지, 오디오 콘텐츠로 아이들의 표현력과 상상력 길러주는 ‘오리지널 아띠 4종’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
@@ -323,14 +331,6 @@
             <pubDate>Wed, 23 Nov 2022 10:11:30 GMT</pubDate>
             <content:encoded><![CDATA[한화호텔앤드리조트와 숙박과 업무 공간 결합된 ‘워크스테이’ 공동사업 ‘맞손’ 제주 한화 리조트 휴양지에 ‘..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1053373_16691665225247411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털치료제 전문기업 ‘하이’, 75억원 시리즈B 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1053351</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1053351</guid>
-            <pubDate>Wed, 23 Nov 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[CJ 인베스트먼트, 진앤파트너스 신규 투자자, 동화약품 전략적 투자자로 참여 글로벌 진출과 영업망 구축을 위한 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1053351_16691662815247403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘온라인 쇼핑’ 업계의 성장…그 중심에는 ‘이것’이 있다 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
