@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 00:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 02:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오몬스터, 브이로그 자동완성 ‘비브(ViiV)’로 글로벌 공략 나섰다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1062754</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1062754</guid>
+            <pubDate>Fri, 25 Nov 2022 02:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[비디오몬스터가 영국 런던에서 열린 ‘국제관광박람회’(WTM)을 시작으로 AI 기반 여행 브이로그 자동편집 앱 ‘비브’(ViiV)의 글로벌 런칭에 나섰다고 25일 밝혔다. 런던국제관광박람회는 스페인 마드리드 FITUR,..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1062754_16693350615250539.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디캠프, 스타트업 축제 ‘올스타리그’ 개최]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1060722</link>
@@ -80,16 +88,6 @@
             <pubDate>Wed, 23 Nov 2022 08:10:47 GMT</pubDate>
             <content:encoded><![CDATA[콜로세움은 서울시가 추진하는 디지털 물류 지원 실증사업의 협약 기업으로 선정되었다고 23일 밝혔다. 디지털 물류지원 실증사업은 지역 경제 활성화 및 온·오프라인 유통망 확장을 위한 물류 체계의 개선을 목적..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1053918_16691703625247525.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀스파르타 ‘웹개발종합반’, K-디지털 기초역량훈련
-
-단일강좌 최초 수강생 1만명 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1053392</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1053392</guid>
-            <pubDate>Wed, 23 Nov 2022 02:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[팀스파르타, 지난 해 6월 ‘K-디지털 기초역량훈련’ 훈련 기관으로 합류해 ‘스파르타 내일배움단’ 운영 스파르..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1053392_16691667025247416.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
