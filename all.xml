@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 13:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 14:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,6 +327,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1062754_16693350615250539.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[루나 FTX 위믹스 사태까지…휘청대는 가상자산, 앱 사용자 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1071181</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1071181</guid>
+            <pubDate>Mon, 28 Nov 2022 14:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[가상자산 약세장을 이르는 ‘크립토 윈터’가 지속되는 모양새다. 세계 각국의 금리 인상 기조에 따라 경기 침체 분위기가 이어지고 있는 탓이다. 지난 5월 ‘루나 사태’가 발생한 데 이어 반년도 채 지나지 않아 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1071181_16696167025254398.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[‘온라인 쇼핑’ 업계의 성장…그 중심에는 ‘이것’이 있다 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1046152</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1046152</guid>
@@ -397,14 +405,6 @@
             <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
             <content:encoded><![CDATA[‘반려동물 보유세’가 수면 위로 떠오르고 있다. 동물권 보호가 목적이지만 실효성 논란이 일고 있어 추진된다 해도 긴 시간이 소요될 것으로 전망된다. 그러나 보유세 도입이 언급되고 있는 현상만으로도 반려동..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_761429_16617358825150469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘혈세 낭비’일까…공공 배달 앱 이용 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=739524</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=739524</guid>
-            <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[정부나 지자체·공공기관에서 만든 공공 앱 대다수에는 혈세 낭비 지적이 잇따른다. 성과를 위해 일단 내놓긴 했지만 관리나 운영을 제대로 하지 않아 ‘무용지물’이라는 것이다. 비판이 이어지는 가운데 살아남은 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_739524_16611286225143788.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
