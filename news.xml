@@ -4,9 +4,19 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 23:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 00:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아파트 전문 부동산 중개 서비스 ‘우대빵’,
+
+10억 추가 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1074195</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1074195</guid>
+            <pubDate>Tue, 29 Nov 2022 00:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[우대빵, CJ인베스트먼트로부터 10억 원 추가 투자 유치…80억 원 규모로 시리즈 A 투자 마무리 아파트 거래량 전년 대비 2배 이상 증가, 누적 거래금액 8500억 원 달성 우대빵 직영점 및 가맹점 확장, 인력 확보, 추..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1074195_16696815625255314.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고객중심 서비스 제공하는 스타트업]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1071803</link>
@@ -78,14 +88,6 @@
             <pubDate>Mon, 28 Nov 2022 04:09:35 GMT</pubDate>
             <content:encoded><![CDATA[에이블리, 투자전략실 신설…글로벌 투자은행 뱅크오브아메리카 메릴린치 출신 이상민 투자 전략 총괄 리더 영입 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1069355_16695951015253702.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H2O호스피탈리티, 3분기 영업 매출 100억원 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1069329</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1069329</guid>
-            <pubDate>Mon, 28 Nov 2022 04:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[숙박과 레저 산업에서 디지털 혁신을 선도하는 호스피탈리티 테크 기업 H2O호스피탈리티(대표 이웅희, 이하 H2O)가 3분기 영업 매출 108억원을 달성했다고 밝혔다. 지난해 3분기에 비해서는 4배 이상(442%) 매출이 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1069329_16695948035253700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
