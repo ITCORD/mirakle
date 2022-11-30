@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“클라우드는 이제 개발팀 뿐 아니라 재무팀도 알아야”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1078665</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1078665</guid>
+            <pubDate>Wed, 30 Nov 2022 06:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[베스핀글로벌 옵스나우 개발 담당 박정호 상무 “시각화와 정확한 할당 통해 클라우드 지출 최적화” “AI로 사용..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1078665_16697682615256883.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어, 2022 인사이트 리포트 ‘제 3호’ 발행]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1075072</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Sep 2022 10:11:28 GMT</pubDate>
             <content:encoded><![CDATA[게임 스트리머 `우왁굳`의 초대형 기획 콘텐츠인 `고멤가요제`가 17일 밤 성공적으로 끝났다. 이날 밤 9시부터 시작된 `고멤가요제` 트위치 라이브 방송은 우왁굳 채널 기준 최대 8만명이 동시에 시청했으며 동시..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_822621_16634833365169629.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 상반기 매출액 234억원 역대최대 기록]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=713889</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=713889</guid>
-            <pubDate>Wed, 24 Aug 2022 23:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 ‘플래티어(대표 이상훈)’가 2022년도 상반기 경영실적을 12일 공시를 통해 밝혔다.플래티어가 12일 공시한 실적 내용에 따르면 상반기 매출액은 전년 동기 대비 36.6% 증가한 234..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/2022/08/image_readtop_2022_713889_1660781602.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
