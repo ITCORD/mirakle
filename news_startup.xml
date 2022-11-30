@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 10:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 11:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇키친 스타트업 웨이브, ‘돈까팡팡’ 런칭]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1081557</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1081557</guid>
+            <pubDate>Wed, 30 Nov 2022 11:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[아웃나우 성수점에 3번째 PB로 출시 돈가스 굽고 튀기는 작업을 로봇이 수행  로봇 주방 운영 서비스 스타트업 웨이브라이프스타일테크(대표 김범진, 이하 웨이브)가 캐주얼 돈가스 브랜드 ‘돈까팡팡’을 신규 런칭..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1081557_16697965825257833.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팀스파르타, PM 부트캠프 ‘SW캠프’ 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1079136</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 30 Nov 2022 06:13:24 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 펀드 결성해 한국과 싱가포르 스타트업의 해외 진출 지원  스타트업 액셀러..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1078532_16697672425256868.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닷슬래시대시, 관심사 반영 콘텐츠 강화]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1077122</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1077122</guid>
-            <pubDate>Tue, 29 Nov 2022 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘홈’ 전면 개편, 사용자의 관심사에 맞춘 감도 높은 콘텐츠와 참여형 이벤트 진행 나만의 의미 있는 기억들을 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1077122_16697095215256165.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
