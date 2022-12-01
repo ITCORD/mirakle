@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 04:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 아이디, LG TV 에 31개 FAST 채널 론칭]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</guid>
+            <pubDate>Thu, 01 Dec 2022 04:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠미디어그룹 NEW(넥스트엔터테인먼트월드, 회장 김우택)의 첫 사내벤처 뉴 아이디(NEW ID, 대표 박준경)가 30일, LG 전자의 글로벌 콘텐츠 스트리밍 플랫폼 LG 채널(LG Channels) 한국에 드라마, 예능, 교양, ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1083475_16698567025258606.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“클라우드는 이제 개발팀 뿐 아니라 재무팀도 알아야”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1078665</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Oct 2022 22:11:25 GMT</pubDate>
             <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 ‘플래티어(대표이사 이상훈)’가 지난 9월 개인화 상품 추천과 관련하여 상품 추천 장치, 방법 및 기록 매체 특허 등록을 완료했다고 13일 밝혔다.  플래티어가 이번에 등록한 특..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_906365_16656444075195643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우왁굳 `고멤가요제` 8만명 동시 시청, 트위치 시청자 전세계 1위]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=822621</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=822621</guid>
-            <pubDate>Mon, 19 Sep 2022 10:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[게임 스트리머 `우왁굳`의 초대형 기획 콘텐츠인 `고멤가요제`가 17일 밤 성공적으로 끝났다. 이날 밤 9시부터 시작된 `고멤가요제` 트위치 라이브 방송은 우왁굳 채널 기준 최대 8만명이 동시에 시청했으며 동시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_822621_16634833365169629.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
