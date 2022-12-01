@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 07:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 08:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_906365_16656444075195643.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아프지마, 서울지역 병의원별 영양주사 가격 조회, 비교 서비스 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1084928</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1084928</guid>
+            <pubDate>Thu, 01 Dec 2022 08:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[비급여 병원비 정보 조회 플랫폼 ‘아프지마’를 서비스하고 있는 아프지마(대표 김대이)가 서울 지역 병의원별 영양주사 가격 조회 및 비교 서비스를 1일부터 시작한다. 이용자들은 아프지마 앱을 통해 감초주사, ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1084928_16698723025258951.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[베트남 시장, K-스타트업 활약 무대가 되다! (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1083809</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1083809</guid>
@@ -321,14 +329,6 @@
             <pubDate>Thu, 01 Dec 2022 04:12:02 GMT</pubDate>
             <content:encoded><![CDATA[취향 중고거래 앱 번개장터(공동대표 강승현?최재화)가 서울 성동구 성수동에 ‘정품 검수 센터’를 공식 오픈하고, 브랜드 중고 거래 검수 활성화를 위해 박차를 가한다. 번개장터는 지난 4월, C2B2C(Consumer to ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1083357_16698558025258577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫타익스체인지, ‘공시 관리체계’ 강화...투자자 보호에 최우선 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1083274</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1083274</guid>
-            <pubDate>Thu, 01 Dec 2022 04:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산거래소 플랫타익스체인지(FlataExchange)는 최근 가상자산 시장 내 관련 법규의 미비와 이로 인한 운영의 불투명성 문제로 혼란이 가중되는 상황 속에서 투자자 보호에 더욱 만전을 기하기 위해 공시 관리..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1083274_16698552615258566.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루나 FTX 위믹스 사태까지…휘청대는 가상자산, 앱 사용자 현황은? (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
