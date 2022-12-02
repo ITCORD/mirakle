@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 05:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 06:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유진평의 K스타트업 진(단)평(가)] 투자 빙하기...스타트업 엑싯(Exit) 지분매각 IPO 잘하려면]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1089153</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1089153</guid>
+            <pubDate>Fri, 02 Dec 2022 06:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[경기 위축으로 스타트업 시장도 빙하기를 맞았네요. 그래서 씁쓸한 얘기지만, 지분 일부 또는 전부 매각 방식의 엑싯(exit)을 모색하는 창업자들이 많아지고 있다고 합니다. 거래소나 코스닥 시장에 상장하는 IPO(기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1089153_16699586425260587.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루나 FTX 위믹스 사태까지…휘청대는 가상자산, 앱 사용자 현황은?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1071181</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
             <content:encoded><![CDATA[수도권의 심야 시간 택시 대란이 뜨거운 감자다. 코로나로 축소된 택시 업계가 거리 두기 해제 이후 다시 늘어난 수요를 감당하지 못한 모양새다. 서울시는 택시 승차난 해소를 위해 기본요금 인상 및 심야 할증 체..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_784661_16623435695157383.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물 보유세 추진되나…인식 변화에 관련 앱 ‘훨훨’]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=761429</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=761429</guid>
-            <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[‘반려동물 보유세’가 수면 위로 떠오르고 있다. 동물권 보호가 목적이지만 실효성 논란이 일고 있어 추진된다 해도 긴 시간이 소요될 것으로 전망된다. 그러나 보유세 도입이 언급되고 있는 현상만으로도 반려동..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/08/image_readtop_2022_761429_16617358825150469.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
