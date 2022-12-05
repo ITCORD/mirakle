@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 11:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 12:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편의점 업계, 앱 사용자와 매출 모두 ‘상승 기류’]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1096514</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1096514</guid>
+            <pubDate>Mon, 05 Dec 2022 12:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부가 발표한 ‘22년 10월 주요 유통업체 매출동향’에 따르면 편의점 업계는 주요 유통업체의 ‘업태별 매출 구성비’ 중 16.8%를 차지하고 있다. 전년 동월과 비교해 0.6%p 오른 것으로 대형마트, 백화..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1096514_16702232425263766.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴 아이디, LG TV 에 31개 FAST 채널 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Oct 2022 06:52:35 GMT</pubDate>
             <content:encoded><![CDATA[이번달 29일 신인 아이돌 그룹이 서울의 CGV 영화관에서 신곡 발표 `쇼케이스`를 한다. 디지털 싱글 앨범과 두 가지 버전의 뮤직비디오를 최초 공개한다. 그런데 이 아이돌 그룹은  CGV 용산아이파크몰, 왕십리, ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_921017_16660686575200466.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어 그루비, 개인화 상품 추천 장치 특허 취득]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=906365</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=906365</guid>
-            <pubDate>Thu, 13 Oct 2022 22:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 ‘플래티어(대표이사 이상훈)’가 지난 9월 개인화 상품 추천과 관련하여 상품 추천 장치, 방법 및 기록 매체 특허 등록을 완료했다고 13일 밝혔다.  플래티어가 이번에 등록한 특..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_906365_16656444075195643.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
