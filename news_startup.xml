@@ -4,9 +4,19 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 10:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 11:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀스파르타 이범규 대표,
+
+‘제23회 소프트웨어 산업인의 날’ 대통령 표창 수상]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1100693</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1100693</guid>
+            <pubDate>Tue, 06 Dec 2022 11:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[팀스파르타가 온라인 코딩 교육 저변 확대와 디지털 인재 양성을 위한 기업 공로를 인정받았다. 코딩 교육 스타트업 ‘팀스파르타’의 이범규 대표가 ‘제23회 소프트웨어(SW) 산업인의 날’에서 대통령 표창을 수..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1100693_16703103615265188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뱅크웨어글로벌, 제59회 무역의 날 핀테크 부문 ‘서비스탑’ 수상]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1098807</link>
@@ -82,14 +92,6 @@
             <pubDate>Tue, 06 Dec 2022 02:14:22 GMT</pubDate>
             <content:encoded><![CDATA[제이앤피메디가 디지털 임상시장의 새로운 미래를 열어 갈 인재를 영입한다. 의료 데이터 플랫폼 기업 제이앤피메디(대표 정권호)는 개발과 글로벌 분야에 걸쳐 두 자릿수 규모의 신입 및 경력사원을 모집한다고 6..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1098543_16702875625264551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씽크라이크펫,100% 식물성 원료로 만든 비건 간식 ‘해피트릿’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1096515</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1096515</guid>
-            <pubDate>Mon, 05 Dec 2022 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[디렉터스그룹이 운영하는 반려견 자연식 전문 브랜드 씽크라이크펫이 첫 비건 간식인 ‘해피트릿’을 출시했다고 밝혔다. 이번에 새롭게 출시한 ‘해피트릿‘은 100% 식물성 원료로 만들어져 육류 알러지가 있는 반..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1096515_16702222835263746.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
