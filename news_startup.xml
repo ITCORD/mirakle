@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[급여선지급 서비스 페이워치, 130억원 규모 프리시리즈A 투자유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1103419</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1103419</guid>
+            <pubDate>Wed, 07 Dec 2022 06:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[급여선지급 서비스를 제공하는 스타트업 페이워치가 900만달러(한화 약 130억원 규모) 프리 시리즈A 투자를 유치했다고 7일 밝혔다. 이번 라운드 투자는 페이워치의 기존 투자사인 뉴욕소재 벤처캐피털 서드프라임(..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1103419_16703887225266308.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라엘, ‘여성소비자가 뽑은 좋은 기업 대상’ 수상]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1102666</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 06 Dec 2022 11:09:07 GMT</pubDate>
             <content:encoded><![CDATA[팀스파르타가 온라인 코딩 교육 저변 확대와 디지털 인재 양성을 위한 기업 공로를 인정받았다. 코딩 교육 스타트업 ‘팀스파르타’의 이범규 대표가 ‘제23회 소프트웨어(SW) 산업인의 날’에서 대통령 표창을 수..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1100693_16703103615265188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅크웨어글로벌, 제59회 무역의 날 핀테크 부문 ‘서비스탑’ 수상]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1098807</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1098807</guid>
-            <pubDate>Tue, 06 Dec 2022 02:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 코어뱅킹 소프트웨어(SW) 개발기업 뱅크웨어글로벌(각자대표 이경조?이은중)이 제59회 무역의 날 기념식에서 ‘서비스탑’을 수상했다고 6일 밝혔다. 뱅크웨어글로벌은 지난 2020년 ‘무역의 날 유공자 표..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1098807_16702896025264607.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
