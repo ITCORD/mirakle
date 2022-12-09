@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알리콘, ‘집무실’ 8호점 분당점 오픈]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1109745</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1109745</guid>
+            <pubDate>Fri, 09 Dec 2022 03:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[주거지 기반의 분산 오피스 ‘집무실’을 운영하는 알리콘 (공동대표 김성민, 조민희)은 경기도권 최초의 분산 오피스 일산에 이은 경기도권 두번째 지점으로 집무실 8호점인 분당점을 오픈한다고 9일 밝혔다. 분당..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1109745_16705473615269206.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자란다, ‘2023 겨울캠프’ 런칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1109651</link>
@@ -63,7 +71,7 @@
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1106222</guid>
             <pubDate>Thu, 08 Dec 2022 15:10:57 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 1위 알람앱 ‘알라미’의 운영사인 딜라이트룸(대표: 신재명)이 ‘제59회 무역의 날’ 기념식에서 ‘천만불 수출의 탑’을 수상했다고 8일 밝혔다 한국무역협회가 주최하고, 산업통상자원부가 주관하는 ‘무..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1106222_16704642625267492.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1106222_16705463425269180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“이제 치킨 배달도 됩니다” 파블로항공, 드론배송 서비스망 확장]]></title>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 08 Dec 2022 15:10:57 GMT</pubDate>
             <content:encoded><![CDATA[더 나은 인터넷 환경을 위한 보안, 성능 및 안정성을 제공하는 클라우드플레어(Cloudflare, Inc., NYSE: NET)가 한국 지사 설립을 발표했다. 클라우드플레어는 싱가포르에 위치한 아태지역 본사, 그리고 베이징, 시..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1106207_16704639625267484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코코지, ‘뽀로로 로보카폴리 아띠’ 디지털 플레이리스트 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1106100</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1106100</guid>
-            <pubDate>Thu, 08 Dec 2022 15:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[키즈 오디오 테크 스타트업 코코지(대표 박지희)가 자사의 교육용 오디오 플레이어 ‘코코지 하우스와 아띠’에서 들을 수 있는 ‘뽀로로 로보카폴리’ 디지털 플레이리스트를 출시한다고 8일 밝혔다. 새로 선보인 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1106100_16704625815267454.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
