@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 16:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 17:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[핸디즈, 13번째 지점 ‘르컬렉티브 서울서초’ 오픈 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1116712</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1116712</guid>
+            <pubDate>Mon, 12 Dec 2022 17:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[숙박 위탁운영 서비스 1등 스타트업 핸디즈(대표 정승호)는 서울 서초동에 프리미엄 스테이 ‘르컬렉티브 서울서초’ 를 13번째 지점으로 오픈한다고 12일 밝혔다. 올해 2월 여수웅천점을 시작으로, 속초등대, 부산..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1116712_16708221625272696.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[편의점 업계, 앱 사용자와 매출 모두 ‘상승 기류’ (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1096514</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1096514</guid>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 19 Oct 2022 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[지금 전세계에서 언론의 자유가 위협받고 있다. 저널리즘이 그 어느 때보다 중요하다(Journalism Matters)  지난 9월 28일부터 30일까지 스페인 사라고사에서 열린 세계뉴스미디어총회(World News Media Congres..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_924054_16661423385201601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커지는 한국 버추얼 시장.. 남성 버추얼 아이돌 CGV서 쇼케이스 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=921017</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=921017</guid>
-            <pubDate>Tue, 18 Oct 2022 06:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[이번달 29일 신인 아이돌 그룹이 서울의 CGV 영화관에서 신곡 발표 `쇼케이스`를 한다. 디지털 싱글 앨범과 두 가지 버전의 뮤직비디오를 최초 공개한다. 그런데 이 아이돌 그룹은  CGV 용산아이파크몰, 왕십리, ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/10/image_readtop_2022_921017_16660686575200466.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핏펫, 반려동물 사진공모전 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
