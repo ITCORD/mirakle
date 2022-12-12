@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 09:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 10:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에듀테크 앱 어디가 잘 되나]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1116714</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1116714</guid>
+            <pubDate>Mon, 12 Dec 2022 10:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[정보기술(IT)이 결합된 교육 ‘에듀테크(edutech)’는 2020년 국내 코로나 확진 발생 이후 급속도로 활성화됐다. 감염병 확산 우려로 비대면 교육이 불가피해졌기 때문이다. 에듀테크는 단순한 온라인 교육을 뛰어넘..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1116714_16708221625272699.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유진평의 K스타트업 진(단)평(가)] 투자 빙하기...스타트업 엑싯(Exit) 지분매각 IPO 잘하려면]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1089153</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
             <content:encoded><![CDATA[주식 시장이 대중화된 데는 스마트폰의 발달이 큰 영향을 미쳤다. MTS(Moblie Trading System) 도입으로 주식 거래 편의성이 높아짐에 따라 개인 투자자들이 대거 유입된 것이다. 지난해까지 열풍을 일으켰던 주식 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_826353_16635795995170875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘택시 대란’에 웃는 택시 호출 앱]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=784661</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=784661</guid>
-            <pubDate>Fri, 04 Nov 2022 14:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[수도권의 심야 시간 택시 대란이 뜨거운 감자다. 코로나로 축소된 택시 업계가 거리 두기 해제 이후 다시 늘어난 수요를 감당하지 못한 모양새다. 서울시는 택시 승차난 해소를 위해 기본요금 인상 및 심야 할증 체..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_784661_16623435695157383.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
