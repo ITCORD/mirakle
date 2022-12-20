@@ -1,93 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
+        <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 05:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 06:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[디캠프 12월 프리디데이에서 ‘알피’우승]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1138484</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1138484</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[은행권청년창업재단 디캠프(상임이사 김영덕)는 이번 12 월 프리 디데이에서 알피(대표 김중희)가 우승했다고 19일 밝혔다. 17 일 서울대학교 의과대학 융합관 양윤선홀에서 개최된 이번 행사는 서울대학교 의과대..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1138484_16714341025281887.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아프지마, 병원 입지분석 및 경쟁력 강화 컨설팅 서비스 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1140485</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1140485</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[비급여 진료항목 정보 조회 플랫폼 ‘아프지마’를 서비스하고 있는 아프지마(대표 김대이)가 전국 병의원별 입지분석 및 경쟁력 강화 컨설팅 서비스를 시작했다고 20일 밝혔다. 건강보험심사평가원에 의하면 2021..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1140485_16715028025282808.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[핏펫, 반려동물 아플 때 꼭 필요한 ‘케어’ 서비스 신규 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1138332</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1138332</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 반려생활을 선도하는 핏펫(대표 고정욱)이  기존의 ‘병원찾기’ 기능을 업그레이드 한 ‘케어’ 서비스를 새롭게 론칭 한다고 19일 밝혔다. 반려동물의 특성 상 같은 질환이라도 상태나 증상이 매우 다르기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1138332_16714331425281822.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼테크놀로지스, K-디지털 그랜드 챔피언십에서 ‘최우수상’ 수상]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137603</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137603</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[민관의 창업벤처 프로그램 집중지원을 통해 국내 최고의 디지털 청년기업 발굴과 육성을 위한 ‘2022 K-디지털 그랜드 챔피언십’에서 뤼튼테크놀로지스가 최우수상을 수상했다. 경기 스타트업캠퍼스에서 열린 ‘K-..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1137603_16714251025281616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨처플레이, 2022년 결산 ‘퓨처플레이, 2022 혁신의 기록’ 공개]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137304</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137304</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[퓨처플레이(각자대표 류중희, 권오형)가 2022년의 성과를 결산한 ‘퓨처플레이, 2022 혁신의 기록’을 19일 공개했다. 이번 수치는 2022년 12월 5일 기준이다. 먼저 퓨처플레이는 150억 원 규모의 프리IPO(상장 전 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1137304_16714182615281496.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와디즈, 올해 펀딩 시장을 이끈 영향력 있는 브랜드 ‘2022 와디즈 어워즈’ TOP 10 발표]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137266</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137266</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 펀딩 시장에서 맹활약하며 주목받은 10팀의 베스트 메이커가 탄생했다. 라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 올 한 해를 마무리하며, 와디즈를 통해 혁신적이고 새로운 서비스로 일상의 변화를 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1137266_16714179625281480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이와 부모가 모두 만족하는 차일드케어 서비스로의 성장, 디프런트도어즈]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137218</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137218</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[“아이들을 위한, 아이들과 사는 방식을 고민합니다. 어린이를 위한 공간을 새로운 방식으로 만듭니다“ 블루포인트파트너스 입주 공간에서 만난 디프런트도어즈 김보경 대표의 말이다. 디프런트도어즈는 블루포인..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1137218_16714249225281612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종합 리빙 플랫폼 어반베이스,
+            <title><![CDATA[AI 기반 외국어학습 전문 스타트업 에듀템
 
-리빙 복합문화공간 ‘어반베이스 동탄’ 개관]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137217</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1137217</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인테리어 플랫폼 ㈜어반베이스(대표 하진우)가 토탈 리빙 브랜드로 도약하기 위한 첫 여정을 시작했다. 어반베이스는 리빙 복합문화공간인 ‘어반베이스 동탄’의 개관식을 갖고 본격 운영에 들어갔다고 밝혔..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1137217_16714173625281447.jpg" length="0" type="image/jpg"/>
+중기부 ‘팁스’(TIPS) 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1140002</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1140002</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[AI 기반 외국어학습 전문 스타트업 ‘에듀템’(공동대표 신정훈 김진숙)이 중소벤처기업부 민간투자형 기술창업 투자 프로그램 팁스(TIPS)에 최종 선정됐다고 20일 밝혔다. 팁스는 중기부와 민간 투자사가 함께 시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1140002_16714988425282629.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부동산 조각투자 ‘펀블’ 앱, 누적 다운로드 수 10만 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1136418</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1136418</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[부동산 조각투자 플랫폼 서비스인 ‘펀블’ 앱이 출시 5개월만에 누적 다운로드 수 10만을 돌파했다. 펀블은 소수의  자산가들만이 가능하다고 여겨지던 고액의 상업용 부동산 투자를 STO(Security Token Offering)..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1136418_16714108815281199.png" length="0" type="image/png"/>
+            <title><![CDATA[베스핀글로벌 日 합작법인 ‘지젠(G-gen)’, 설립 1년 만에 고객사 100곳 돌파]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139977</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139977</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)과 일본의 클라우드 인티그레이터(Cloud Integrator) 기업 서버웍스(대표 오오이시 료)가 함께 설립한 합작 법인 ‘지젠(G-gen)’이 사업 추진 약 1년 만..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139977_16714986025282623.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[H2O X 리플레이스, 지방 소멸 위기 극복 위해 광주시와 협약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1136400</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1136400</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[소멸 위기에 처한 국내 지방 도시에서 지역 특성을 살린 매력적인 공간을 만들어 온 H2O호스피탈리티 자회사 리플레이스(대표 도원우)가 광주법인 ‘광지주’를 설립하고 광주 전남 지역의 지방 소멸 위기 문제 해..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1136400_16714106425281190.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[본투글로벌, “글로벌 비즈니스 기회 발굴, 10년 안에 글로벌 유니콘 기업 100개 키울 것”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139959</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139959</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[“실리콘밸리처럼 많은 경륜과 혜안을 얻을 수 있는 글로벌 전문가 네트워크가 필요.”(센드버드 김동신 대표) “해외투자자들이나 글로벌 기업들이 신뢰할 수 있는 ‘크레디트 마크’로 역할해야”(쿼드벤처스 김..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139959_16715029225282815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하우스앱, ‘패션 뷰티’ 카테고리 론칭…라이프스타일 커머스 도약]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1136383</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2022&amp;no=1136383</guid>
-            <pubDate>Mon, 19 Dec 2022 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 숏폼 리뷰 커머스 플랫폼 ‘하우스앱(Houseapp)’을 운영하는 하우스미디어(대표이사 김성민)는 쇼핑 카테고리를 패션 뷰티로 확장하고 이를 기념한 연말 기획전을 진행한다고 19일 밝혔다. 하우스앱은 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1136383_16714104625281183.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[플랫타익스체인지 ‘24365고객응대 시스템’ 구축,
+
+24시간 연중무휴, 실시간 전국 커버 응대 역량 선보일 것]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139951</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139951</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[리버스 전문 가상자산 거래소 플랫타익스체인지(FlataExchange)는 투자자 보호와 실시간 응대 역량 강화를 위해 서울뿐만 아니라 대구 지역에도 콜센터를 여는 등 자체 고객 응대서비스 시스템 ‘24365체제’를 운..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139951_16714982425282608.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마크비전, ‘IP 비즈니스 인프라 SaaS 기업’ 비전 선포]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139840</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139840</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 기업 마크비전이 ‘IP 비즈니스 인프라 SaaS 기업’을 새 비전으로 선포하고 단계별 경영전략 및 운영 방향성에 대해 발표했다. 마크비전은 그동안 IP 운영을 위한 통합적인 업무 환경을 제공하기 위해 진..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139840_16714973425282569.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸드 버티컬 플랫폼 윙잇, 2022 푸드 쇼핑 트렌드 키워드 ‘H.M.R’ 발표]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139808</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139808</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[푸드 버티컬 커머스 스타트업 윙잇(대표 임승진)이 2022년을 정리하는 푸드 쇼핑 트렌드 키워드를 ‘H.M.R’로 선정했다고 20일 밝혔다. 윙잇은 올해 1월부터 11월까지의 사용자 실시간 검색어와 구매 데이터를 분..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139808_16714969215282556.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 플랫폼 스페이셜, 유니티 기반 크리에이터 툴키트 공개… 몰입감 있는 ‘웹3’시대 견인한다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139800</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139800</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스 플랫폼 스페이셜(공동대표 이진하, 아난드 아가라왈라)이 20일 게임엔진 유니티 기반의 새로운 크리에이터 툴키트를 공개했다. 수준 높은 그래픽과 상호작용 경험을 쉽게 만들어 웹, 모바일, VR에서 실행..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139800_16714967415282554.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마플코퍼레이션, CCO로 이효진 전 플러스엑스 대표 영입]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139714</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139714</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[마플코퍼레이션이 크리에이터 브랜딩 강화를 위해 크리에이티브 전문가 이효진 전 플러스엑스 공동대표를 최고크리에이티브책임자(CCO)로 영입했다. 이효진 CCO는 2014년부터 브랜드 경험(BX) 디자이너로 활동해온 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139714_16714962025282545.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콜로세움, 명절 선물을 위한 빠른 배송 서비스 구축]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139705</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2022&amp;no=1139705</guid>
+            <pubDate>Tue, 20 Dec 2022 06:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[콜로세움이 다가오는 23년 설날 연휴를 대비하고 명절 및 연말연시와 같이 특정 기간에만 물동량이 집중되는 시즌에 물량을 안정적으로 소화할 수 있는 ‘오늘배송’ 서비스를 시작한다고 20일 밝혔다. 이번 ‘오늘..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1139705_16714960825282540.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
