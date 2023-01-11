@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 12:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 13:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG CNS가 본 CES2023 “클라우드 로보틱스가 IT업계 성장동력 될 것” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=32445</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=32445</guid>
+            <pubDate>Wed, 11 Jan 2023 13:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[전세계에서 가장 큰 테크쇼로 불리는 CES2023이 막을 내렸다. 미국 라스베이거스에서 매년 1월에 열리는 이번 행사는 팬데믹이 끝난 이후 열리면서 10만명이 넘는 사람들이 몰렸다. 한국 기업들도 전시, 미팅 등 다..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_32445_16734139825311339.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나노씨엠에스, CES2023에서 바이러스 사멸램프 소개 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=17217</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=17217</guid>
@@ -239,14 +247,6 @@
             <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 플래티어(대표 이상훈)가 22일 잠실 롯데호텔에서 열리는 ‘디지털 마케팅 인사이트 2023’에 참석해 퍼스트파티 데이터를 활용한 이커머스 고객 공략법을 소개했다고 22일 밝혔다. ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1049346_16690967425246490.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔터프라이즈블록체인-‘동남아 우버’ 그랩, 합작사 설립 나선다 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1031971</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1031971</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[재능마켓플래폼 구축 인도네시아에 공동구축  딥테크 기업 ‘엔터프라이즈블록체인..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1031971_16686738025240773.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국시니어연구소, 거주지와 지역사회 돌봄 위한 ‘통합재가센터’ 1호점 개설 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
