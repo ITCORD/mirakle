@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 08:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 09:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇 기업 알피, 도로 노면표시 그리는 ‘알봇’출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=77045</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=77045</guid>
+            <pubDate>Fri, 27 Jan 2023 09:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[로봇전문기업 알피(RP)가 노면표시 도장로봇인 알봇(RBOT)을 출시하고 공격적으로 영업에 나서고 있다. 알봇은 지난해 11월, 한국도로공사 부산경남본부와 협업으로 고속도로 노면표시 작업을 성공적으로 수행했다...]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_77045_16748016025330275.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈잉, B2B 서비스 ‘탈잉BIZ’ 선보여 “직무교육 포함 자기계발 등 복지 프로그램 제공”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=75907</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 26 Jan 2023 06:09:50 GMT</pubDate>
             <content:encoded><![CDATA[로봇기반 헬스케어 기업 에이치로보틱스는 과학기술정보통신부에 신청한 ‘비대면 재활치료 상담 서비스’가 ICT 규제 샌드박스 지정조건 변경 승인을 완료했다고 26일 밝혔다. 이에 따라 에이치로보틱스는 비대면 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_72219_16746977415328172.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테이크원컴퍼니, 모바일 신작 ‘뿌까 퍼즐 어드벤처’ 글로벌 정식 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=72191</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=72191</guid>
-            <pubDate>Thu, 26 Jan 2023 06:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[테이크원컴퍼니가 신작 모바일 퍼즐 게임 ‘뿌까 퍼즐 어드벤처’의 글로벌 정식 서비스를 시작한다. 모바일 게임 ‘BTS월드’ 개발사 테이크원컴퍼니(대표 정민채)는 자사가 개발, 퍼블리싱 하는 ‘뿌까 퍼즐 어드..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_72191_16746974415328161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
