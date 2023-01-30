@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 07:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 08:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜로세움-NHN KCP?풀필먼트 서비스 활성화 위해 MOU]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82528</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82528</guid>
+            <pubDate>Mon, 30 Jan 2023 08:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[콜로세움과 NHN KCP가 풀필먼트와 간편결제 서비스 및 솔루션 고도화를 위해 협력한다. 초간단 물류경쟁력, 콜로세움(대표 박진수)과 NHN한국사이버결제(대표 박준석, 이하 NHN KCP)가 1월31일 ‘이커머스 PG·간편..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_82528_16750562415333057.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[플래티어, D2C 솔루션 ‘엑스투비’ GS인증 1등급 획득]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82527</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82527</guid>
+            <pubDate>Mon, 30 Jan 2023 08:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 플래티어(대표 이상훈, 367000)는 자사 이커머스 솔루션 ‘엑스투비(X2BEE)’가 한국산업기술시험원(KTL·원장 김세종)으로부터 굿소프트웨어(GS) 품질인증 1등급을 획득했다고 30일 밝..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_82527_16750562415333058.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아산나눔재단, 아산 유스프러너 데모데이 ‘뉴 두어즈’ 성공 개최]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=39416</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[콘텐츠미디어그룹 NEW(넥스트엔터테인먼트월드, 회장 김우택)의 첫 사내벤처 뉴 아이디(NEW ID, 대표 박준경)가 30일, LG 전자의 글로벌 콘텐츠 스트리밍 플랫폼 LG 채널(LG Channels) 한국에 드라마, 예능, 교양, ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1083475_16698567025258606.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“클라우드는 이제 개발팀 뿐 아니라 재무팀도 알아야”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1078665</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1078665</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[베스핀글로벌 옵스나우 개발 담당 박정호 상무 “시각화와 정확한 할당 통해 클라우드 지출 최적화” “AI로 사용..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1078665_16697682615256883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 2022 인사이트 리포트 ‘제 3호’ 발행]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1075072</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1075072</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[NFT(대체불가토큰) 주제.. 마케팅 효과 분석  디지털 플랫폼 솔루션 전문기업 플래..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/11/image_readtop_2022_1075072_16696888225255559.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
