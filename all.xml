@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,6 +173,14 @@ IPTV 업계 최초 ‘핑크퐁 놀이교실’ 서비스 출시 (미라클 어�
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아산나눔재단, ‘아산 유스프러너’ 2023년도 참여학교 모집 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=91875</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=91875</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[올해부터 초등학교 30곳 추가선정 21일까지 홈페이지에서 온라인 접수 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_91875_16752377425336517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콜로세움-NHN KCP?풀필먼트 서비스 활성화 위해 MOU (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82528</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82528</guid>
@@ -245,12 +253,64 @@ IPTV 업계 최초 ‘핑크퐁 놀이교실’ 서비스 출시 (미라클 어�
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1096514_16702232425263766.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뉴 아이디, LG TV 에 31개 FAST 채널 론칭 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠미디어그룹 NEW(넥스트엔터테인먼트월드, 회장 김우택)의 첫 사내벤처 뉴 아이디(NEW ID, 대표 박준경)가 30일, LG 전자의 글로벌 콘텐츠 스트리밍 플랫폼 LG 채널(LG Channels) 한국에 드라마, 예능, 교양, ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1083475_16698567025258606.png" length="0" type="image/png"/>
+            <title><![CDATA[퍼틸레인, 퍼포먼스 마케팅 대행사 블루오렌지 인수 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=91874</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=91874</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[종합 마케팅 에이전시 퍼틸레인은 블루오렌지커뮤니케이션즈(이하 블루오렌지)를 인수했다고 1일 밝혔다. 블루오렌지는 다양한 산업군의 퍼포먼스 마케팅 수행과 네이버·카카오의 공식 대행사 선정을 통해 중견 대..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_91874_16752377425336518.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스캐터랩, 남성 AI 친구 ‘강다온‘ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=91624</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=91624</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 이루다 2.0 이은 남성 챗봇 가상 얼굴 제작해 버추얼 휴먼 구현 2월2일 오후3시부..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_91624_16752351625336360.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디렉터스컴퍼니, ‘2022 앤어워드’ 9개 부문 수상 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=91623</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=91623</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[종합광고대행사 ‘디렉터스컴퍼니’가 ‘2022 앤어워드(&amp;Award)’에서 Grand Prix 2개, Winner 7개, 총 9개 부문에서 수상을 했다고 1일 밝혔다. 한국디지털기업협회가 주관하고 과학기술정보통신부가 공식 후..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_91623_16752351615336361.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에이럭스, 코딩로봇 학습교구 ‘프로보 시리즈’ 누적 판매 40만대 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88896</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88896</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[로봇 전문 에듀테크 기업 에이럭스(대표 이치헌, 이다인)는 로봇 교구 프로보 시리즈(프로보 커넥트, 프로보 테크닉) 출시 5년 만에 누적 판매량 40만대를 돌파했다고 밝혔다. 40만대는 우리나라 초등학생 6명중 1..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_88896_16752108025335683.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더핑크퐁컴퍼니, SK브로드밴드와 파트너십 체결…
+
+IPTV 업계 최초 ‘핑크퐁 놀이교실’ 서비스 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88857</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88857</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 패밀리 엔터테인먼트 기업 더핑크퐁컴퍼니(대표 김민석)가 SK브로드밴드(대표 유영상)와 파트너십을 체결, IPTV 업계 최초로 ‘핑크퐁 놀이교실’ 서비스를 출시한다고 1일 밝혔다. 더핑크퐁컴퍼니는 변화하..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_88857_16752103815335678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윌로그, 서일이앤엠㈜과 일본 대기업에 자사솔루션 제공을 위한 MOU 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88856</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88856</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[㈜윌로그(배성훈, 윤지현 각자대표)가 한국기업의 글로벌 시장 진출을 지원하는 스타트업 전문상사 서일이앤엠㈜(최건수 대표)과 MOU를 체결하고, 서일이앤엠의 글로벌 네트워크를 활용하여 윌로그의 제품 정보 기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_88856_16752103815335679.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코리빙 하우스 맹그로브 운영사 ‘MGRV’,
+
+125억원 규모 시리즈B 브릿지 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88839</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=88839</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티 기반 주거 서비스인 코리빙 하우스 ‘맹그로브’를 운영하는 부동산 임팩트 디벨로퍼 엠지알브이(MGRV, 대표 조강태)가 125억원 규모의 시리즈B 브릿지 투자를 유치하며, 총 275억원 규모로 시리즈B 투자..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_88839_16752102025335673.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[화해, 브랜드사 마케팅 지원을 위한
@@ -279,70 +339,6 @@ VIP 고객과 함께한 첫 ‘미식살롱’ 성료 (미라클 어헤드 ─ T
             <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
             <content:encoded><![CDATA[국내 1위 레스토랑 예약 앱 캐치테이블의 미식 프로모션 ‘캐치 더 데이(CATCH THE DAY)’가 1월 더 특별해진 ‘미식살롱’ 행사로 고객들과 만나 뜨거운 관심을 얻었다. 외식업 전문 통합 솔루션 기업 와드(대표 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_85208_16751295015334198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포바이포, 버추얼 휴먼 ‘루시’로
-
-롯데홈쇼핑과 라이브커머스 진행 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84765</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84765</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼 테크 솔루션 기업 포바이포(4by4, 대표: 윤준호)가 버추얼 휴먼 ‘루시’의 라이브커머스를 제작, 진행한다고 31일 밝혔다. 이번 라이브커머스 방송은 31일 오후 8시 ‘루시’의 공식 유튜브 채널에서 진행..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_84765_16751253615334087.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이언로켓, AI 아바타 앱 ‘미버스(Meverse)’ 국내 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84746</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84746</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[AI 스타트업 라이언로켓(대표 정승환)이 독자적인 기술을 활용한 새로운 AI 아바타 앱 ‘미버스(Meverse)’를 국내 전격 출시했다고 31일 밝혔다. 미버스(Meverse)는 광활한 멀티버스 속 또 다른 나를 찾는다는 의..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_84746_16751251815334085.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바비톡, 성형 정보 앱 경쟁력 강화 및 신사업 전개 위해
-
-2023 전 직군 공개채용 실시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84681</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84681</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내 1위 미용의료 정보 앱 바비톡(대표 신호택)이 사업 경쟁력 강화 및 신규 비즈니스 전개를 위한 전 직군 공개채용에 나선다고 31일 밝혔다. 모집 분야는 ‘서비스 기획/개발’ 부문 △PO(Product Owner) △PD(P..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_84681_16751247025334070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리디, 글로벌 웹툰 구독 서비스 ‘만타(Manta)’ 스페인어 확장 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84670</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84670</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠 플랫폼 기업 리디(대표 배기식)는 글로벌 웹툰 구독 서비스 ‘만타(Manta)’의 스페인어 서비스를 정식 지원한다고 31일 밝혔다. 북미를 중심으로 빠르게 성장한 ‘만타(Manta)’는 이번 스페인어 서비스 확..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_84670_16751244615334068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최적경로 당일배송 서비스 ‘투데이(To-Day)’ 운영사 브이투브이,
-
-‘한국형 무공해차 전환 100(K-EV100)’ 참여 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84662</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84662</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[최적경로 당일배송 서비스 ‘투데이(To-Day)’를 운영하는 브이투브이가 ‘한국형 무공해차 전환100(K-EV100)’에 가입하며 본격적인 친환경 도시물류 구축에 나선다고 밝혔다. ‘한국형 무공해차 전환 100(K-EV100..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_84662_16751243415334066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시니어 개인 비서 서비스 ‘똑비’ 운영사
-
-‘토끼와두꺼비’, 매쉬업엔젤스로부터 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84630</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=84630</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[시니어를 위한 개인 비서 서비스 ‘똑비’를 운영하는 ‘토끼와두꺼비(대표 함동수)’가 초기 스타트업 전문 투자사 ‘매쉬업엔젤스(대표파트너 이택경)’로부터 초기 투자를 유치했다. 매쉬업엔젤스는 2013년에 설..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_84630_16751240415334061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스위트바이오, 105억 규모 시리즈B 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=81535</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=81535</guid>
-            <pubDate>Tue, 31 Jan 2023 02:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[식품 기반 바이오테크 기업 ㈜스위트바이오(대표 오종민)가 총 105억원 규모의 시리즈B 투자를 유치했다고 30일 밝혔다. 스위트바이오는 지난 2020년 12월 비에이파트너스로부터 30억원 규모의 시리즈A 투자 유치를..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_81535_16750445415332755.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에듀테크 앱 어디가 잘 되나 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>

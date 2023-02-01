@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아산나눔재단, ‘아산 유스프러너’ 2023년도 참여학교 모집]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=91875</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=91875</guid>
+            <pubDate>Wed, 01 Feb 2023 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[올해부터 초등학교 30곳 추가선정 21일까지 홈페이지에서 온라인 접수 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_91875_16752377425336517.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콜로세움-NHN KCP?풀필먼트 서비스 활성화 위해 MOU]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=82528</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부가 발표한 ‘22년 10월 주요 유통업체 매출동향’에 따르면 편의점 업계는 주요 유통업체의 ‘업태별 매출 구성비’ 중 16.8%를 차지하고 있다. 전년 동월과 비교해 0.6%p 오른 것으로 대형마트, 백화..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1096514_16702232425263766.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 아이디, LG TV 에 31개 FAST 채널 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1083475</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠미디어그룹 NEW(넥스트엔터테인먼트월드, 회장 김우택)의 첫 사내벤처 뉴 아이디(NEW ID, 대표 박준경)가 30일, LG 전자의 글로벌 콘텐츠 스트리밍 플랫폼 LG 채널(LG Channels) 한국에 드라마, 예능, 교양, ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1083475_16698567025258606.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
