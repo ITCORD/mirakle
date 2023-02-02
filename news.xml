@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 10:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 11:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크비전, 인공지능기술로 IP 전 생애를 관리하다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=96005</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=96005</guid>
+            <pubDate>Thu, 02 Feb 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘마크비전이 IP 생애주기 전체를 관리하는 기업으로 거듭나겠다.’ 마크비전이 작년 말 ‘IP 비즈니스 인프라 SaaS 기업’으로의 비전을 선포했다. 마크비전이 IP 보호뿐만 아니라 IP 생성관리부터 라이센싱까지 I..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_96005_16753218025338029.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국시니어연구소, 업계 최초 돌봄혁신센터 신설]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=93028</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 01 Feb 2023 08:09:54 GMT</pubDate>
             <content:encoded><![CDATA[종합광고대행사 ‘디렉터스컴퍼니’가 ‘2022 앤어워드(&amp;Award)’에서 Grand Prix 2개, Winner 7개, 총 9개 부문에서 수상을 했다고 1일 밝혔다. 한국디지털기업협회가 주관하고 과학기술정보통신부가 공식 후..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_91623_16753124415337657.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이럭스, 코딩로봇 학습교구 ‘프로보 시리즈’ 누적 판매 40만대 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=88896</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=88896</guid>
-            <pubDate>Wed, 01 Feb 2023 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[로봇 전문 에듀테크 기업 에이럭스(대표 이치헌, 이다인)는 로봇 교구 프로보 시리즈(프로보 커넥트, 프로보 테크닉) 출시 5년 만에 누적 판매량 40만대를 돌파했다고 밝혔다. 40만대는 우리나라 초등학생 6명중 1..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_88896_16752108025335683.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
