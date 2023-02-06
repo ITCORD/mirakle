@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알지노믹스, 연세의료원과 난치성 질환 치료제 개발 협력]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=106311</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=106311</guid>
+            <pubDate>Mon, 06 Feb 2023 12:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[알지노믹스는 연세대학교 의료원과 RNA 기반 기술을 활용한 난치성 질환 치료제 개발을 위한 업무협약을 체결했다고 6일 밝혔다. 이번 협약에 따라 양기관은 전임상 및 임상연구를 포함한 치료제 개발 전반에 대해 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_106311_16756822825342899.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미기명 선불 금융기업 아이오로라, 시리즈A 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=103545</link>
@@ -83,14 +91,6 @@
             <pubDate>Fri, 03 Feb 2023 03:12:34 GMT</pubDate>
             <content:encoded><![CDATA[주식회사 닷(Dot, 대표이사: 김주윤, 성기광)이 134억원 규모 시리즈B 투자를 유치했다고 3일 밝혔다. 투자자로 참여한 새한창업투자의 김윤 박사와 인터베스트의 김유식 상무도 사외이사로 선임했다. 닷은 이번 시..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_97794_16753891815338841.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재, <위대한 개츠비> 도슨트북 공개]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=97662</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=97662</guid>
-            <pubDate>Fri, 03 Feb 2023 03:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 독서 플랫폼 밀리의 서재(대표 서영택)가 20세기 초반 미국 문학의 정수로 꼽히는 ‘위대한 개츠비’ 도슨트북을 공개한다고 3일 밝혔다. 도슨트북은 독자들이 ‘쉽고, 재미있게’ 독서를 접할 수 있도록..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_97662_16753873815338784.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
