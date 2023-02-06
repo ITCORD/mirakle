@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 20:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 21:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -172,6 +172,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알지노믹스, 연세의료원과 난치성 질환 치료제 개발 협력 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=106311</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=106311</guid>
+            <pubDate>Mon, 06 Feb 2023 21:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[알지노믹스는 연세대학교 의료원과 RNA 기반 기술을 활용한 난치성 질환 치료제 개발을 위한 업무협약을 체결했다고 6일 밝혔다. 이번 협약에 따라 양기관은 전임상 및 임상연구를 포함한 치료제 개발 전반에 대해 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_106311_16756822825342899.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[아산나눔재단, ‘아산 유스프러너’ 2023년도 참여학교 모집 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=91875</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=91875</guid>
@@ -242,14 +250,6 @@
             <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[숙박 위탁운영 서비스 1등 스타트업 핸디즈(대표 정승호)는 서울 서초동에 프리미엄 스테이 ‘르컬렉티브 서울서초’ 를 13번째 지점으로 오픈한다고 12일 밝혔다. 올해 2월 여수웅천점을 시작으로, 속초등대, 부산..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1116712_16708221625272696.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[편의점 업계, 앱 사용자와 매출 모두 ‘상승 기류’ (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1096514</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1096514</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부가 발표한 ‘22년 10월 주요 유통업체 매출동향’에 따르면 편의점 업계는 주요 유통업체의 ‘업태별 매출 구성비’ 중 16.8%를 차지하고 있다. 전년 동월과 비교해 0.6%p 오른 것으로 대형마트, 백화..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1096514_16702232425263766.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미기명 선불 금융기업 아이오로라, 시리즈A 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
