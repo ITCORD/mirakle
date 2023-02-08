@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 07:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[멋쟁이사자처럼, 교육브랜드 테킷 ‘블록체인 스쿨’ 오픈]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=112529</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=112529</guid>
+            <pubDate>Wed, 08 Feb 2023 07:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[프로그래밍 교육브랜드 멋쟁이사자처럼(이하 ‘멋사’)이 ‘테킷 블록체인 스쿨 3기’를 모집한다. 테킷 블록체인 스쿨(TECHIT Blockchain School) 3기는 총 18주간(3/10~7/14) 매주 온라인으로 운영될 예정이다. ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_112529_16758372015345156.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[장갑 만들다 버튜버 라이브 콘서트 열게 된 교수님]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=111495</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 07 Feb 2023 06:12:50 GMT</pubDate>
             <content:encoded><![CDATA[자연어처리 기반 AI 스타트업 튜닙(TUNiB)은 7일 건강 습관 앱 챌린저스와 함께 ‘블루니와 영어챗으로 세계여행 떠나기’ 챌린지를 진행했다고 밝혔다. 이번 챌린지는 2023년 새해 목표가 영어 공부인 사람들이 대..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_108176_16757433625343466.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지식 구독 서비스 롱블랙, 월 활성 사용자 20만명 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=108175</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=108175</guid>
-            <pubDate>Tue, 07 Feb 2023 06:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최초 24시간 제한 구독 미디어인 롱블랙의 월간 활성 이용자 수(MAU, Monthly Active User)가 20만명을 넘어섰다고 운영사 타임앤코가 7일 밝혔다. 2021년 9월 28일 런칭한 롱블랙은 매일 하나의 긴 글을 발행..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_108175_16757449225343499.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
