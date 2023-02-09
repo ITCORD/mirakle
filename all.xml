@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 16:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 17:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저데이터 “마테크 전문가 43% CDP 활용할 것” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=114062</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=114062</guid>
+            <pubDate>Thu, 09 Feb 2023 17:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[고객데이터플랫폼(CDP : Customer Data Platform)에 대한 기업인 대상 최근 설문 조사에 따르면, CDP가 고객 데이터 보안 및 개인 정보 보호 규정 기반의 강력한 마케팅 도구로서의 차원을 넘어 기업 미래 경영의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_114062_16759009225346178.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장갑 만들다 버튜버 라이브 콘서트 열게 된 교수님 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=111495</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=111495</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Jan 2023 05:08:56 GMT</pubDate>
             <content:encoded><![CDATA[나노소재 전문기업 나노씨엠에스는 미국의 살균램프 전문기업인 제너스바이오(Ghenus bio)와 세계 최대 가전·정보기술(IT) 박람회 ‘CES 2023’에 참가해 부스를 열었다고 6일 밝혔다. 나노씨엠에스는 5일부터 8일..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_17217_16729631415304793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세계아이돌 ‘리와인드’ 1년.. 성과와 전망 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1134669</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2022&amp;no=1134669</guid>
-            <pubDate>Tue, 20 Dec 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[“한국의 ‘서브컬처’ 및 ‘1인 방송’ 시장은 ‘리와인드’ 전 후로 나뉜다” ‘게임’ ‘만화’로 대표되는 서브컬처 시장과 ‘아프리카TV’, ‘트위치’로 대표되는 1인 방송 시장을 최근 1년 사이에 바꿔놓은 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/12/image_readtop_2022_1134669_16713292815280422.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이터라이즈, 카카오와 CRM 메시지 활성화를 위한 특수딜러 계약 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
