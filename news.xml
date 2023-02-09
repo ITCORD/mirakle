@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 00:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔젤스윙, 현대차그룹으로부터 전략적 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=114128</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=114128</guid>
+            <pubDate>Thu, 09 Feb 2023 00:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[드론 데이터로 건설 현장을 혁신하는 콘테크 스타트업 엔젤스윙(대표 박원녕)이 현대차그룹 ‘제로원’으로부터 투자를 유치했다고 밝혔다. 지난 2020년 5월 GS건설, 2022년 5월 삼성벤처투자(삼성물산 신기술투자..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_114128_16759022415346204.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저데이터 “마테크 전문가 43% CDP 활용할 것”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=114062</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=114062</guid>
+            <pubDate>Thu, 09 Feb 2023 00:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[고객데이터플랫폼(CDP : Customer Data Platform)에 대한 기업인 대상 최근 설문 조사에 따르면, CDP가 고객 데이터 보안 및 개인 정보 보호 규정 기반의 강력한 마케팅 도구로서의 차원을 넘어 기업 미래 경영의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_114062_16759009225346178.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[멋쟁이사자처럼, 교육브랜드 테킷 ‘블록체인 스쿨’ 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=112529</link>
@@ -72,22 +88,6 @@
             <pubDate>Wed, 08 Feb 2023 02:16:34 GMT</pubDate>
             <content:encoded><![CDATA[NFT 기반 웹3(탈중앙화 웹) 전문 스타트업 ‘비트블루(대표 주상식)’가 초기 스타트업 전문 투자사 ‘매쉬업엔젤스(대표파트너 이택경)’로부터 초기 투자를 유치했다. 비트블루는 NFT 대중화를 위해 지난해 11월 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_110846_16758151815344640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그루비, ‘이미지 기반 상품 추천 서비스’ 개발]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=108177</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=108177</guid>
-            <pubDate>Tue, 07 Feb 2023 06:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 ‘플래티어(대표 이상훈)’의 인공지능(AI) 마테크 솔루션인 ‘그루비(GROOBEE)’가 AI를 활용한 이미지 기반 상품 추천 서비스를 올 1분기에 선보인다고 7일 밝혔다. 그루비는 이커머스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_108177_16757433625343467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 스타트업 튜닙, 챗봇 이용 영어공부 챌린지 진행]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=108176</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=108176</guid>
-            <pubDate>Tue, 07 Feb 2023 06:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[자연어처리 기반 AI 스타트업 튜닙(TUNiB)은 7일 건강 습관 앱 챌린저스와 함께 ‘블루니와 영어챗으로 세계여행 떠나기’ 챌린지를 진행했다고 밝혔다. 이번 챌린지는 2023년 새해 목표가 영어 공부인 사람들이 대..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_108176_16757433625343466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
