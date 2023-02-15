@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 06:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 07:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아산나눔재단, 기업가정신 플랫폼 ‘마루’ 입주 스타트업 모집]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=129814</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=129814</guid>
+            <pubDate>Wed, 15 Feb 2023 07:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[아산나눔재단(이사장 장석환)이 기업가정신 플랫폼 ‘마루(180,360)’의 상반기 입주 스타트업을 선발한다고 15일 밝혔다. 마루는 아산나눔재단이 운영하는 기업가정신을 실천하고 확산하는 사람들을 위한 플랫폼으..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_129814_16764355215354102.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바비톡, 파마리서치와 전략적 파트너십 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=128975</link>
@@ -49,14 +57,12 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_128680_16764210035353776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국투자액셀러레이터,
-
-패션 스타트업 3개사에 총 7억 투자]]></title>
+            <title><![CDATA[한국투자액셀러레이터,패션 스타트업 3개사에 총 7억 투자]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=128661</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=128661</guid>
             <pubDate>Wed, 15 Feb 2023 03:14:14 GMT</pubDate>
             <content:encoded><![CDATA[한국투자금융지주가 설립한 한국투자액셀러레이터(이하 한투액, KIAC)가 패션 분야 스타트업 3개사(민트멤버스, 윤회, 테일러타운)에 총 7억원의 투자를 집행했다고 15일 밝혔다. 이들 3사는 지난 11월 ‘KIAC 바른..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_128661_16764207015353764.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_128661_16764360025354110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스켈터랩스, 연애 테크기업 럽디와 전략적 MOU 체결...“데이터 역량 강화 및 대화형 AI 기술력 고도화”]]></title>
@@ -81,14 +87,6 @@
             <pubDate>Tue, 14 Feb 2023 14:08:00 GMT</pubDate>
             <content:encoded><![CDATA[기술 혁신을 통해 한국 콘텐츠 글로벌 유통의 새로운 활로를 개척한 뉴 아이디(NEW ID, 대표 박준경)가 지난 1월 31일 방송 기술 기업 삼십구도씨(대표 우승원)의 지분 100% 인수 및 합병을 완료하며 방송/OTT/커머..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_127274_16763586625352986.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 엔터프라이즈를 위한 확장형 애자일 프레임워크(SAFe®) 파트너 계약 체결.]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=127265</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=127265</guid>
-            <pubDate>Tue, 14 Feb 2023 14:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 ‘플래티어(대표 이상훈)’가 14일 스케일드 애자일사(Scaled Agile, Inc.)와의 공식 파트너 체결을 밝히며 사업 진출을 선언했다. 최근 금융, 제조, IT 등 분야를 막론하고 경영화두로 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_127265_16763586025352983.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
