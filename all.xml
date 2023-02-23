@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[링커리어, ‘자소서 만능 검색기’ 누적 조회 수 3천만 회 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=152642</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=152642</guid>
+            <pubDate>Thu, 23 Feb 2023 07:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[대학생 취준생 커리어 플랫폼 ‘링커리어’의 ‘자소서 만능 검색기’ 기능이 누적 조회 수 3천만 회를 돌파했다. ‘자소서 만능 검색기’는 링커리어가 검증한 합격 자소서를 한 데 모아 구직자가 기업명, 직무 혹..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_152642_16771332625364746.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프지마, 고혈압, 당뇨병, 요양병원의 병원등급 조회 서비스 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=152602</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=152602</guid>
+            <pubDate>Thu, 23 Feb 2023 07:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[비급여 병원비 정보 조회비교 플랫폼 ‘아프지마’를 서비스하고 있는 헬스피디아(대표 김대이)가 고혈압 양호 등급, 당뇨병 양호 등급, 요양병원 1-2등급 병원 등급 조회 서비스를 23일부터 시작한다고 밝혔다. 가..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_152602_16771345825364791.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퍼블, 마이크로 서비스 아키텍처(MSA) 적용
 
@@ -74,24 +90,6 @@
             <pubDate>Thu, 23 Feb 2023 00:38:06 GMT</pubDate>
             <content:encoded><![CDATA[AI 기반 디지털 교육 기업 엘리스(대표 김재원)가 GPT-3를 기반으로 코딩 학습을 돕는 ‘AI 헬피’를 출시했다고 23일 밝혔다. AI 헬피는 엘리스 플랫폼 내 질의응답을 할 수 있는 ‘헬프 센터’에서 학습자를 위해..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150894_16771123215364164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 기반 검색 플랫폼 ‘라이너AI‘, 론칭 3주 만에 생성단어 40억건 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=150813</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=150813</guid>
-            <pubDate>Thu, 23 Feb 2023 00:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기반 검색 엔진 플랫폼 ‘라이너(대표 김진우)’가 자사 AI 검색 서비스 ‘라이너AI(LINER AI)’의 론칭 3주 만에 유저 검색을 통한 생성단어 40억건을 돌파했다고 23일 밝혔다. 라이너는 지난 2015년..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150813_16771114225364149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앙트러리얼리티, 美 실리콘밸리
-
-3D 크리에이터 마켓과 공식 파트너십 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=150801</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=150801</guid>
-            <pubDate>Thu, 23 Feb 2023 00:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[가상현실 스타트업 앙트러리얼리티가 글로벌 3D 크리에이터 마켓인 샌드스톰(SandStorm)과 공식 파트너십을 체결했다고 23일 밝혔다. 이번 파트너십 체결로 앙트러리얼리티는 3D 모션캡쳐와 뉴럴렌더링(NeRF) 기술..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150801_16771111815364142.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -253,6 +251,22 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_37469_16735093225313255.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[링커리어, ‘자소서 만능 검색기’ 누적 조회 수 3천만 회 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=152642</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=152642</guid>
+            <pubDate>Thu, 23 Feb 2023 07:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[대학생 취준생 커리어 플랫폼 ‘링커리어’의 ‘자소서 만능 검색기’ 기능이 누적 조회 수 3천만 회를 돌파했다. ‘자소서 만능 검색기’는 링커리어가 검증한 합격 자소서를 한 데 모아 구직자가 기업명, 직무 혹..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_152642_16771332625364746.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프지마, 고혈압, 당뇨병, 요양병원의 병원등급 조회 서비스 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=152602</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=152602</guid>
+            <pubDate>Thu, 23 Feb 2023 07:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[비급여 병원비 정보 조회비교 플랫폼 ‘아프지마’를 서비스하고 있는 헬스피디아(대표 김대이)가 고혈압 양호 등급, 당뇨병 양호 등급, 요양병원 1-2등급 병원 등급 조회 서비스를 23일부터 시작한다고 밝혔다. 가..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_152602_16771345825364791.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[퍼블, 마이크로 서비스 아키텍처(MSA) 적용
 
 동영상 및 라이브 운영 안정성 대폭 강화 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
@@ -319,24 +333,6 @@
             <pubDate>Thu, 23 Feb 2023 00:38:30 GMT</pubDate>
             <content:encoded><![CDATA[AI 기반 디지털 교육 기업 엘리스(대표 김재원)가 GPT-3를 기반으로 코딩 학습을 돕는 ‘AI 헬피’를 출시했다고 23일 밝혔다. AI 헬피는 엘리스 플랫폼 내 질의응답을 할 수 있는 ‘헬프 센터’에서 학습자를 위해..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150894_16771123215364164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 기반 검색 플랫폼 ‘라이너AI‘, 론칭 3주 만에 생성단어 40억건 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=150813</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=150813</guid>
-            <pubDate>Thu, 23 Feb 2023 00:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기반 검색 엔진 플랫폼 ‘라이너(대표 김진우)’가 자사 AI 검색 서비스 ‘라이너AI(LINER AI)’의 론칭 3주 만에 유저 검색을 통한 생성단어 40억건을 돌파했다고 23일 밝혔다. 라이너는 지난 2015년..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150813_16771114225364149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앙트러리얼리티, 美 실리콘밸리
-
-3D 크리에이터 마켓과 공식 파트너십 체결 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=150801</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=150801</guid>
-            <pubDate>Thu, 23 Feb 2023 00:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[가상현실 스타트업 앙트러리얼리티가 글로벌 3D 크리에이터 마켓인 샌드스톰(SandStorm)과 공식 파트너십을 체결했다고 23일 밝혔다. 이번 파트너십 체결로 앙트러리얼리티는 3D 모션캡쳐와 뉴럴렌더링(NeRF) 기술..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150801_16771111815364142.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에듀테크 앱 어디가 잘 되나 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
