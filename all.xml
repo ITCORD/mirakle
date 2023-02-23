@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 10:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디캠프, ‘디데이 글로벌 리그’ 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=153526</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=153526</guid>
+            <pubDate>Thu, 23 Feb 2023 10:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(대표이사 김영덕)는 해외 진출을 희망하는 국내 스타트업과 해외 창업 기업의 한국 정착을 돕기 위한 디데이 글로벌리그’를 23일, 프론트원에서 개최했다. 이번 행사에는 디캠프와 작년..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_153526_16771445425365273.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[링커리어, ‘자소서 만능 검색기’ 누적 조회 수 3천만 회 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=152642</link>
@@ -82,14 +90,6 @@
             <pubDate>Thu, 23 Feb 2023 00:38:06 GMT</pubDate>
             <content:encoded><![CDATA[중고 패션 쇼핑 서비스 ‘차란’을 운영하는 스타트업 마인이스 주식회사 (대표 김혜성)가 41.5억원 규모의 시드 투자를 유치했다고 밝혔다. 이번 투자는 굿워터캐피탈, CJ대한통운, SM컬처파트너스, T인베스트먼트..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150923_16771126225364172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스, GPT-3 기반 챗봇 ‘AI 헬피’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=150894</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=150894</guid>
-            <pubDate>Thu, 23 Feb 2023 00:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 디지털 교육 기업 엘리스(대표 김재원)가 GPT-3를 기반으로 코딩 학습을 돕는 ‘AI 헬피’를 출시했다고 23일 밝혔다. AI 헬피는 엘리스 플랫폼 내 질의응답을 할 수 있는 ‘헬프 센터’에서 학습자를 위해..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150894_16771123215364164.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -251,6 +251,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_37469_16735093225313255.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[디캠프, ‘디데이 글로벌 리그’ 개최 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=153526</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=153526</guid>
+            <pubDate>Thu, 23 Feb 2023 10:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(대표이사 김영덕)는 해외 진출을 희망하는 국내 스타트업과 해외 창업 기업의 한국 정착을 돕기 위한 디데이 글로벌리그’를 23일, 프론트원에서 개최했다. 이번 행사에는 디캠프와 작년..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_153526_16771445425365273.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[링커리어, ‘자소서 만능 검색기’ 누적 조회 수 3천만 회 돌파 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=152642</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=152642</guid>
@@ -325,14 +333,6 @@
             <pubDate>Thu, 23 Feb 2023 00:38:30 GMT</pubDate>
             <content:encoded><![CDATA[중고 패션 쇼핑 서비스 ‘차란’을 운영하는 스타트업 마인이스 주식회사 (대표 김혜성)가 41.5억원 규모의 시드 투자를 유치했다고 밝혔다. 이번 투자는 굿워터캐피탈, CJ대한통운, SM컬처파트너스, T인베스트먼트..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150923_16771126225364172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스, GPT-3 기반 챗봇 ‘AI 헬피’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=150894</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=150894</guid>
-            <pubDate>Thu, 23 Feb 2023 00:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 디지털 교육 기업 엘리스(대표 김재원)가 GPT-3를 기반으로 코딩 학습을 돕는 ‘AI 헬피’를 출시했다고 23일 밝혔다. AI 헬피는 엘리스 플랫폼 내 질의응답을 할 수 있는 ‘헬프 센터’에서 학습자를 위해..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_150894_16771123215364164.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에듀테크 앱 어디가 잘 되나 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
