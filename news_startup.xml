@@ -4,9 +4,16 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업 맞춤형 팀과 직책을 도입하고 있는 스타트업]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=160129</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=160129</guid>
+            <pubDate>Mon, 27 Feb 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[혁신적인 서비스를 만들기 위해 정형화된 틀을 탈피하고 맞춤형 조직과 직군을 만드는 스타트업들이 늘고있다. 스타트업은 하나의 비즈니스가 기업의 중심이 되는 경우가 많은데, 일반적인 조직은 상품 또는 서비스..]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[번개장터, ‘미래 중고 패션 트렌드 분석’ 리포트 발표,
 
@@ -84,14 +91,6 @@ PLC 취약점 문제 해결을 위한 협력]]></title>
             <pubDate>Mon, 27 Feb 2023 00:39:57 GMT</pubDate>
             <content:encoded><![CDATA[협업형 영상 편집 서비스형소프트웨어(SaaS), ‘?블(Ssemble)’ 개발사 브이로거(대표 이태준)가 블루코너와 신용보증기금, 패스트벤처스로부터 프리-A(Pre-A) 투자 유치했다고 27일 밝혔다. 투자 규모는 비공개다...]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_159391_16774560625368418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몰로코, 콘텐츠 사업자위한 머신러닝 기반의 신규 수익화 솔루션 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=155298</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=155298</guid>
-            <pubDate>Fri, 24 Feb 2023 05:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[퍼포먼스 마케팅과 머신러닝 분야의 선두 기업 몰로코(Moloco, 대표 안익진)가 스트리밍 및 OTT 서비스 기업들을 위한 새로운 수익화 솔루션을 출시했다. 몰로코의 신규 솔루션은 콘텐츠 소유자가 고유한 광고 사업..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_155298_16772148625366220.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
