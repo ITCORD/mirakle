@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 06:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모바일 강화한 ‘비즈플레이 4.0’, GS인증 1등급 획득]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=164140</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=164140</guid>
+            <pubDate>Tue, 28 Feb 2023 06:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 경비지출관리 서비스 전문기업 비즈플레이(대표 김홍기)는 자사의 ‘비즈플레이 4.0’이 GS인증(Good Software, 소프트웨어 품질 인증) 1등급을 획득했다고 28일 밝혔다. GS인증은 국산 소프트웨어의 품질을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_164140_16775613025370645.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KAIST홀딩스 대표로 차정훈 전 중기부 창업벤처혁신실장]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=137519</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 13 Jan 2023 04:17:42 GMT</pubDate>
             <content:encoded><![CDATA[아산나눔재단(이사장 장석환)이 지난 12일 연세대학교 백양누리 그랜드볼룸에서 개최한 ‘아산 유스프러너 데모데이-뉴 두어즈(New Doers)’를 성황리에 마무리했다고 13일 밝혔다. 아산 유스프러너는 아산나눔재단..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_39416_16735759825314133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코리아스타트업포럼, 슬러시 스핀오프 ‘슬러시드(Slush’D)’ 부산 개최 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=37469</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=37469</guid>
-            <pubDate>Thu, 12 Jan 2023 10:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[코리아스타트업포럼(의장 박재욱, 이하 코스포)이 세계 최대 스타트업 행사 ‘슬러시(Slush)’의 스핀오프 이벤트인 ‘슬러시드(Slush’D)’ 국내 주관기관으로 선정돼 올해 상반기 부산에서 행사를 개최한다고 12..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_37469_16735093225313255.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
