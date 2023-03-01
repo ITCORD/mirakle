@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 02:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛집편집샵 먼키, 외식브랜드 입점률 80.9%]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=166370</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=166370</guid>
+            <pubDate>Wed, 01 Mar 2023 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 외식플랫폼 먼슬리키친이 운영하는 맛집편집샵 먼키가 자사 플랫폼내 외식브랜드 입점률이 80.9%를 기록했다고 1일 밝혔다. 일반적인 배달형 공유주방이 배달시장 침체와 함께 입점률이 50%에 못미치는 상황..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_166370_16776384625371656.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日서 대박난 ‘버추얼유튜버’ 산업.. 한국에도 성공할까?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=166369</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=166369</guid>
+            <pubDate>Wed, 01 Mar 2023 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[일본 경제신문 닛케이의 산업전문지인 ‘닛케이 산업신문’은 지난달 15일 2022년 IPO 로 가장 큰 수익을 거둔 일본 벤처캐피털(VC) 두 곳을 소개했다. 중국이 모회사인 레전드 캐피털과 일본 VC 인 스카이랜드 벤..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_166369_16776384615371657.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모바일 강화한 ‘비즈플레이 4.0’, GS인증 1등급 획득]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=164140</link>
@@ -74,22 +90,6 @@
             <pubDate>Tue, 28 Feb 2023 02:16:43 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌(대표 이한주)은 지난 27일 통신사가 클라우드 비즈니스를 자동화하는데 특화된 ‘AI기반 Telco향 CMP’ 서비스를 스페인 바르셀로나에서 열린 MWC 2023에서 글로벌 통..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_163079_16775449825370233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원프레딕트 ‘가디원 모터’, 국내 최대 규모 ‘스마트공장 자동화산업전 2023’ 참가]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=163037</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=163037</guid>
-            <pubDate>Tue, 28 Feb 2023 00:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[산업AI 기반 설비 예측진단 솔루션 ‘가디원(GUARDIONE®)’의 개발사 원프레딕트가 3월 8일부터 10일까지 서울 삼성동 코엑스 전관에서 개최되는 ‘스마트공장 자동화산업전 2023’(Smart Factory+Automation Worl..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_163037_16775440815370214.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아드리엘, 이커머스 필승 생존 전략 공유하는 제3회 ‘A-Day 세미나’ 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=162988</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=162988</guid>
-            <pubDate>Tue, 28 Feb 2023 00:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 애드테크 기업 아드리엘(대표 엄수원)이 3월 16일 13시 30분부터 서울 잠실 롯데월드타워에서 2023년 이커머스 시장 생존 전략을 공유하는 제3회 ‘A-Day(에이데이) 세미나’를 진행한다. 아드리엘이 지난해..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_162988_16775436625370204.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
