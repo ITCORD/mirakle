@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠콘, 플러스플랫폼 주택담보대출 비교 서비스 구현]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=170729</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=170729</guid>
+            <pubDate>Thu, 02 Mar 2023 09:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[비즈니스 데이터 플랫폼 기업 쿠콘(대표 김종현)이 대출 비교 서비스 제공 기업 ‘플러스플랫폼(대표 소덕규)’의 주택담보대출 비교 서비스 중계 사업자로 참여한다고 2일 밝혔다. 플러스플랫폼은 2022년 3월 금융..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_170729_16777466415373318.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모바일 강화한 ‘비즈플레이 4.0’, GS인증 1등급 획득]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=164140</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 08:13:22 GMT</pubDate>
             <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 플래티어(대표 이상훈, 367000)는 자사 이커머스 솔루션 ‘엑스투비(X2BEE)’가 한국산업기술시험원(KTL·원장 김세종)으로부터 굿소프트웨어(GS) 품질인증 1등급을 획득했다고 30일 밝..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_82527_16750562415333058.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아산나눔재단, 아산 유스프러너 데모데이 ‘뉴 두어즈’ 성공 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=39416</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=39416</guid>
-            <pubDate>Fri, 13 Jan 2023 04:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[아산나눔재단(이사장 장석환)이 지난 12일 연세대학교 백양누리 그랜드볼룸에서 개최한 ‘아산 유스프러너 데모데이-뉴 두어즈(New Doers)’를 성황리에 마무리했다고 13일 밝혔다. 아산 유스프러너는 아산나눔재단..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/01/image_readtop_2023_39416_16735759825314133.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
