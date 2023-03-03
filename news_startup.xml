@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어메이즈VR, 2023년 세계에서 가장 혁신적인 라이브 공연 10대 기업 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=172432</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=172432</guid>
+            <pubDate>Fri, 03 Mar 2023 05:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[어메이즈VR이 미국 경제 전문매체 ‘패스트 컴퍼니(Fast Company)’가 2일(현지 시간) 발표한 ‘2023년 세계에서 가장 혁신적인 라이브 공연 10대 기업‘에 선정됐다고 3일 밝혔다. 패스트 컴퍼니가 선정한 ‘2023..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_172432_16778183415374276.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대가 즐기는 구독서비스는?]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=171676</link>
@@ -80,14 +88,6 @@ BTC 채용연계형 교육훈련생 3기 모집]]></title>
             <pubDate>Thu, 02 Mar 2023 02:23:13 GMT</pubDate>
             <content:encoded><![CDATA[㈜셀러노트(대표 이중원)가 운영중인 디지털 수입물류 포워딩 서비스 ‘쉽다’는 해외상품을 수입하는 기업들이 PO(Purchase Order, 발주서) 중심으로 쉽게 구매 및 운송내역을 관리할 수 있는 신규 기능을 공개했..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_168086_16777180215372371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼, 전문적인 글쓰기를 위한 AI 문장 생성 서비스 ‘뤼튼 도큐먼트’ 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=168076</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=168076</guid>
-            <pubDate>Thu, 02 Mar 2023 02:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[생성 AI 서비스 스타트업 ‘뤼튼테크놀로지스(대표 : 이세영)’가 전문적인 글쓰기를 위한 AI 문장 생성 서비스 ‘뤼튼 도큐먼트(wrtn Document)’를 출시했다고 2일 밝혔다. 뤼튼 도큐먼트는 시작부터 막막했던 사..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_168076_16777178425372362.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
