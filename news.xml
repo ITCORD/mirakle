@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘우리동네 백종원’과 1:1 장사 상담...‘창톡’ 상담료 20% 할인 프로모션]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=182359</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=182359</guid>
+            <pubDate>Tue, 07 Mar 2023 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[장사 노하우 품앗이 플랫폼 ‘창톡’이 사전 등록 이용자를 위한 할인 프로모션을 시작한다고 7일 밝혔다. 오는 4월 중순 창톡 앱 출시를 앞두고 미리 가입하는 소상공인 선착순 1000명에게 상담료 20% 할인권을 제..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_182359_16781758825379162.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마트푸드네트웍스 에쓰프레시와 합병 완료]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=181845</link>
@@ -82,16 +90,6 @@
             <pubDate>Tue, 07 Mar 2023 00:42:00 GMT</pubDate>
             <content:encoded><![CDATA[스마트 팩토리 설비예지보전 솔루션 전문기업 퓨처메인(대표 이선휘)이 오는 8일부터 10일까지 서울 코엑스에서 열리는 ‘스마트공장 자동화산업전2023(이하 SF+AW2023)’에 참가한다. SF+AW 2023은 아시아 최대 규..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_179781_16781474415378206.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영상 리뷰 생태계 만든 인덴트코퍼레이션,
-
-105억 시리즈A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=179751</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=179751</guid>
-            <pubDate>Tue, 07 Mar 2023 00:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최초 인공지능(AI) 기반 리뷰 마케팅 솔루션 ‘브이리뷰’를 운영하는 인덴트코퍼레이션(대표 윤태석)이 105억 규모의 시리즈A 투자를 유치했다고 7일 밝혔다. 이번 투자에는 기존 참여사였던 SV인베스트먼트 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_179751_16781469025378201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
