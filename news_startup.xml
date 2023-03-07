@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 06:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트푸드네트웍스 에쓰프레시와 합병 완료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=181845</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=181845</guid>
+            <pubDate>Tue, 07 Mar 2023 07:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[스마트푸드네트웍스(SFN)가 프랜차이즈 식자재유통 기업 에쓰프레시 인수합병 절차를 마무리했다. 이를 통해 SFN은 전국 대상 콜드 체인 풀필먼트 서비스와 종합식자재 유통 서비스, 식자재 새벽 배송 전문몰을 모..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_181845_16781706625378942.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[푸드헬스케어 스타트업 마음영양, 전문 쇼핑몰 ‘밸런스’ 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=181014</link>
@@ -84,14 +92,6 @@
             <pubDate>Tue, 07 Mar 2023 00:42:23 GMT</pubDate>
             <content:encoded><![CDATA[국내 최초 인공지능(AI) 기반 리뷰 마케팅 솔루션 ‘브이리뷰’를 운영하는 인덴트코퍼레이션(대표 윤태석)이 105억 규모의 시리즈A 투자를 유치했다고 7일 밝혔다. 이번 투자에는 기존 참여사였던 SV인베스트먼트 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_179751_16781469025378201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관악아날로그, 70억 규모의 시리즈 A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=179227</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=179227</guid>
-            <pubDate>Mon, 06 Mar 2023 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[아날로그 전력 반도체 SoC 설계 기업인 관악아날로그가 70억원을 투자 받으며 시리즈 A 투자 유치에 성공했다고 6일 밝혔다. 이번 투자는 미래에셋벤처투자가 주도하고, 키움 인베스트먼트, GU투자, 컴퍼니케이파트..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_179227_16780930815377896.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
