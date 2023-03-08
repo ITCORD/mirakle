@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 06:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트레저데이터 코리아, 고객 데이터 플랫폼 혁신 사례 세미나 성료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=184865</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=184865</guid>
+            <pubDate>Wed, 08 Mar 2023 06:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 고객데이터플랫폼(CDP : Customer Data Platform)을 선도하는 트레저데이터 코리아(Treasure Data Korea)가 마케팅, CX(고객 경험), DT/DX(CDO 조직), 컨택센터, 경영전략(CSO 조직), 데이터 활용/분석 분야..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_184865_16782540615380342.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[버넥트, 한국건설안전공사와 스마트 안전관리를 위한 업무협약 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=183627</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 07 Mar 2023 07:08:19 GMT</pubDate>
             <content:encoded><![CDATA[스마트푸드네트웍스(SFN)가 프랜차이즈 식자재유통 기업 에쓰프레시 인수합병 절차를 마무리했다. 이를 통해 SFN은 전국 대상 콜드 체인 풀필먼트 서비스와 종합식자재 유통 서비스, 식자재 새벽 배송 전문몰을 모..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_181845_16781706625378942.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[푸드헬스케어 스타트업 마음영양, 전문 쇼핑몰 ‘밸런스’ 오픈]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=181014</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=181014</guid>
-            <pubDate>Tue, 07 Mar 2023 05:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[푸드헬스케어 스타트업 마음영양이 건강기능식품 전문 쇼핑몰 ‘밸런스’를 정식 오픈했다고 7일 밝혔다. ‘밸런스’는 영양제를 편리하게 구매할 수 있는 버티컬 커머스 플랫폼이다. 소비자가 손쉽게 영양제 1일당..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_181014_16781646025378624.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
