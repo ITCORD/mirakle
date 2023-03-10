@@ -4,7 +4,7 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 00:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,14 +84,12 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_187010_16783225815381221.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[클라썸, 전년 대비 매출 약 300% 달성…
-
-삼성, LG, 현대 등 기업 잇따라 도입]]></title>
+            <title><![CDATA[클라썸, 전년 대비 매출 약 300% 달성…삼성, LG, 현대 등 기업 잇따라 도입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=186944</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=186944</guid>
             <pubDate>Thu, 09 Mar 2023 00:39:59 GMT</pubDate>
             <content:encoded><![CDATA[교육 및 지식 공유 플랫폼 클라썸(대표 이채린, 최유진)의 지난해 수주액이 전년 대비 291%를 달성했다. 사용 기관 수도 32개국 1만 1,000여 곳에 달해 ‘B2B SaaS(Software as a Service)’ 기업으로서 입지를 탄..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_186944_16783220425381202.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_186944_16784146825383100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
