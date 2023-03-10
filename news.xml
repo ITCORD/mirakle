@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 05:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 06:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토어링크, “최적화된 마케팅 전략으로 브랜드 성장과 글로벌 진출 돕는다.”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=191598</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=191598</guid>
+            <pubDate>Fri, 10 Mar 2023 06:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[“스토어링크는 데이터를 가장 빠르게 수집하고 이를 잘 분석하며, 이를 바탕으로 브랜드의 마케팅 효율을 올려주는 일을 하고 있는 곳이다.” 서울 중구 소재 사무실에서 만난 정용은 대표는 스토어링크에 대해 이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_191598_16784259625383439.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부동산 조각투자 플랫폼 ‘소유’, 주주 대상 첫 번째 ‘소유주데이’ 행사 성료]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=190522</link>
@@ -82,14 +90,6 @@
             <pubDate>Thu, 09 Mar 2023 02:22:34 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 워크 OS ‘Swit(스윗)’을 서비스하는 스윗테크놀로지스(대표 이주환)가 SaaS 통합 플랫폼 환경(SIP)인 Swit Developers 2.0을 출시하고 새로운 CI 및 BI를 함께 공개했다고 9일 밝혔다. Swit은 단일 기능만..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_187010_16783225815381221.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클라썸, 전년 대비 매출 약 300% 달성…삼성, LG, 현대 등 기업 잇따라 도입]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=186944</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=186944</guid>
-            <pubDate>Thu, 09 Mar 2023 00:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[교육 및 지식 공유 플랫폼 클라썸(대표 이채린, 최유진)의 지난해 수주액이 전년 대비 291%를 달성했다. 사용 기관 수도 32개국 1만 1,000여 곳에 달해 ‘B2B SaaS(Software as a Service)’ 기업으로서 입지를 탄..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_186944_16784146825383100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
