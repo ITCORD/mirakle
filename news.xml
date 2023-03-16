@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔스토리, 영국 파이낸셜타임즈 ‘2023 아시아 태평양 지역 고성장 기업’ 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=209046</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=209046</guid>
+            <pubDate>Thu, 16 Mar 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[숙박산업 마케팅, 디지털 전환(DX) 전문 기업 호텔스토리는 영국 경제지 파이낸셜타임즈(FT)와 글로벌 리서치 전문기관 스태티스타가 선정한 ‘2023 아시아 태평양 지역 고성장 기업’에 선정됐다고 16일 밝혔다. 2..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_209046_16789519815391637.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 액티브해진 ‘공간 와디즈’ 3주년… 아티스트 크리에이터까지 품는다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=206690</link>
@@ -78,16 +86,6 @@
             <pubDate>Wed, 15 Mar 2023 02:07:23 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹과 맞물려 채팅이나 메시지 같은 비대면을 더 선호하는 소비자의 트렌드에 따라 메타버스가 소통플랫폼으로 널리 사용되고 있는 가운데, 기업들의 메타버스의 활용도 늘고 있다.  선도적인 데이터 인사이트 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_203030_16788409225389117.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨처플레이, ‘고젝 VP’ 출신 창업가가 만든
-
-싱가포르 푸드테크 스타트업 ‘클리킷’에 투자]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=203002</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=203002</guid>
-            <pubDate>Wed, 15 Mar 2023 00:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[퓨처플레이가 식음료 매장 내 구독형 소프트웨어(SaaS) 플랫폼을 개발하는 싱가포르 기반 스타트업 ‘클리킷(klikit, 대표 크리스 위더스 Chris Withers)’의 시드 라운드 투자에 참여했다고 15일 밝혔다. 금액은 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_203002_16788406815389112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
