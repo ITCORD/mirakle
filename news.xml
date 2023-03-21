@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 09:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 10:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘플레이브’ K-버추얼 아이돌을 완성하다.]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=221403</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=221403</guid>
+            <pubDate>Tue, 21 Mar 2023 10:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[K팝 아이돌이라면 누구나 서보기를 선망하는 음악방송. 엠카(MNet 엠카운트다운), 뮤뱅(KBS 뮤직뱅크), 음중(MBC 쇼! 음악중심), 인가(SBS 인기가요)가 제일 유명하다. 18일 MBC 쇼! 음악중심에는 특이한 남자 아이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_221403_16793926215398050.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴빌리티, 삼성벤처투자로부터 30억 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=220619</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 21 Mar 2023 05:09:58 GMT</pubDate>
             <content:encoded><![CDATA[온오프믹스(대표 양준철)가 지속적인 사업 확장과 자사 이벤트 비즈니스 플랫폼의 성장을 위해 (주)넥스트스토리의 레저사업부 자산 및 구성원 전부를 인수했다고 21일 밝혔다. 인수 금액은 비공개다. 해당 사업부..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_219871_16793751625397292.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리랜서 마켓 ‘크몽’, 중소기업유통센터와 온라인쇼핑몰 입점 지원 사업 MOU]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=219833</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=219833</guid>
-            <pubDate>Tue, 21 Mar 2023 05:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[프리랜서 마켓 플랫폼을 운영하는 (주)크몽(대표 박현호)은 중소벤처기업부 산하 중소기업유통센터와 ‘2023년 온라인쇼핑몰 입점 지원 사업‘ 운영에 대한 업무 협약(MOU)을 체결했다고 밝혔다. 크몽은 이번 업무 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_219833_16793748035397278.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
