@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어 2022년 매출 500억 전년대비 19% 상승]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=227219</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=227219</guid>
+            <pubDate>Thu, 23 Mar 2023 06:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문 기업 플래티어(대표이사 이상훈)가 2022년도 경영실적을 23일 밝혔다. 플래티어는 2022년도 매출액 499.5억 원, 영업이익 31.8억 원, 당기순이익 39.6억 원을 기록했다. 매출액은 전년 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_227219_16795503615400446.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저데이터 코리아, 고객 데이터 플랫폼 혁신 사례 세미나 성료]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=184865</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Feb 2023 17:09:35 GMT</pubDate>
             <content:encoded><![CDATA[고객데이터플랫폼(CDP : Customer Data Platform)에 대한 기업인 대상 최근 설문 조사에 따르면, CDP가 고객 데이터 보안 및 개인 정보 보호 규정 기반의 강력한 마케팅 도구로서의 차원을 넘어 기업 미래 경영의 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_114062_16759009225346178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장갑 만들다 버튜버 라이브 콘서트 열게 된 교수님]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=111495</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=111495</guid>
-            <pubDate>Wed, 08 Feb 2023 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[젊은 세대들이 몰리는 1인 방송 플랫폼 트위치는 최근 아바타를 활용해 방송을 하는 ‘버추얼 유튜버(버튜버)’들이 인기다. 지난달 15일에는 4명의 버추얼 유튜버가 메타버스 콘서트를 열었다. 이들의 아바타가 메..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_111495_16758223225344822.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
