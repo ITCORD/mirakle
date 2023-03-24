@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 00:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 02:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코콘 커뮤니티 ‘놀이터’ 서비스 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=229485</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=229485</guid>
+            <pubDate>Fri, 24 Mar 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[초개인화 패션 스타일링 솔루션 개발사 블랙탠저린이 운영하는 AI 패션 스타일 추천 앱 ‘코콘’은 앱 내에 커뮤니티인 ‘놀이터’ 서비스를 출시했다고 24일 밝혔다. 놀이터는 패션, 퍼스널컬러, 페이스이미지 등 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_229485_16796184025401803.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에제드, 마케팅 얼라이언스 결성…공동 웨비나 오는 30일 개최]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=229470</link>
@@ -84,14 +92,6 @@
             <pubDate>Thu, 23 Mar 2023 02:00:35 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼 스페이셜(공동창업자 이진하, 아난드 아가라왈라)이 미국 샌프란시스코에서 열리고 있는 세계 최대 게임 개발자 행사 ‘GDC 2023’에서 “제로 인프라” 크리에이터 툴키트를 공개한다. 스페이셜은..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_225736_16795332625400005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수업 콘텐츠 플랫폼 쏠북, 신학기 맞아 대치동 프리미엄 자료 선보인다]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=225586</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=225586</guid>
-            <pubDate>Thu, 23 Mar 2023 02:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[라이선싱 기반의 수업 콘텐츠 플랫폼 쏠북을 운영하는 북아이피스(대표 윤미선)는 대치동 영어 일타강사들의 교재저작권을 해결한 정식 수업자료를 모아 ‘대치동 프리미엄관’을 오픈했다고 밝혔다. 수업 콘텐츠 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_225586_16795318215399965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
