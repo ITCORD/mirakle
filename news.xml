@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, NFT 유통·마케팅 솔루션 ‘X2BEE NFT’ 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=240601</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=240601</guid>
+            <pubDate>Tue, 28 Mar 2023 09:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 플래티어(대표 이상훈)가 블록체인 기술에 대한 깊은 이해 없이도 이커머스·D2C 플랫폼 내에서 손쉬운 NFT 민팅(발행) 및 판매 서비스를 제공하고, 이를 기반으로 마케팅 활동까지 지원..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_240601_16799933425407407.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소프트뱅크벤처스, 신임 파트너로 정지우 전 블랭크 부대표/CSO 재영입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=240160</link>
@@ -80,16 +88,6 @@
             <pubDate>Tue, 28 Mar 2023 02:04:18 GMT</pubDate>
             <content:encoded><![CDATA[바비톡이 국내 IT 스타트업 중 역대 두 번째로 국제광고제 애드페스트(ADFEST)에 입상했다. 국내 1위 미용의료 정보 앱 바비톡이 ‘가상 성형 시뮬레이션(Face the Fact)’ 캠페인으로 ‘애드페스트2023’ 디지털소..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_238166_16799646625406149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사무실 맞춤 간식 큐레이션 스타트업 스낵포,
-
-2023 직장인 간식 생활 리포트 발행]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=238152</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=238152</guid>
-            <pubDate>Tue, 28 Mar 2023 02:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[사무실 맞춤 간식 큐레이션 스타트업 스낵포가 간식 출고 데이터를 분석해 직장인 간식 생활의 실태와 전망을 보여주는 ‘2023 직장인 간식 생활 리포트’를 발행했다. ◇한 해 153억 원 규모 1,656만 개의 간식 분..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_238152_16799642425406144.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

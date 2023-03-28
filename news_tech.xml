@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, NFT 유통·마케팅 솔루션 ‘X2BEE NFT’ 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=240601</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=240601</guid>
+            <pubDate>Tue, 28 Mar 2023 09:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 플래티어(대표 이상훈)가 블록체인 기술에 대한 깊은 이해 없이도 이커머스·D2C 플랫폼 내에서 손쉬운 NFT 민팅(발행) 및 판매 서비스를 제공하고, 이를 기반으로 마케팅 활동까지 지원..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_240601_16799933425407407.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플래티어 2022년 매출 500억 전년대비 19% 상승]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=227219</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Feb 2023 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[에너지 스마트 미터링 전문 솔루션 스타트업 에스엠티(대표 이동욱)의 자가발전형 실시간 수질.수온 측정 샤워 케어 솔루션인‘Water N (워터엔)’이 ‘2023 에디슨 어워드 개인 테크놀로지 부문(PERSONAL TECHNOLO..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_137406_16766214625357802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저데이터 “마테크 전문가 43% CDP 활용할 것”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=114062</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=114062</guid>
-            <pubDate>Thu, 09 Feb 2023 17:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[고객데이터플랫폼(CDP : Customer Data Platform)에 대한 기업인 대상 최근 설문 조사에 따르면, CDP가 고객 데이터 보안 및 개인 정보 보호 규정 기반의 강력한 마케팅 도구로서의 차원을 넘어 기업 미래 경영의 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_114062_16759009225346178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
