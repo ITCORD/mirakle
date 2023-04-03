@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 08:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹케시그룹, 2023년 상반기 신입사원 공개 채용 실시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=257901</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=257901</guid>
+            <pubDate>Mon, 03 Apr 2023 08:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[B2B SaaS 전문기업 웹케시그룹(회장 석창규)이 2023년 상반기 신입사원 공개 채용을 진행한다고 3일 밝혔다. 웹케시그룹은 이번 공채를 통해 △SW개발 △UI/UX디자인 △상품 △사업 △영업 △행정 등 다양한 직무의..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_257901_16805067015415282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어, NFT 유통·마케팅 솔루션 ‘X2BEE NFT’ 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=240601</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Feb 2023 17:08:42 GMT</pubDate>
             <content:encoded><![CDATA[우리나라를 대표하는 공과대학인 KAIST의 기술지주인 KAIST홀딩스 대표이사로 차정훈 전 중기부 창업벤처혁신실상이 선임됐다. KAIST 관계자에 따르면 차 실장은 오는 3월부터 업무를 맡게될 예정이다. 차정훈 전 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_137519_16766227825357857.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스엠티, 에디슨 어워드 최종 수상 후보로 올라]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=137406</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=137406</guid>
-            <pubDate>Fri, 17 Feb 2023 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[에너지 스마트 미터링 전문 솔루션 스타트업 에스엠티(대표 이동욱)의 자가발전형 실시간 수질.수온 측정 샤워 케어 솔루션인‘Water N (워터엔)’이 ‘2023 에디슨 어워드 개인 테크놀로지 부문(PERSONAL TECHNOLO..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_137406_16766214625357802.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
