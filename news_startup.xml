@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 06:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 KTOA 벤처리움 입주기업 데모데이 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=260759</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=260759</guid>
+            <pubDate>Tue, 04 Apr 2023 06:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국통신사업자연합회(KTOA) 벤처리움은 오는 5일 오후 ‘2023년 KTOA 벤처리움 입주기업 데모데이’ 행사를 서울 삼성동 연합회빌딩 셀라스홀에서 개최한다고 밝혔다. 이번 행사에는 KTOA 벤처리움에 입주한 ICT ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_260759_16805877015416545.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[헬스피디아, 동국대학교 일산병원 개방형실험실 구축사업 참여기업 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=259390</link>
@@ -84,14 +92,6 @@ KG모빌리언스에 서비스 전사 공급]]></title>
             <pubDate>Mon, 03 Apr 2023 05:07:31 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 결제기술기업 Visa가 외환 토탈 솔루션 기업 센트비와 파트너십을 체결하고 실시간 간편 해외 송금 서비스인 ‘Visa 다이렉트(Visa Direct)’를 연내 선보인다고 밝혔다. Visa는 핀테크 지원 프로그램인 ‘..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_256979_16804977625414919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼슬리키친, 국내 최초 미국에 레스토랑 디지털 운영 솔루션 수출 계약]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=256880</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=256880</guid>
-            <pubDate>Mon, 03 Apr 2023 05:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 외식플랫폼 기업 먼슬리키친(브랜드명 : 먼키)이 미국 뉴욕 소재 POS PARTNER사와 클라우드 기반 레스토랑 디지털 운영 솔루션 수출 계약을 체결했다고 3일 밝혔다. 이번 수출 계약으로 먼키가 개발한 클라..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_256880_16804961415414860.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
