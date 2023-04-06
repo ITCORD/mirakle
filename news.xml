@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 08:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 09:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAP 코리아, 중국의 반도체 전략과 美반도체법 대응 웨비나 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=268428</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=268428</guid>
+            <pubDate>Thu, 06 Apr 2023 09:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[SAP 코리아(대표 신은영)가 ‘글로벌 반도체 전쟁과 미래: C-Level 서밋 2023’ 웨비나 시리즈 중 두 번째 세션을 오는 4월 18일에 개최한다고 밝혔다. SAP 코리아는 지난 2월 국제 거래 자문기업 MAVEK과 함께 첫 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_268428_16807698615419900.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위피, ‘동네에서 놀 사람’ 누적 이용자 18만명 돌파]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=266987</link>
@@ -82,16 +90,6 @@
             <pubDate>Wed, 05 Apr 2023 06:10:25 GMT</pubDate>
             <content:encoded><![CDATA[SAP 코리아(대표 신은영)가 ‘SAP Young Next Cloud(이하 SYNC 아카데미)’ 3기 과정의 참가자를 모집한다고 5일 밝혔다. 작년 6월 1기를 시작으로 올해 3기에 접어든 SYNC 아카데미는 고용노동부가 진행하는 케이(..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_264201_16806729015417953.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직카우, 정보보호 및 개인정보보호 관리체계
-
-‘ISMS-P’ 인증 획득]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=263032</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=263032</guid>
-            <pubDate>Wed, 05 Apr 2023 01:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[음악 수익증권 플랫폼을 운영하는 뮤직카우(총괄대표 정현경)가 ‘정보보호 및 개인정보보호 관리체계(이하 ISMS-P)’ 인증을 획득했다고 5일 밝혔다. ISMS-P는 정보보호 및 개인정보보호를 위한 일련의 조치와 활..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_263032_16806570615417549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

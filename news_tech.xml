@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 08:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 09:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAP 코리아, 중국의 반도체 전략과 美반도체법 대응 웨비나 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=268428</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=268428</guid>
+            <pubDate>Thu, 06 Apr 2023 09:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[SAP 코리아(대표 신은영)가 ‘글로벌 반도체 전쟁과 미래: C-Level 서밋 2023’ 웨비나 시리즈 중 두 번째 세션을 오는 4월 18일에 개최한다고 밝혔다. SAP 코리아는 지난 2월 국제 거래 자문기업 MAVEK과 함께 첫 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_268428_16807698615419900.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SAP 코리아, SAP Young Next Cloud Academy 3기 모집]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=264201</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Mar 2023 09:08:54 GMT</pubDate>
             <content:encoded><![CDATA[비즈니스 데이터 플랫폼 기업 쿠콘(대표 김종현)이 대출 비교 서비스 제공 기업 ‘플러스플랫폼(대표 소덕규)’의 주택담보대출 비교 서비스 중계 사업자로 참여한다고 2일 밝혔다. 플러스플랫폼은 2022년 3월 금융..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_170729_16777466415373318.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일 강화한 ‘비즈플레이 4.0’, GS인증 1등급 획득]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=164140</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=164140</guid>
-            <pubDate>Tue, 28 Feb 2023 06:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 경비지출관리 서비스 전문기업 비즈플레이(대표 김홍기)는 자사의 ‘비즈플레이 4.0’이 GS인증(Good Software, 소프트웨어 품질 인증) 1등급을 획득했다고 28일 밝혔다. GS인증은 국산 소프트웨어의 품질을..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/02/image_readtop_2023_164140_16775613025370645.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
