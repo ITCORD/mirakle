@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 02:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위피, ‘동네에서 놀 사람’ 누적 이용자 18만명 돌파]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=266987</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=266987</guid>
+            <pubDate>Thu, 06 Apr 2023 03:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 디스커버리 앱 위피(WIPPY)를 운영하는 엔라이즈(대표 김봉기)는 지난 3월 23일부터 시작한 ‘동네에서 놀 사람’ 기능이 누적 이용자 18만명을 돌파했다고 6일 밝혔다. ’동네에서 놀 사람’은 우리 동네에서..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_266987_16807485025419175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패스트벤처스, 초기 창업자 위한 ‘D+3 투자 검토’, ‘Match’ 프로그램 신규 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=266414</link>
@@ -84,16 +92,6 @@
             <pubDate>Wed, 05 Apr 2023 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[음악 수익증권 플랫폼을 운영하는 뮤직카우(총괄대표 정현경)가 ‘정보보호 및 개인정보보호 관리체계(이하 ISMS-P)’ 인증을 획득했다고 5일 밝혔다. ISMS-P는 정보보호 및 개인정보보호를 위한 일련의 조치와 활..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_263032_16806570615417549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레페리,
-
-크리에이터와 브랜드 교류 플랫폼 ‘레코멘드’ 앱 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=262971</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=262971</guid>
-            <pubDate>Wed, 05 Apr 2023 01:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티&amp;라이프스타일 인플루언서 비즈니스 그룹 레페리(대표 최인석)가 진화된 CR 서비스(Creator Relations, 레페리가 뷰티 브랜드와 크리에이터 사이의 관계형성을 돕기 위해 만든 서비스) ‘레코멘드(Le.comme..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_262971_16806565225417535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
