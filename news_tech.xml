@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 05:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 06:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울경제진흥원 ‘글로벌공공 최고의 액셀러레이터’?비전 선포]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=270676</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=270676</guid>
+            <pubDate>Fri, 07 Apr 2023 06:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[서울산업진흥원(SBA, 대표이사 김현우)은 28일 KBS 아레나 제2체육관에서 창립     제25주년 비전 선포식을 열고 ‘서울경제진흥원’으로 사명 변경을 선포했다. 서울경제진흥원은 급변하는 경제, 사회적 패러다임..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_270676_16808461225421173.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SAP 코리아, 중국의 반도체 전략과 美반도체법 대응 웨비나 개최]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=268428</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Mar 2023 12:14:49 GMT</pubDate>
             <content:encoded><![CDATA[우주 발사체 스타트업 이노스페이스(대표이사 김수종)가 독자개발한 추력 15톤급 하이브리드 로켓 엔진 비행성능 검증을 위한 시험발사체 ‘한빛-TLV’ 신규 발사 예비기간을 3월 7일부터 3월 21일까지(브라질 시간..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_170993_16777560015373516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠콘, 플러스플랫폼 주택담보대출 비교 서비스 구현]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=170729</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=170729</guid>
-            <pubDate>Thu, 02 Mar 2023 09:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[비즈니스 데이터 플랫폼 기업 쿠콘(대표 김종현)이 대출 비교 서비스 제공 기업 ‘플러스플랫폼(대표 소덕규)’의 주택담보대출 비교 서비스 중계 사업자로 참여한다고 2일 밝혔다. 플러스플랫폼은 2022년 3월 금융..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_170729_16777466415373318.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
