@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 08:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메디프레소, 진(眞)한차 티캡슐 3종 신제품 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=280604</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=280604</guid>
+            <pubDate>Tue, 11 Apr 2023 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 홈카페 시장을 선도하고 있는 커피&amp;티캡슐 제조기업 메디프레소(대표 김하섭)가 네스프레소 호환 캡슐티 ‘진한차’ 3종을 출시했다고 11일 밝혔다. 메디프레소는 자체 연구개발을 통해 고압추출환경에..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_280604_16812018625426022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘아이디어스‘, 글로벌 마켓 출시…국내 작가 해외 50개국 진출 돕는다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=278193</link>
@@ -82,14 +90,6 @@
             <pubDate>Mon, 10 Apr 2023 01:56:36 GMT</pubDate>
             <content:encoded><![CDATA[부동산 조각 투자 서비스 ‘소유’를 운영하는 루센트블록(대표 허세영)이 새로운 컨셉의 4호 공모 부동산인 ‘문래 공차’(서울 영등포구 선유로 76)를 공개했다. 공모 금액은 1,490,000,000원이며, 공모는 4월 26..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_274813_16810874425423519.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 액셀러레이터 스파크랩, 이달 20일 ‘데모데이 20’ 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=274780</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=274780</guid>
-            <pubDate>Mon, 10 Apr 2023 01:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 액셀러레이터 스파크랩(대표 김유진)이 이달 20일 ‘스파크랩 데모데이 20’을 코엑스 오디토리움에서 개최한다고 10일 밝혔다. 이번 행사는 온라인으로도 동시 진행된다. 지난해 10주년을 맞이한 스파크랩..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_274780_16810870225423503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
