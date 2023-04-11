@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 00:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 01:58:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아이디어스‘, 글로벌 마켓 출시…국내 작가 해외 50개국 진출 돕는다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=278193</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=278193</guid>
+            <pubDate>Tue, 11 Apr 2023 01:58:19 GMT</pubDate>
+            <content:encoded><![CDATA[(주)백패커(대표 김동환)가 운영하는 국내 최대 핸드메이드 마켓 플랫폼 ‘아이디어스’가 글로벌 마켓에 출시하며 국내 유수의 수공예 작가와 글로벌 시장에 본격 진출한다고 밝혔다. 아이디어스 글로벌 버전은 국..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_278193_16811745615425196.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윌로그, 제13회 국제물류산업대전 참가…산업별 운송품질 관리 방안 공개]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=277998</link>
@@ -82,14 +90,6 @@
             <pubDate>Mon, 10 Apr 2023 01:56:14 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 액셀러레이터 스파크랩(대표 김유진)이 이달 20일 ‘스파크랩 데모데이 20’을 코엑스 오디토리움에서 개최한다고 10일 밝혔다. 이번 행사는 온라인으로도 동시 진행된다. 지난해 10주년을 맞이한 스파크랩..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_274780_16810870225423503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터 기반 농산물 거래 스타트업 ‘해처리’, 팁스(TIPS) 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=274753</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=274753</guid>
-            <pubDate>Mon, 10 Apr 2023 00:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 기반 농산물 분석 및 유통 스타트업 ‘해처리’ 가 중소벤처기업부의 기술 창업 투자 프로그램인 ‘팁스(TIPS)’에 선정됐다. 이번 팁스 선정은 시드 투자사 중 한 곳인 패스트벤처스의 추천을 통해 이루어..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_274753_16810867815423487.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
