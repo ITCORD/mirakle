@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 01:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI기반의 긱워커 매칭 서비스 ‘워키도키’, 팁스 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=286083</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=286083</guid>
+            <pubDate>Thu, 13 Apr 2023 02:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 매장 업무관리 &amp; 긱워커 매칭 플랫폼 ‘하이어엑스’가 중소벤처기업부가 주관하는 민간투자 주도형 기술 창업 지원 프로그램인 ‘팁스(TIPS)’ 지원 대상 3월 선정팀으로 확정됐다. 중소벤처기업부가..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_286083_16813523415428699.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[런드리고 운영사 의식주컴퍼니, 월 매출 50억원 돌파…상각전 영업이익 흑자]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=285897</link>
@@ -84,14 +92,6 @@
             <pubDate>Thu, 13 Apr 2023 00:33:08 GMT</pubDate>
             <content:encoded><![CDATA[생성 AI 서비스 스타트업 뤼튼테크놀로지스(대표 이세영, 이하 뤼튼)가 창립 2주년을 맞아 플랫폼 기업으로의 비전을 선언했다. 뤼튼은 2년 전 오늘인 2021년 4월 13일 창립해 2년 만에 한국의 대표적인 생성 AI 서..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_285391_16813445415428370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핀테크 스타트업 페이히어, 200억 시리즈 B 투자 유치… 실리콘밸리 VC 굿워터캐피탈 리드]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=285342</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=285342</guid>
-            <pubDate>Thu, 13 Apr 2023 00:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[핀테크 스타트업 페이히어(대표 박준기)는 200억 원 규모의 시리즈 B 투자를 유치했다고 13일 밝혔다. 총 누적 투자 유치 금액은 350억 원을 넘었다. 이번 투자는 미국 실리콘밸리 기반의 벤처캐피탈(VC) 굿워터캐..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_285342_16813435225428352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
