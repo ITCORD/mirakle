@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 04:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨루가 브루어리, HL홀딩스와 공동으로 주류 풀필먼트 서비스 개발]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=317581</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=317581</guid>
+            <pubDate>Tue, 25 Apr 2023 05:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 주류 도매 플랫폼을 운영하는 벨루가브루어리 주식회사 (이하 ‘벨루가’)가 HL홀딩스㈜와 손잡고 주류(酒類)에 최적화된 풀필먼트(Fulfillment) 서비스 ‘타이드’(TIDES, Temperature-controlled Integrat..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_317581_16823967025444949.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마켓보로, 세계 3대 컨설팅사 전략 전문가 서민애 CSO 영입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=316461</link>
@@ -82,14 +90,6 @@
             <pubDate>Mon, 24 Apr 2023 02:02:04 GMT</pubDate>
             <content:encoded><![CDATA[퓨처플레이(대표 류중희, 권오형)가 창립 10주년을 맞이했다. 퓨처플레이는 2013년 설립부터 전략적으로 초기 테크 스타트업을 발굴, 집중 투자 및 육성해 해당 분야를 선점해왔으며, 또한 액셀러레이터 최초로 다..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_313583_16822968615443043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재, 오브제북(Objet Book) 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=313519</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=313519</guid>
-            <pubDate>Mon, 24 Apr 2023 00:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 독서 플랫폼 밀리의 서재(대표 서영택)가 오브제북 서비스를 선보인다고 24일 밝혔다. 밀리의 서재가 공개한 오브제북은 텍스트, 이미지, 사운드 세 가지 요소로 구성된 영상형 독서 콘텐츠다. 언제 어디..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_313519_16822962035443025.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
