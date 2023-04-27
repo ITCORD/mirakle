@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 07:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 08:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스엠티,스마트 샤워 케어 ‘워터엔’으로 2023 에디슨 어워드 금상 수상]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=326390</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=326390</guid>
+            <pubDate>Thu, 27 Apr 2023 08:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[에스엠티는 자가발전형 실시간 수질 수온 측정 샤워 케어 솔루션 ‘워터엔(Water N)’으로 2023 에디슨 어워드 퍼스널 테크놀로지 부문 금상을 수상했다고 27일 밝혔다. 에스엠티의 워터엔은 글로벌 멀티캠 회사인 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_326390_16825809615448745.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[콜로세움·피제이케이, 위험물 물류 산업안전 지킨다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324552</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Apr 2023 02:00:35 GMT</pubDate>
             <content:encoded><![CDATA[‘세상에서 가장 빠른 소형 화물 배송 서비스’ 딜리래빗을 운영중인 딜리버스가 46억원 규모의 시리즈A 라운드 투자를 유치했다. 이번 라운드에는 하나벤처스, 베이스인베스트먼트, 김기사랩이 참여했다. 딜리버스..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_324182_16825582215447926.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문리버 ‘아이템스카우트’, 4분기 연속 최대 매출 경신]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324122</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324122</guid>
-            <pubDate>Thu, 27 Apr 2023 02:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[이커머스 전문 데이터 분석 솔루션 ‘아이템스카우트’ 운영사 문리버(대표 최경준)는 4개 분기 연속으로 최대 월 매출을 경신하며 안정적 성장 흐름을 이어 가고 있다고 27일 밝혔다. 문리버의 올해 1분기 기준 매..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_324122_16825576215447913.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
