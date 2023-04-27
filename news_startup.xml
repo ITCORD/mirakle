@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤디 워홀, 뱅크시, 샤갈의 작품을 소유하는 방법]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=326616</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=326616</guid>
+            <pubDate>Thu, 27 Apr 2023 09:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[테사, 재무적 가치와 안정적 매각을 위해 블루칩 선정 3만5천명 투자자 가운데 1만3천명 수익 올려 ‘테사 뮤지엄’에 조각투자 작품 전시 보관  “사람들은 미술품에 투자하고 싶어한다. 하지만 그림 가격이 비싸기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_326616_16825841415448861.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스엠티,스마트 샤워 케어 ‘워터엔’으로 2023 에디슨 어워드 금상 수상]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=326390</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Apr 2023 02:00:35 GMT</pubDate>
             <content:encoded><![CDATA[이제 동영상 리뷰에서도 많은 고객들의 구매에 도움이 된 후기를 가장 먼저 만나볼 수 있게 됐다. 국내 최초 인공지능(AI) 기반 리뷰 마케팅 솔루션 ‘브이리뷰’를 운영하는 인덴트코퍼레이션(대표 윤태석)은 구매..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_324226_16825586425447938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘당일배송/반품 특화 물류 스타트업’ 딜리버스, 46억 규모 시리즈A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324182</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324182</guid>
-            <pubDate>Thu, 27 Apr 2023 02:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘세상에서 가장 빠른 소형 화물 배송 서비스’ 딜리래빗을 운영중인 딜리버스가 46억원 규모의 시리즈A 라운드 투자를 유치했다. 이번 라운드에는 하나벤처스, 베이스인베스트먼트, 김기사랩이 참여했다. 딜리버스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_324182_16825582215447926.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
