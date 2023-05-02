@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 01:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비프로젝트, 케이프 알로에 라인 신제품 ‘마스크 패드’ 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=336508</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=336508</guid>
+            <pubDate>Tue, 02 May 2023 02:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[㈜올리브인터내셔널(대표 이진호)의 비건프렌들리 라이프스타일 뷰티 브랜드 비프로젝트가 케이프 알로에 라인 신제품으로 ‘비긴 케이프 알로에 카밍 워터 밤 마스크 패드’를 출시한다고 2일 밝혔다. 케이프 알로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_336508_16829930415453881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리콘랩스, ‘2023년 경주 대릉원 미디어아트’ 참여]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=336469</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 02 May 2023 00:34:34 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 인공지능(AI) 관련 전시회인 ’2023인공지능&amp;빅데이터쇼 (AI&amp;Big Data Show 2023)‘이 오는 6월 28일부터 30일까지 3일간 서울 삼성동 코엑스에서 개최된다. 이번 전시는 지능정보산업협회, 엑스..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_336006_16829874615453686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫타이엑스, 가상자산 신용평가 전문 기업 민티드와 업무협약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=328021</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=328021</guid>
-            <pubDate>Fri, 28 Apr 2023 00:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[리버스 전문 가상자산 거래소 플랫타익스체인지(FlataExchange)를 운영하는 플랫타이엑스는 디지털자산 신용평가 솔루션 전문 기업 민티드와 ‘건전한 가상자산 투자 문화 조성을 위한 업무 협약’을 체결했다고 28..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_328021_16826417425449482.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
