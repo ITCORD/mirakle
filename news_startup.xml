@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 00:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘국내 최대 AI 전시’ 인공지능&빅데이터쇼 6월 28일 코엑스 개최… 총 350개사 1000개 부스 규모]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=336006</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=336006</guid>
+            <pubDate>Tue, 02 May 2023 00:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 인공지능(AI) 관련 전시회인 ’2023인공지능&amp;빅데이터쇼 (AI&amp;Big Data Show 2023)‘이 오는 6월 28일부터 30일까지 3일간 서울 삼성동 코엑스에서 개최된다. 이번 전시는 지능정보산업협회, 엑스..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_336006_16829874615453686.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플랫타이엑스, 가상자산 신용평가 전문 기업 민티드와 업무협약 체결]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=328021</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Apr 2023 08:10:21 GMT</pubDate>
             <content:encoded><![CDATA[에스엠티는 자가발전형 실시간 수질 수온 측정 샤워 케어 솔루션 ‘워터엔(Water N)’으로 2023 에디슨 어워드 퍼스널 테크놀로지 부문 금상을 수상했다고 27일 밝혔다. 에스엠티의 워터엔은 글로벌 멀티캠 회사인 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_326390_16825809615448745.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콜로세움·피제이케이, 위험물 물류 산업안전 지킨다]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324552</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=324552</guid>
-            <pubDate>Thu, 27 Apr 2023 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[콜로세움이 EV배터리 완제품 보관 관련법규를 국내최초로 모두 만족한 PJK와의 협력으로 위험물, 유해화학물질 등에 대한 보관·운송서비스를 제공하는 ‘위험물 특화 물류서비스’를 고도화한다. 초간단 물류경쟁..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_324552_16825618215448042.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
