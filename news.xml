@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 23:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 00:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업앤컴퍼니, 국내 첫 ‘파이낸셜 커뮤니케이션’ 분야 연구 시동]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=339505</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=339505</guid>
+            <pubDate>Wed, 03 May 2023 00:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표 파이낸셜 커뮤니케이션 전문 기업 ㈜업사이드포텐셜앤컴퍼니(대표 김태성, 이하 업앤컴퍼니)는 오는 5월 19일 개최 예정인 2023 한국광고홍보학회 봄철 정기학술대회에서 업앤컴퍼니 후원으로 특별 세션 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_339505_16830730215455413.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HR 서베이 솔루션 ‘PLODY’운영사 딥사이드,
 시드 투자 유치]]></title>
@@ -81,14 +89,6 @@
             <pubDate>Tue, 02 May 2023 01:59:04 GMT</pubDate>
             <content:encoded><![CDATA[영상 생성 AI SaaS ‘VCAT.AI(이하 브이캣)’가 생성형 AI 기술 강화를 위해 신진우 카이스트 AI 대학원 석좌교수를 연구 고문으로 위촉했다고 2일 밝혔다. 신진우 교수는 세계 최고 권위의 기계학습 AI 분야 학회..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_336075_16829916025453827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화해, 뷰티 쇼핑 강화… ‘모든 뷰티의 시작’ 브랜드 캠페인 전개]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=336021</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=336021</guid>
-            <pubDate>Tue, 02 May 2023 01:59:04 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 뷰티 플랫폼 화해(대표 이웅)는 봄을 맞아 누구나 쉽게 자신에게 맞는 뷰티 아이템 찾길 응원하는 브랜드 캠페인 ‘모든 뷰티의 시작’을 전개한다고 2일 밝혔다. 이번 캠페인은 ‘시작’과 ‘설렘’이라는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_336021_16829877625453698.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
