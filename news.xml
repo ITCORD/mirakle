@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 06:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 07:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알파랩, 로컬 지향적인 외식프랜차이즈 공간 LOF 오픈식]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=355429</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=355429</guid>
+            <pubDate>Tue, 09 May 2023 07:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[외식프랜차이즈 액셀러레이팅 기업 알파랩(대표 방수준)이 ‘LOF(Local Oriented Franchise)’의 오픈식인 &lt;Let‘s Meet Up 3rd - PLAY LOF&gt;를 진행한다고 9일 밝혔다. LOF는 로컬 지향적인 외식 ? 프랜차이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_355429_16836139815462838.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이언로켓, ‘포킷’ 리브랜딩 성과 및 신규 BI(브랜드 이미지) 공개]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=354829</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 May 2023 00:33:30 GMT</pubDate>
             <content:encoded><![CDATA[와이낫미디어와 쿠팡이 또다시 숏폼 드라마를 제작한다. 새 숏폼 드라마 ‘Mㅓ라도 하면 되겠Z’는 ‘다 이렇게 살잖아’, ‘캠퍼스 갓생러’에 이어 와이낫미디어가 쿠팡과 세 번째로 함께하는 작품이다. 뉴미디어..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_350355_16835027425460732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디캠프, 싱가포르에서 디데이 개최...동남아시장 진출 교두보 마련]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=350315</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=350315</guid>
-            <pubDate>Mon, 08 May 2023 00:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4일, 은행권청년창업재단 디캠프(대표 김영덕)가 설립 11주년을 맞아 싱가포르 정보통신 미디어 개발청(이하 IMDA), KB금융그룹과 손잡고 싱가포르 픽셀(PIXEL)에서 108회차 디데이를 진행했다. 2013년 6월 이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_350315_16835017215460722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
