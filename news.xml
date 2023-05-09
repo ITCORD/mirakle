@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 06:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언로켓, ‘포킷’ 리브랜딩 성과 및 신규 BI(브랜드 이미지) 공개]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=354829</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=354829</guid>
+            <pubDate>Tue, 09 May 2023 06:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[AI 스타트업 라이언로켓(대표 정승환)이 이미지 생성 AI 플랫폼 ‘포킷(전 스포키)’의 리브랜딩 성과와 BI(브랜드 이미지)를 9일 공개했다. 포킷(pokeit)은 ‘세로의 꿈을 이뤄준 AI’로 유명해진 라이언로켓의 이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_354829_16836095415462654.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블랭크 영차컴퍼니, 쿠키런:브레이버스 협업으로 게임 IP커머스 시동]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=353552</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 May 2023 00:33:30 GMT</pubDate>
             <content:encoded><![CDATA[지난 4일, 은행권청년창업재단 디캠프(대표 김영덕)가 설립 11주년을 맞아 싱가포르 정보통신 미디어 개발청(이하 IMDA), KB금융그룹과 손잡고 싱가포르 픽셀(PIXEL)에서 108회차 디데이를 진행했다. 2013년 6월 이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_350315_16835017215460722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파블로항공, ‘서울페스타’에서 독자적인 국내 기술로 ‘멀티미디어드론쇼’ 펼쳐]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=344218</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=344218</guid>
-            <pubDate>Thu, 04 May 2023 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[파블로항공(대표 김영준)은 서울의 체험형 관광축제인 ‘서울페스타 2023’의 일환으로 4월 29일부터 5월 7일까지 뚝섬 한강공원 수변무대에서 ‘2023 한강불빛공연 드론라이트쇼’를 선보이고 있다. 지난 29일 서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_344218_16831779615457574.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
