@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 07:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 08:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버드뷰, “초개인화 서비스 고도화와 중소 브랜드와의 동반 성장”...새로운 10년 준비]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=372179</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=372179</guid>
+            <pubDate>Mon, 15 May 2023 08:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[버드뷰가 상장 전 지분투자(프리IPO)를 마무리하고 본격적인 상장 준비에 돌입한다. 버드뷰(대표 이웅)는 지난 3월 사업모델 특례상장을 위한 기술성 평가에 통과하며 상장예비심사를 청구할 수 있는 자격을 획득했..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_372179_16841381415470428.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고위드, 스타트업 혹한기 극복을 위한 기금 조성 캠페인...‘G허들링’ 본격화]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=370237</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 May 2023 00:35:52 GMT</pubDate>
             <content:encoded><![CDATA[콘텐츠 플랫폼 기업 리디(대표 배기식)는 CJ ENM과 IP 사업 확장을 위한 전략적 제휴(MOU)를 맺었다고 15일 밝혔다. 양사는 지난 2021년 처음 손을 잡고 콘텐츠 업계 트렌드와 인사이트를 나누며 폭넓은 IP 사업 확..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_369970_16841104825469534.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓, ‘2023 썸머테크 인턴십’ 실시...개발 실무 경험하고 성장할 기회!]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=369942</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=369942</guid>
-            <pubDate>Mon, 15 May 2023 00:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[올 여름, 당근마켓에서 개발 실무 경험하고 정규직 전환 기회까지 얻을 수 있는 인턴십 기회가 열린다. 국내 대표 지역생활 커뮤니티 당근마켓(각자대표 김용현, 황도연)은 잠재력 있는 개발 인재를 대상으로 당근..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_369942_16841101225469526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
