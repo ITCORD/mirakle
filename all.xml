@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바비톡, 2023년 1분기 매출 70억, 영업이익 13.8억 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=381005</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=381005</guid>
+            <pubDate>Thu, 18 May 2023 02:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[국내 1위 미용의료 정보 앱 바비톡이 2023년 1분기 영업이익 13억 8천만원을 달성, 29분기 연속 흑자를 기록했다고 18일 밝혔다. 바비톡의 2023년 1분기 매출은 70억원으로, 전년 동기(61억 9천만원) 대비 13% 이상..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_381005_16843753225474477.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플랫타익스체인지, 비트코인 피자데이 기념 이벤트 진행 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=380975</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 May 2023 02:03:01 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 온라인 학습 및 교육의 선두주자 ‘유데미(Udemy)’가 ‘2023년 1분기 글로벌 기업 교육 지표’를 공개했다. 유데미의 글로벌 기업 교육 지표는 혁신과 회사의 지속적인 성장을 위해 노력하는 전문가들이 어..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_376922_16842867025472770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠테, 올해 글로벌 서비스 확장, IT 기술 강화로 양질의 성장 기대 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=376884</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=376884</guid>
-            <pubDate>Wed, 17 May 2023 02:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[3세대 명품 플랫폼 젠테(jente)의 매출이 고공행진을 이어가고 있다. 지난 4월 약 60억원의 매출을 기록하며 전년 동월 대비 매출이 103% 증가한 젠테는 명품 플랫폼 업계의 고전 속에서도 2023년 매월 매출 신고점..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_376884_16842864025472762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -247,6 +247,14 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/03/image_readtop_2023_170994_16777560015373515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바비톡, 2023년 1분기 매출 70억, 영업이익 13.8억 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=381005</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=381005</guid>
+            <pubDate>Thu, 18 May 2023 02:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 1위 미용의료 정보 앱 바비톡이 2023년 1분기 영업이익 13억 8천만원을 달성, 29분기 연속 흑자를 기록했다고 18일 밝혔다. 바비톡의 2023년 1분기 매출은 70억원으로, 전년 동기(61억 9천만원) 대비 13% 이상..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_381005_16843753225474477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플랫타익스체인지, 비트코인 피자데이 기념 이벤트 진행 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=380975</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=380975</guid>
@@ -317,14 +325,6 @@
             <pubDate>Wed, 17 May 2023 02:03:21 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 온라인 학습 및 교육의 선두주자 ‘유데미(Udemy)’가 ‘2023년 1분기 글로벌 기업 교육 지표’를 공개했다. 유데미의 글로벌 기업 교육 지표는 혁신과 회사의 지속적인 성장을 위해 노력하는 전문가들이 어..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_376922_16842867025472770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠테, 올해 글로벌 서비스 확장, IT 기술 강화로 양질의 성장 기대 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=376884</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=376884</guid>
-            <pubDate>Wed, 17 May 2023 02:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[3세대 명품 플랫폼 젠테(jente)의 매출이 고공행진을 이어가고 있다. 지난 4월 약 60억원의 매출을 기록하며 전년 동월 대비 매출이 103% 증가한 젠테는 명품 플랫폼 업계의 고전 속에서도 2023년 매월 매출 신고점..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_376884_16842864025472762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에듀테크 앱 어디가 잘 되나 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
