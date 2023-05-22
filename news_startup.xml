@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 09:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 10:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알지노믹스, 미국 유전자세포치료학회에서 RZ-004 연구결과 발표]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=391355</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=391355</guid>
+            <pubDate>Mon, 22 May 2023 10:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[알지노믹스가 미국 로스엔젤레스에서 개최된 미국 유전자세포치료학회(ASGCT)에서 망막색소변성증(Retinitis pigmentosa) 치료제 후보물질 ‘RZ-004’의 전임상 연구 결과를 발표했다고 21일 밝혔다. 알지노믹스는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_391355_16847473815479897.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파블로항공, ‘2023 드론·UAM 박람회’ 성료...개막 공연서 불꽃드론 610대로 기네스 세계기록 자체 경신해]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=389177</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 May 2023 02:01:27 GMT</pubDate>
             <content:encoded><![CDATA[성인교육 콘텐츠 기업 ‘패스트캠퍼스(대표 신해동)’는 글로벌 여가 플랫폼 기업 ‘야놀자(총괄대표 이수진)’와 협업하여 ‘야놀자 테크 스쿨(yanolja Tech School)’을 론칭하고, 프론트엔드/백엔드 개발 부트캠..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_383777_16844587225475802.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼, 국내 최초 개발 AI 툴빌더 전면 개방…”누구나 손쉽게 AI툴 만들게 돕는다”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=383766</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=383766</guid>
-            <pubDate>Fri, 19 May 2023 02:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[올인원 AI(인공지능) 플랫폼 뤼튼테크놀로지스(뤼튼, 대표 이세영)가 국내 최초로 개발한 노코드 AI 툴빌더를 이용자들에게 전면 개방할 계획이라고 19일 밝혔다. 뤼튼은 지난해 4월 생성형 AI 활용 도구를 복잡한 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_383766_16844584815475797.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
