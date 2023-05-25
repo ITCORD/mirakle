@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 06:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 07:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젤리크루 유료 멤버십 ‘젤리패스’ 론칭]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=400772</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=400772</guid>
+            <pubDate>Thu, 25 May 2023 07:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[핸드허그(대표 박준홍)가 운영하는 크리에이터 커머스 플랫폼 젤리크루가 유료 멤버십 서비스 ‘젤리패스’를 론칭했다고 25일 밝혔다. 젤리크루는 유료 멤버십 젤리패스 론칭을 통해 충성 고객을 확보하고 신규 고..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_400772_16849974615484062.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[워키도키, 바코드 스캔 통한 ‘소비기한 관리 기능’ 정식 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=399507</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 24 May 2023 00:35:38 GMT</pubDate>
             <content:encoded><![CDATA[X세대 고객을 위한 산지직송 식품 커머스 ‘팔도감’의 운영사 ‘라포테이블(대표 강원호)’이 35억 원 규모의 시리즈 A 투자를 유치했다고 24일 밝혔다. 이번 시리즈 A 라운드는 작년 7월에 마무리한 프리 시리즈 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_395383_16848854415481778.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롭핀테크 기업 오아시스비즈니스, 50억 규모 시리즈 A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=395333</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=395333</guid>
-            <pubDate>Wed, 24 May 2023 00:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[인간 행동 데이터(Human eXperience DATA) 기반 인공지능 스타트업 오아시스비즈니스가 50억 원 규모의 시리즈 A 투자를 유치했다고 24일 밝혔다. 이번 투자는 더웰스인베스트먼트, 로이투자파트너스, 인포뱅크, 하..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_395333_16848845425481764.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
