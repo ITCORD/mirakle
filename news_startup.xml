@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 00:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 02:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아산지식연구소, 스타트업의 결정적 순간에 필요한 의사결정을 돕는다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=402717</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=402717</guid>
+            <pubDate>Fri, 26 May 2023 02:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[#사례1. 고스트키친은 공유주방을 운영하는 스타트업이다. 사업이 성장하면서 공유주방을 현재 사용하고 있는 곳으로 확장할지, 다른 지역으로 확장할지를 결정해야 했다. 그리고 고스트키친은 두 가지 중 하나를 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_402717_16850639415485181.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤리크루 유료 멤버십 ‘젤리패스’ 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=400772</link>
@@ -78,15 +86,6 @@
             <pubDate>Wed, 24 May 2023 00:35:38 GMT</pubDate>
             <content:encoded><![CDATA[에듀테크 스타트업 슬링(대표 안강민)이 태블릿 앱 중심의 학원기관 대상 학습관리 솔루션 ‘오르조 클래스‘를 정식 출시, 6월까지 신규 고객을 위한 무료체험 및 가입비 지원 등의 혜택을 제공한다. 오르조 클래..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_395574_16848883825481818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X세대 고객을 위한 산지직송 ‘팔도감’ 운영사 라포테이블, 
-시리즈 A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=395383</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=395383</guid>
-            <pubDate>Wed, 24 May 2023 00:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[X세대 고객을 위한 산지직송 식품 커머스 ‘팔도감’의 운영사 ‘라포테이블(대표 강원호)’이 35억 원 규모의 시리즈 A 투자를 유치했다고 24일 밝혔다. 이번 시리즈 A 라운드는 작년 7월에 마무리한 프리 시리즈 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_395383_16848854415481778.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
