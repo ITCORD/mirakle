@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 04:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 05:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘브랜더진’ 이건준 고종원 대표, 포브스 ‘아시아 30세 이하 리더 30인’ 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=410079</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=410079</guid>
+            <pubDate>Tue, 30 May 2023 05:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[패션 홍보 플랫폼 ‘브랜더진 (brandazine)’ 을 운영하고 있는 (주)인에디트의 이건준, 고종원 공동대표이사가 포브스 ’아시아 30세 이하 리더 30인‘에 선정되었다. 미국 경제 전문지 포브스는 2011년부터 아시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_410079_16854206415489135.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넛지헬스케어㈜ ‘팀워크’, 누적 가입자 수 100만 명 돌파]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=409693</link>
@@ -77,14 +85,6 @@
             <pubDate>Tue, 30 May 2023 00:39:08 GMT</pubDate>
             <content:encoded><![CDATA[리버스 전문 가상자산 거래소 플랫타익스체인지(FlataExchange)를 운영하는 플랫타이엑스는 지난 26일 대구 동구 대구테크노파크 동대구캠퍼스에서 개최된 ‘대구 2023블록체인 전략포럼(이하 블록체인 전략포럼)’..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_408967_16854048615488737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티숍 솔루션 앱 ‘콜라보살롱’, 네이버 예약 연동...통합 예약 관리 가능해져]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=408955</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=408955</guid>
-            <pubDate>Tue, 30 May 2023 00:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티숍 솔루션 앱 ‘콜라보살롱’ 운영사 (주)콜라보그라운드(대표 김치영)가 뷰티숍 운영자들의 효율적인 예약 관리를 위해 네이버 예약을 새롭게 연동했다. 콜라보살롱은 헤어, 네일, 피부, 반영구, 왁싱, 반려견..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_408955_16854046825488729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
