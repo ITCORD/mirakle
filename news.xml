@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 09:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 10:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콥틱, 콜로세움 등 51개사 중기부 아기유니콘 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=411602</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=411602</guid>
+            <pubDate>Tue, 30 May 2023 10:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[퍼스널아이웨어 ‘브리즘’을 운영하는 콥틱을 비롯해 51개 스타트업이 중소벤처기업부가 선정하는 아기유니콘 기업으로 선정됐다고 30일 중기부가 밝혔다. 아기유니콘은 중소벤처기업부가 글로벌 유니콘 프로젝트..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_411602_16854382825489878.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리를 이어주는 것들]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=411338</link>
@@ -77,14 +85,6 @@
             <pubDate>Tue, 30 May 2023 00:39:08 GMT</pubDate>
             <content:encoded><![CDATA[웹 3.0 블록체인 게임 플랫폼 ‘이스크라(ISKRA, 대표 이홍규)’가 NFT(대체불가능토큰) 공동구매 플랫폼 ‘라분’에 시드 투자를 집행하고 파트너십을 강화했다고 30일 밝혔다. 이스크라는 블록체인을 기반으로 게..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_409076_16854063015488756.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨처플레이, ‘2023 KT브릿지랩(KT Bridge Lab)’ 참가 스타트업 모집]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=409027</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=409027</guid>
-            <pubDate>Tue, 30 May 2023 00:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[퓨처플레이(대표 류중희, 권오형)가 ‘2023 KT 브릿지랩(KT Bridge Lab)’에 참여할 유망 스타트업을 모집한다고 30일 밝혔다. 올해로 2기를 맞는 ‘2023 KT 브릿지랩’은 스타트업 선발, KT와의 사업화 협력, 실증..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_409027_16854057615488750.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
