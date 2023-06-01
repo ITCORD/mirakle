@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 06:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 07:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오로라월드, 버추얼아이돌 ‘이진법소년들(오바이원)’ 첫 공개]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=417973</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=417973</guid>
+            <pubDate>Thu, 01 Jun 2023 07:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[오로라월드 콘텐츠랩이 1일 비현실 알파돌 ‘이진법소년들(ØXONE, 오바이원)’을 공개한다. 공식 유튜브채널 오픈과 함께 티저 영상 2종을 선보였다. 윤(Yoon), 혜규(Q), 아민(Min), 세계(Kei), 비한(Han) 다섯 명..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_417973_16856007625492444.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팀스파르타, B2B 코딩 교육에도 ‘챗GPT’ 적용 기업 디지털 전환 가속화]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=416551</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Jun 2023 00:53:39 GMT</pubDate>
             <content:encoded><![CDATA[교육 실습 플랫폼 기업 ㈜엘리스그룹(대표 김재원)이 제조업의 디지털 전환(DX)을 이끌어갈 AI 전문 인력 양성을 위해 ‘소재부품 분야 AI 역량강화’ 중간관리자 교육 과정 참가자를 모집한다. 엘리스그룹은 정보..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_416138_16855789215491847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴플로이, 인사급여 AI 자동화 매니저 앱 정식 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=416105</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=416105</guid>
-            <pubDate>Thu, 01 Jun 2023 00:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[인사급여 업무 자동화 서비스를 운영하는 (주)뉴플로이(전 푸른밤, 대표 김진용)가 기업과 소상공인 대상 통합 직원 관리 서비스인 ‘뉴플로이 매니저앱(이하 뉴플로이’을 정식 출시했다고 밝혔다. 이번에 정식으..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_416105_16855786815491843.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
