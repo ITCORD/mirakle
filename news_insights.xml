@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 03:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 04:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“강제 구독경제 시대.. 소비자 보호 필요하다” 전호겸 교수 인터뷰]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2023&amp;no=425910</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2023&amp;no=425910</guid>
+            <pubDate>Mon, 05 Jun 2023 04:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[구독경제(subscription economy)라는 용어가 등장할 정도로 우리 생활에 구독 서비스가 밀접하게 다가왔다. 하지만 넷플릭스가 광고요금제를 내놓은 것처럼 높은 인플레이션 상황에서 구독 서비스는 보통 사람들의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_425910_16859369415496494.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에듀테크 앱 어디가 잘 되나]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=1116714</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 05:10:40 GMT</pubDate>
             <content:encoded><![CDATA[대기업 유통사가 중고 시장에 발을 담갔다. 2030세대를 중심으로 중고 거래가 활성화된 흐름에 올라탄 것이다. 현대백화점은 신촌점 4층 전체를 중고품 전문관인 ‘세컨드 부티크’로 탈바꿈시켰다. 신세계백화점도..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_848589_16641696595178143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 침체에 불안한 증시…증권사 MTS 앱 현황은?]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=826353</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800016&amp;year=2022&amp;no=826353</guid>
-            <pubDate>Tue, 20 Dec 2022 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[주식 시장이 대중화된 데는 스마트폰의 발달이 큰 영향을 미쳤다. MTS(Moblie Trading System) 도입으로 주식 거래 편의성이 높아짐에 따라 개인 투자자들이 대거 유입된 것이다. 지난해까지 열풍을 일으켰던 주식 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2022/09/image_readtop_2022_826353_16635795995170875.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

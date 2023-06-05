@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 03:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 04:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“강제 구독경제 시대.. 소비자 보호 필요하다” 전호겸 교수 인터뷰]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=425910</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=425910</guid>
+            <pubDate>Mon, 05 Jun 2023 04:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[구독경제(subscription economy)라는 용어가 등장할 정도로 우리 생활에 구독 서비스가 밀접하게 다가왔다. 하지만 넷플릭스가 광고요금제를 내놓은 것처럼 높은 인플레이션 상황에서 구독 서비스는 보통 사람들의 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_425910_16859369415496494.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[푸드올로지, 무상환불 기간 3개월로 확대…고객 만족도 극대화 기대]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=425477</link>
@@ -77,14 +85,6 @@
             <pubDate>Fri, 02 Jun 2023 02:18:32 GMT</pubDate>
             <content:encoded><![CDATA[에너지 IT 플랫폼 기업 엔라이튼(ENlighten, 대표 이영호)이 구미시설공단과 수요반응(DR, Demand Response)제도 참여를 위한 협력이익 공유 계약을 체결하고 사용전력 감축에 따른 공익 기여에 나선다. DR제도는 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_419809_16856671815493547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필라이즈, ‘넥스트라이즈 어워즈’ 수상… 이노베이션 프라이즈(Innovation Prize) 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=419787</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=419787</guid>
-            <pubDate>Fri, 02 Jun 2023 02:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[초개인화 영양 관리 플랫폼 필라이즈(대표 신인식)는 1일부터 2일까지 이틀 간 서울 삼성동 코엑스에서 열리는 ‘넥스트라이즈(NextRise) 2023, 서울’에서 ‘넥스트라이즈 어워즈(NextRise Awards)를 수상하며, 이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_419787_16856668815493526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
