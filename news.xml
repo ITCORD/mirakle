@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 04:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 05:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피리부는 강아지, 야외 행사 ‘피리부 피크닉’ 성료...1200명 참여]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=443177</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=443177</guid>
+            <pubDate>Mon, 12 Jun 2023 05:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[비즈니스 크리에이팅 기업 에임드(대표 임형철)의 반려견 라이프 스타일 앱 ‘피리부는 강아지’가 지난 10일, 11일(토일) 양일간 서울숲 인근에서 사용자 1200여 명 및 20개 반려동물 브랜드와 함께한 ‘소풍 이벤..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_443177_16865457615504868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산 슬러시드, ‘슬러시드 10’ 공개… 로컬 특색 살린 10개 팀 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442394</link>
@@ -77,14 +85,6 @@
             <pubDate>Mon, 12 Jun 2023 00:43:01 GMT</pubDate>
             <content:encoded><![CDATA[초개인화 영양 관리 플랫폼 필라이즈(대표 신인식)가 운동 관리 기능을 출시하며, 오늘의 운동 기록을 간편하게 기록하고 직관적인 통계로 확인 가능하도록 업데이트했다고12일 밝혔다. 필라이즈는 이번 운동 관리 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_442031_16865275215504382.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐치테이블, 전국 제휴 가맹점 수 7000개 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442026</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442026</guid>
-            <pubDate>Mon, 12 Jun 2023 00:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내 1위 실시간 레스토랑 예약 앱 캐치테이블이 통합 외식업 플랫폼으로 거듭나면서 제휴 가맹점 확보에 속도가 붙고 있다. 외식업 전문 통합 솔루션 기업 와드(대표 용태순)가 운영 중인 캐치테이블은 지난 5월 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_442026_16865274015504379.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
