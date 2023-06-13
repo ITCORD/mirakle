@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 06:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회 스타트업연구모임 유니콘팜, ‘리걸테크 스타트업 발전방안’ 토론회 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=446592</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=446592</guid>
+            <pubDate>Tue, 13 Jun 2023 06:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[국회 스타트업연구모임 유니콘팜 주최 토론회에서 로톡과 같은 법률 플랫폼이 국내 법률서비스 시장의 전체 규모를 확대한다는 연구 결과가 나왔다. 2021년 기준 약 7조원 규모인 국내 법률 시장이 약 27%(1조 8900..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_446592_16866363015506467.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버넥트, 2023 메타버스 엑스포 참가]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=445407</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Jun 2023 02:20:42 GMT</pubDate>
             <content:encoded><![CDATA[UAM 통합관제 및 모빌리티 배송 전문 기업 파블로항공(대표 김영준)이 국토교통부의 ‘2023 강소형 스마트시티 조성사업’에 선정된 태안군에서 드론 기반 항공특화산업을 전개한다고 12일 밝혔다. 강소형 스마트시..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_442280_16865313615504481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘콘텐츠 IP’ 스타트업 뮤팟, 블루포인트에서 프리 A 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442236</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442236</guid>
-            <pubDate>Mon, 12 Jun 2023 02:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠 IP(지식재산권) 스타트업 뮤팟이 블루포인트파트너스에서 시리즈 프리 A(Pre-A) 투자를 유치했다고 12일 밝혔다. 투자금은 비공개다. 뮤팟은 유튜브와 SNS에서 활동하는 크리에이터를 위해 저작권 문제가 없..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_442236_16865308815504469.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
