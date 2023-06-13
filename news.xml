@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 00:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버넥트, 2023 메타버스 엑스포 참가]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=445407</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=445407</guid>
+            <pubDate>Tue, 13 Jun 2023 02:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 XR(eXtended Reality, 확장현실) 테크 기업 버넥트(대표 하태진)가 오는 14부터 16일까지 서울 코엑스에서 열리는 ‘2023 메타버스 엑스포’에 참가한다고 13일 밝혔다. 아울러 전시와 동시에 개최되는 ‘20..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_445407_16866211825505947.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘전자책 B2B’ 스타트업 부커스, 블루포인트로부터 시드 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=444860</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Jun 2023 02:20:42 GMT</pubDate>
             <content:encoded><![CDATA[콘텐츠 IP(지식재산권) 스타트업 뮤팟이 블루포인트파트너스에서 시리즈 프리 A(Pre-A) 투자를 유치했다고 12일 밝혔다. 투자금은 비공개다. 뮤팟은 유튜브와 SNS에서 활동하는 크리에이터를 위해 저작권 문제가 없..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_442236_16865308815504469.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스애드, 프라임오피스 계약 체결 200곳 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442210</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=442210</guid>
-            <pubDate>Mon, 12 Jun 2023 00:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[오피스 미디어 기업 스페이스애드(spaceAdd, 대표 오창근)가 프라임오피스 빌딩 계약 수 200곳을 돌파했다고 12일 밝혔다. 이번 성과는 프라임오피스를 위한 차별화된 디지털 사이니지 미디어 서비스를 선보인지 1..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_442210_16865314225504482.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
