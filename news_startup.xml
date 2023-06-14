@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 02:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 03:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필라이즈, 건강 슈퍼앱으로의 진화...“모든 사람이 사용하는 국민서비스 될 것”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=448992</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=448992</guid>
+            <pubDate>Wed, 14 Jun 2023 03:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[“돈을 관리해주는 플랫폼은 많지만 건강을 관리해주는 플랫폼은 없다. 건강 수명을 늘리는 게 우리의 미션이다. 국민서비스화해서 모든 사람이 사용할 수 있도록 하겠다.” 강남 소재 필라이즈 사무실에서 만난 신..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_448992_16867089625507608.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 최초 공간관리 프랜차이즈 클리니어위드, 30호점 돌파]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=448610</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Jun 2023 02:10:39 GMT</pubDate>
             <content:encoded><![CDATA[자연어 인지검색 솔루션 기업 올거나이즈(대표 이창수)가 기업이 데이터 유출 걱정 없이 내부에서 AI 거대 언어모델을 자유롭게 활용할 수 있는 솔루션인 ‘알리 LLM Ops’를 출시했다고 14일 밝혔다. 알리 LLM Ops..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_448325_16867008025507377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회 스타트업연구모임 유니콘팜, ‘리걸테크 스타트업 발전방안’ 토론회 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=446592</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=446592</guid>
-            <pubDate>Tue, 13 Jun 2023 06:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[국회 스타트업연구모임 유니콘팜 주최 토론회에서 로톡과 같은 법률 플랫폼이 국내 법률서비스 시장의 전체 규모를 확대한다는 연구 결과가 나왔다. 2021년 기준 약 7조원 규모인 국내 법률 시장이 약 27%(1조 8900..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_446592_16866363015506467.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
