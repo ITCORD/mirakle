@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 08:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 09:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“해외 진출 노리는 스타트업, 일본 노려보세요”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=470582</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=470582</guid>
+            <pubDate>Wed, 21 Jun 2023 09:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[김영덕 디캠프 대표 인터뷰 전문 일본, 아날로그 문화 많아 디지털 인프라 이식 기회 유료..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_470582_16873362035517491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잇소, 패션브랜드와 팝업스토어]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=470200</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 02:11:39 GMT</pubDate>
             <content:encoded><![CDATA[(주)채널코퍼레이션(공동대표 최시원 김재홍)이 퍼스널모빌리티 공유서비스 ‘킥고잉’을 운영하는 (주)올룰로(대표 최영우)에 올인원 비즈니스 메신저 ‘채널톡’을 전사 공급한다고 12일 밝혔다. 2018년 올룰로가..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_468155_16873072815516575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무하유, 논문에서 챗GPT가 쓴 문장 찾아내는 ‘GPT킬러’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=468100</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=468100</guid>
-            <pubDate>Wed, 21 Jun 2023 02:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[자연어를 이해하는 실용 인공지능(AI) 기술 기업 무하유(대표 신동호)가 챗GPT가 쓴 문장을 찾아내는 GPTKiller(이하 GPT킬러) 솔루션을 개발 완료했다고 21일 밝혔다. 무하유는 지난 12년간 AI기반의 표절검사 서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_468100_16873063215516549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
