@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 06:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 07:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잇소, 패션브랜드와 팝업스토어]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=470200</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=470200</guid>
+            <pubDate>Wed, 21 Jun 2023 07:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[의류 재활용 스타트업 잇소(ETSAW)는 친환경 소재 패션 브랜드 오르바이스텔라(HEUREUX BY STELLA), 환경친화적 소재를 사용하는 패션브랜드 네이크스(NAKES)와 연 팝업스토어 행사를 성공리에 마쳤다고 21일 밝혔..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_470200_16873311615517270.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메이머스트, 더조인과 모바일 가상화 시장 공략 업무 협약 ...모바일 가상화 보안솔루션 ‘J-VMP’ 사업 강화]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=468391</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 02:11:39 GMT</pubDate>
             <content:encoded><![CDATA[자연어를 이해하는 실용 인공지능(AI) 기술 기업 무하유(대표 신동호)가 챗GPT가 쓴 문장을 찾아내는 GPTKiller(이하 GPT킬러) 솔루션을 개발 완료했다고 21일 밝혔다. 무하유는 지난 12년간 AI기반의 표절검사 서..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_468100_16873063215516549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버즈빌, ‘리워드 기반의 올인원 그로스 플랫폼’ 선언]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=468075</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=468075</guid>
-            <pubDate>Wed, 21 Jun 2023 02:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기반 광고 플랫폼 버즈빌(대표: 이관우, 이영호)이 ‘리워드 기반의 올인원 그로스 플랫폼(All-in-one Growth Platform)’으로의 도약을 선언하며, 새롭게 리뉴얼된 홈페이지를 공개했다고 21일 밝혔..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_468075_16873058415516542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
