@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 05:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 06:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업박스, ‘2023 우수급식·외식산업전’서 단체급식 전용 폐기물 서비스 전시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473180</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473180</guid>
+            <pubDate>Thu, 22 Jun 2023 06:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[사업장 폐기물 서비스 ‘업박스’의 운영사 리코(Reco, 대표 김근호)가 금일부터 3일간 코엑스 B홀에서 열리는 &lt;2023 우수급식 외식산업전&gt;에 참가해 단체 급식 시설 전용 폐기물 관리 서비스를 집중 홍보한..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_473180_16874123415518499.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브라운백, 커피 구독 서비스에 새로운 고객 경험을 제공해 시장 확대]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473141</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473141</guid>
+            <pubDate>Thu, 22 Jun 2023 06:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[“해마다 고객을 두 배씩 늘렸다. 낮은 해지율과 높은 유지율에 집중했다. 고객 만족이 브라운백의 성장 비결이라고 생각한다.” 커피테크 스타트업 브라운백 손종수 대표의 말이다. 브라운백은 2015년에 ‘브라운..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_473141_16874119825518467.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생네컷, 국내 최초 디지털 배경 시스템 적용한 차세대 매장 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471829</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 00:41:04 GMT</pubDate>
             <content:encoded><![CDATA[초보 사장님도 이제부터 단골 손님을 놓치지 않고 확인할 수 있다. 전국 130만 사업장에 도입된 경영관리 서비스 ‘캐시노트’를 운영하는 한국신용데이터는 매장의 과거 결제 데이터를 활용해 단골손님을 파악하고..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_471525_16873912225517967.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메이사, 건설 현장 실내 디지털트윈 애플리케이션 ‘메이스캔’ 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471505</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471505</guid>
-            <pubDate>Thu, 22 Jun 2023 00:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[건설 현장 공간정보 디지털트윈 스타트업 메이사(대표 김영훈)는 건설 현장 실내 디지털트윈 애플리케이션 ‘메이스캔’을 출시했다고 발표했다. 메이스캔은 360도 카메라를 활용하여 촬영한 영상으로 건축현장 실..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_471505_16873906815517965.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블라인드, 美 타임지 ‘세계에서 가장 영향력 있는 100대 기업’ 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471492</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471492</guid>
-            <pubDate>Thu, 22 Jun 2023 00:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[직장인 소셜 플랫폼 블라인드가 미국 시사주간지 타임(TIME)이 발표한 ‘세계에서 가장 영향력 있는 100대 기업’에 선정됐다고 22일 밝혔다. 타임은 21일(현지 시간) 자사 홈페이지를 통해 ‘세계에서 가장 영향력..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_471492_16873903825517963.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
