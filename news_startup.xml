@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 06:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 07:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, 국제컨퍼런스 참가... 애자일 역량 뽐낸]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473535</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473535</guid>
+            <pubDate>Thu, 22 Jun 2023 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[플래티어가 오는 7월 21일 성남 판교 경기창조경제혁신센터 국제회의장에서 개최되는 ‘리저널 스크럼 개더링 서울(RSG 서울)’ 콘퍼런스에 참여한다고 22일 밝혔다. 리저널 스크럼 개더링이 한국에서 열리는 건 이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_473535_16874152825518622.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업박스, ‘2023 우수급식·외식산업전’서 단체급식 전용 폐기물 서비스 전시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=473180</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 00:41:04 GMT</pubDate>
             <content:encoded><![CDATA[K-뷰티 유통 스타트업 ‘시그니처레이블이 인도네시아 대표 화장품 유통 업체인 ‘뷰티하울(Beauty Haul)’과 한국 화장품 유통 사업 협력을 위한 양해각서(MOU)를 체결했다고 22일 밝혔다. 양사는 MOU 체결을 계기..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_471585_16873923625517976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐시노트, 소상공인 위한 단골 관리 서비스 무료 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471525</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=471525</guid>
-            <pubDate>Thu, 22 Jun 2023 00:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[초보 사장님도 이제부터 단골 손님을 놓치지 않고 확인할 수 있다. 전국 130만 사업장에 도입된 경영관리 서비스 ‘캐시노트’를 운영하는 한국신용데이터는 매장의 과거 결제 데이터를 활용해 단골손님을 파악하고..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_471525_16873912225517967.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
