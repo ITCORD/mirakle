@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 04:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 05:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이버, 남성의류앱 4년째 1위]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=482342</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=482342</guid>
+            <pubDate>Mon, 26 Jun 2023 05:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[아이지에이웍스(igaworks)에서 발표한 ‘23년 상반기 업종 별 모바일 앱 순위’에 따르면 하이버가 남성의류 1위를 차지했다고 26일 밝혔다. 2위와는 15배 이상 벌어진 격차다. 지난 20년 모바일 인덱스 남성 의류 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_482342_16877544025523163.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코리아스타트업포럼 자문위원회 발족… 건강한 생태계 발전 모색]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=481303</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Jun 2023 00:46:32 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 소프트웨어 기업 오케스트로(주)(대표 김민준,김영광)가 글로벌 클라우드 오픈소스 기술 및 커뮤니티를 주도하는 오픈인프라 재단으로부터 초청받아, 캐나다 밴쿠버에서 13일부터 15일까지 3일간 진행된 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_475367_16874788215519712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공유 시퀀싱 레이어 개발사 라디우스, 프리 시드 투자 유치]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=475320</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=475320</guid>
-            <pubDate>Fri, 23 Jun 2023 00:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[공유 시퀀싱 레이어 개발사 라디우스(Radius, 대표 박지훈)가 총 170만 달러(한화 약 22억 원) 규모의 프리 시드 라운드 투자를 유치했다고 23일 밝혔다. 이번 라운드는 국내 블록체인 전문 투자사 해시드가 주도했..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_475320_16874778615519695.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
