@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 00:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 02:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(주)시프트바이오, 글로벌 대기업 다쏘시스템과 ‘AI 신약 개발 플랫폼’ 공동 연구 착수]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=488532</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=488532</guid>
+            <pubDate>Wed, 28 Jun 2023 02:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[(주)시프트바이오의 혁신적 신약 개발 기술과 글로벌 대기업 다쏘시스템의 시그니처 AI 기술로 새로운 ‘AI 신약 개발(AI driven Cell-Free Nanotherapy) 플랫폼’이 가동된다. 지난 4월 2023 대통령 방미 경제사절..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_488532_16879170615525783.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오르조, 모의고사 성적표 인증 이벤트 실시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=487957</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Jun 2023 00:44:52 GMT</pubDate>
             <content:encoded><![CDATA[서비스로봇 토탈 솔루션 기업 알지티(RGT)가 서빙로봇과 연동되는 ‘테이블 오더’를 출시했다. 이번 테이블오더 출시로 외식업 분야에서 연동성을 더욱 강화하고, 차별화된 경쟁력을 확보할 수 있을 것으로 기대된..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_487799_16879085415525601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구테크 스타트업 오후두시랩, ‘탄소중립 첫걸음 체크리스트’ 5가지 공개]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=487788</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=487788</guid>
-            <pubDate>Wed, 28 Jun 2023 00:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기반 탄소중립 SaaS 플랫폼 ‘그린플로’를 운영하는 오후두시랩(각자대표 설수경, 오광명)은 탄소배출량 관리를 고민 중인 기업들을 위한 ‘탄소중립 첫걸음 체크리스트’를 공개한다고 28일 밝혔다. 이 리스트..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_487788_16879083625525599.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
