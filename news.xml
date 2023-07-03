@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 04:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 05:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[센트비, ‘2023 한국수입박람회’ 기업 맞춤 컨설팅 세미나 성료…스마트한 해외송금, 결제 솔루션 제시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=502600</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=502600</guid>
+            <pubDate>Mon, 03 Jul 2023 05:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 외환 토탈 솔루션 기업 센트비(대표 최성욱)가 지난달 29일부터 사흘간 코엑스에서 진행된 국내 유일의 수입 상품 전문 전시회 ‘2023 한국수입박람회(KOREA IMPORT FAIR 2023)’에 참가해 부스 운영 및 부..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_502600_16883606415532128.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당근페이, ‘사기 의심 계좌 알림’ 기능 도입]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=501845</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 00:42:36 GMT</pubDate>
             <content:encoded><![CDATA[1인 피자의 선두주자인 ‘고피자’가 중소벤처기업부의 ‘예비유니콘 특별보증’ 지원 대상기업에 최종 선정되었다. 예비유니콘 특별보증은 투자 유치를 통해 시장 검증을 받고 혁신성과 성장성이 우수해 유니콘 기..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_495605_16880856615528819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화해, 중국 틱톡에 플래그십 스토어 오픈]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495590</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=495590</guid>
-            <pubDate>Fri, 30 Jun 2023 00:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[버드뷰가 운영하는 모바일 뷰티 플랫폼 화해는 중국 틱톡(도우인)에 플래그십 스토어를 오픈했다고 30일 밝혔다. 화해는 중국 최대 라이브커머스 채널로 등극한 중국판 틱톡에 단독 브랜드관인 ‘화해 플래그십 스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/06/image_readtop_2023_495590_16880854825528809.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
