@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 04:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 05:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이아이포펫, 미펫 흡수합병 “반려동물 헬스케어 1위 도약 기대”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=505712</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=505712</guid>
+            <pubDate>Tue, 04 Jul 2023 05:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[AI 기술을 통한 반려동물 헬스케어 전문 기업 ㈜에이아이포펫과 국내 최초 반려견 전용 필름형 영양제 상품을 선보인 ㈜미펫이 3일(월) 용산 노보텔 앰버서더 호텔에서 합병계약 체결식을 진행했다고 밝혔다. 합병..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_505712_16884460815533470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라이브스루 솔루션 앱 ‘스루’, 자영업자 위한 프리미엄 서비스 ‘스루 블랙’ 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=504935</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Jul 2023 00:45:45 GMT</pubDate>
             <content:encoded><![CDATA[비랩트(대표 이원제)가 국내 최초 작가 응원 커뮤니티 ‘숄더’ 서비스를 정식 출시했다고 4일 밝혔다. 숄더는 창작물에 대한 가치를 아는 팬과 소통할 수 있는 ‘가든’을 제공한다. 작가는 가든에서 자유롭게 근..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_504533_16884282625533032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼, 구글 최신 초거대언어모델 팜2 추가 탑재]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=504514</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=504514</guid>
-            <pubDate>Tue, 04 Jul 2023 00:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[AI(인공지능) 포털 서비스 기업 뤼튼테크놀로지스(뤼튼, 대표 이세영)가 구글이 개발한 최신의 팜2(PaLM 2) 비영어권 언어모델을 자사 서비스에 추가 탑재했다고 4일 밝혔다. 팜2는 구글이 지난 5월 발표한 새로운 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_504514_16884279015533026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
