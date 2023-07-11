@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 07:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 08:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무브, 항공에서 육상 교통까지 한 번에]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=526323</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=526323</guid>
+            <pubDate>Tue, 11 Jul 2023 08:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 트래블 모빌리티 플랫폼 무브와 제주항공이 항공과 육상교통을 원스톱으로 연계하는 ‘마스(MaaS, Mobility as a Service)’ 플랫폼을 시작한다고 11일 밝혔다. 제주항공 웹과 앱 채널에서 고객이 항공권 예..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_526323_16890626425542993.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팀스파르타, 내일배움캠프 신규 트랙 ‘실무형 유니티(Unity) 게임 개발자 양성 과정’ 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=524400</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jul 2023 02:26:58 GMT</pubDate>
             <content:encoded><![CDATA[카카오 정보기술(IT) 솔루션 자회사 (주)디케이테크인(대표 이원주)은 양평군(군수 전진선)과 데이터기반행정 디지털 플랫폼인 ‘양평군 지능형 원사이트 통합서비스’ 구축을 위한 업무협약을 체결했다고 10일 밝..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_521016_16889526025540916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와디즈, 소상공인 배송 지원 확대... 익일배송 서비스 ‘와배송’ 개편]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=520983</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=520983</guid>
-            <pubDate>Mon, 10 Jul 2023 02:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 펀딩 성공 제품을 상시 판매하는 와디즈스토어의 익일 배송 서비스인 ‘와배송’을 개편했다고 10일 밝혔다. 와배송은 메이커의 상품을 와디즈 전용 풀필먼트 센터..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_520983_16889523625540911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
