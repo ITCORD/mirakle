@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 08:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠콘, IBK기업은행과 손잡고 디지털 신시장 개척]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=529989</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=529989</guid>
+            <pubDate>Wed, 12 Jul 2023 09:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[비즈니스 데이터 플랫폼 기업 쿠콘이 IBK기업은행과 국내외 서비스형 뱅킹(Banking as a Service, 이하 BaaS) 시장 선점을 목표로 디지털금융 신시장 개척을 위해 업무 협약을 12일 체결했다. 협약식은  12일 서울 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_529989_16891494625544445.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베르티스의 단백질 분석 SW “생각보다 뛰어나네”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=527893</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Apr 2023 06:09:45 GMT</pubDate>
             <content:encoded><![CDATA[서울산업진흥원(SBA, 대표이사 김현우)은 28일 KBS 아레나 제2체육관에서 창립     제25주년 비전 선포식을 열고 ‘서울경제진흥원’으로 사명 변경을 선포했다. 서울경제진흥원은 급변하는 경제, 사회적 패러다임..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_270676_16808461225421173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAP 코리아, 중국의 반도체 전략과 美반도체법 대응 웨비나 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=268428</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=268428</guid>
-            <pubDate>Thu, 06 Apr 2023 09:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[SAP 코리아(대표 신은영)가 ‘글로벌 반도체 전쟁과 미래: C-Level 서밋 2023’ 웨비나 시리즈 중 두 번째 세션을 오는 4월 18일에 개최한다고 밝혔다. SAP 코리아는 지난 2월 국제 거래 자문기업 MAVEK과 함께 첫 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_268428_16807698615419900.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
