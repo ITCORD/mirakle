@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 23:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 00:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계적 학술지가 ‘콕’ 찍은 국내 스타트업은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=552549</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=552549</guid>
+            <pubDate>Thu, 20 Jul 2023 00:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[유전자 교정 기술에 이어 새롭게 뜨고 있는 RNA 교정 기술 부문에서 국내 스타트업이 앞선 기술력을 기반으로 좋은 평가를 받고 있다. 지난 3월 세계적 과학 저널 ‘네이처 바이오테크놀로지’는 RNA 교정 기술을 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_552549_16898130025554170.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어이사컴퍼니, 中 최대 패션 플랫폼과 제휴]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=547611</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 May 2023 06:09:35 GMT</pubDate>
             <content:encoded><![CDATA[스캇워크코리아와 하이어베스트가 HR리더를 대상으로 한 인재검증과 핵심인재 양성을 위한 솔루션에 대한 주제로 합동 세미나를 개최했다. 지난 23일 서울 세빛섬 플로팅아일랜드 컨벤션에서 열린 이번 세미나는 검..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_403712_16850807425485699.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어 그루비, 일본 데이터 기술 전문기업과 파트너 계약]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=400771</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=400771</guid>
-            <pubDate>Thu, 25 May 2023 07:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 기업 ‘플래티어(대표이사 이상훈)’와 일본의 주식회사 프라임넘버(primeNumber Inc., CEO 타나베 유키)가 양사 협력을 위한 파트너 계약을 체결했다고 25일 밝혔다. 플래티어는 AI 기반 개..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/05/image_readtop_2023_400771_16849974615484063.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
