@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 23:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 00:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“젤리크루, 망붕이상점 오픈” 수원으로 오세요]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=561714</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=561714</guid>
+            <pubDate>Mon, 24 Jul 2023 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[핸드허그의 크리에이터 커머스 플랫폼 기반 통합 크리에이터 수익화 솔루션 ‘젤리크루’가 31일까지 AK플라자 수원점 6층 행사장에서 ‘망붕이상점’ 대규모 팝업스토어를 운영한다. 지난 6월 영등포 타임스퀘어에..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_561714_16901581815558342.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업무공간 혁신 기업 원루프, 거점오피스 솔루션 서비스 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=561613</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=561613</guid>
+            <pubDate>Mon, 24 Jul 2023 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[업무공간을 서비스하는 원루프(ONEROOF)가 하이브리드워크와 스마트워크를 구현하고자 하는 기업을 위한 혁신적인 거점오피스 솔루션을 출시하였다고 밝혔다. 거점오피스 솔루션은 임직원 업무 패턴에 맞게 업무 공..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_561613_16901563815558305.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[채널톡 - 보이저엑스, AI 고객 상담 분석툴 ‘VOC 스튜디오’ 출시]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=556026</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 20 Jul 2023 02:34:43 GMT</pubDate>
             <content:encoded><![CDATA[교육 및 지식 공유 플랫폼 클라썸(대표 이채린, 최유진)이 클라썸을 도입한 전국 대학교의 강의 수가 18개월 만에 422%로 급증했다고 20일 밝혔다. 게시글 수는 330% 이상으로 증가했고, ‘궁금해요’, ‘관심 있어..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_552995_16898186415554273.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재, ‘2023 상반기 독서 결산 데이터’ 발표]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=552658</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=552658</guid>
-            <pubDate>Thu, 20 Jul 2023 02:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 독서 플랫폼 밀리의 서재(대표 서영택)는 올해 상반기 독서 트렌드, 밀리의 서재 회원들의 독서 취향을 분석한 ‘2023 상반기 결산 독서 데이터’를 발표했다. 올 상반기에는 성별을 불문하고 자기계발서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_552658_16898142025554196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무하유, 국회도서관 융복합서비스 데이터셋 구축 사업 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=552641</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=552641</guid>
-            <pubDate>Thu, 20 Jul 2023 02:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[자연어를 이해하는 실용 인공지능 기업 무하유(대표 신동호)가 ‘국회도서관 융복합서비스 데이터셋 구축 사업’의 주관 사업자로 선정됐다. 이를 통해 국내 법률 관련 인공지능 학습용 데이터셋을 구축하고, 어려..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_552641_16898140815554190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
