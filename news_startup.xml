@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 00:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 01:56:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웰로, 한국투자파트너스·신용보증기금으로부터 PreA 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=576797</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=576797</guid>
+            <pubDate>Fri, 28 Jul 2023 01:56:24 GMT</pubDate>
+            <content:encoded><![CDATA[개인을 위한 맞춤정책 추천서비스 ‘웰로’와 기업을 위한 정부사업 협업관리 솔루션 ‘웰로비즈’를 운영하는 웰로(대표 김유리안나)가 한국투자파트너스, 신용보증기금으로부터 PreA 투자를 유치했다고 28일 밝혔..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_576797_16905060615564576.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인라이플, 2023년 하반기 모비온 영업부문 신입사원 공개 채용]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=576698</link>
@@ -78,15 +86,6 @@
             <pubDate>Thu, 27 Jul 2023 01:54:02 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 종합 물류파트너, 콜로세움코퍼레이션이 27일 물류 업계의 트렌드 변화를 담은 ‘콜로세움 로지스틱스 트렌드 인사이트 2023’을 발간했다. 콜로세움은 국내·외 36개소로 구성된 물류센터 네트워크를 통해 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572779_16904358025563289.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스토어링크, ‘이커머스 엔진 최적화(EEO)’ 방법론 개발...
-온라인 오픈마켓 분석 다각화로 맞춤형 전략 도출]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=572760</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=572760</guid>
-            <pubDate>Thu, 27 Jul 2023 01:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[이커머스 마케팅 플랫폼 기업 스토어링크(대표 정용은)는 ‘이커머스 엔진 최적화(EEO)’ 기법의 개발을 완료했다고 27일 밝혔다. ‘이커머스 엔진 최적화 (EEO, E-Commerce Engine Optimization)’는 기존 검색엔..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572760_16904192415562868.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
