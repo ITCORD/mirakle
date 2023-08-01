@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 00:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹케시, ‘웹케시대시보드’에 ‘FDS’ 기능 추가]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=585609</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=585609</guid>
+            <pubDate>Tue, 01 Aug 2023 02:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[B2B 핀테크 전문 기업 웹케시가 자사 상품 통합 자금 보고서 ‘웹케시대시보드’에 이상 거래 감지 시스템(이하 FDS) 기능을 업데이트해 새롭게 선보인다고 1일 밝혔다. 웹케시대시보드는 기업과 계열사, 해외 지사..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_585609_16908547815568820.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리콘랩스, 네이버제트와 제페토서 ‘탑 디자이너 콘테스트’]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=584410</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jul 2023 08:10:51 GMT</pubDate>
             <content:encoded><![CDATA[중국 VVIC닷컴과 협약 500만개 상품 국내 제공  주식회사 어이사컴퍼니가 중국 광저우 최대 패션 B2B 플랫폼 써우콴왕과 제휴 협약을 체결하고, 이를 반영한 어이사마켓 리뉴얼 페이지를 오픈했다고 19일 밝혔다. 중..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_547611_16896684625552106.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콜로세움, 품질·환경경영 국제표준 인증]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=545588</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=545588</guid>
-            <pubDate>Tue, 18 Jul 2023 01:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[콜로세움이 물류 스타트업 최초로 ISO 9001과 14001을 획득하며 글로벌 수준의 품질 및 환경경영시스템에 대한 역량을 대외적으로 인정받았다. 글로벌 종합 물류파트너, 콜로세움(대표 박진수)은 7월18일 물류 스타..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_545588_16896415825551288.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
