@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 22:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 23:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈큐브마케팅, 기프트카드 플랫폼 토스티 미국 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=591142</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=591142</guid>
+            <pubDate>Wed, 02 Aug 2023 23:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[윈큐브마케팅(대표 김성필)은 기업용 디지털 기프트카드 공급 플랫폼 ‘토스티’를 미국에 출시했다고 3일 밝혔다. 토스티는 임직원 인센티브와 고객 경품 지급 등의 목적으로 디지털 기프트카드를 대량 발송하는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_591142_16910170215571333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장사 컨설팅 앱 ‘창톡’ 상담 무료 & 할인 프로모션]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588583</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Aug 2023 00:41:33 GMT</pubDate>
             <content:encoded><![CDATA[저작권 걱정 없는 디지털 교재 플랫폼 쏠북을 운영하는 북아이피스(대표 윤미선)는 에듀테크 기업과 프랜차이즈 학원을 위한 B2B 요금제를 출시한다고 밝혔다. B2B 요금제는 기업의 매출 규모에 따라 최고 82%까지 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_588081_16909327815570011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재, ‘즐거운 독서생활 1일 1밀리’ 서비스 오픈]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588074</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=588074</guid>
-            <pubDate>Wed, 02 Aug 2023 00:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 독서 플랫폼 밀리의 서재(대표 서영택)는 독자들이 일상 속에서 더 적극적으로 독서를 즐길 수 있도록 ‘즐거운 독서생활 1일 1밀리’ 서비스를 오픈했다고 2일 밝혔다. ‘즐거운 독서생활 1일 1밀리’는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_588074_16909325415570009.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
