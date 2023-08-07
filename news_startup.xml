@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 00:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 01:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ 핫플’ 젤리크루, AK플라자 수원점 신규 오픈]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=600292</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=600292</guid>
+            <pubDate>Mon, 07 Aug 2023 01:59:23 GMT</pubDate>
+            <content:encoded><![CDATA[핸드허그는 AK플라자 수원점에 ‘젤리크루’ 신규 매장을 개점했다고 7일 밝혔다. 이로써 젤리크루는 영등포 타임스퀘어점, 코엑스점, 이대점 등 MZ세대가 모이는 서울의 중요 상권 출점에 이어 경기 남부권에도 매..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_600292_16913692215575931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와인테크 플랫폼 블링커스, 와인 데이터 게이트웨이 신사업 진출]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=600262</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Aug 2023 00:39:37 GMT</pubDate>
             <content:encoded><![CDATA[올인원 비즈니스 메신저 ‘채널톡’을 운영하고 있는 (주)채널코퍼레이션(공동대표 최시원 김재홍)이 새롭게 선보인 AI 인터넷 전화 서비스 ‘미트’의 사업자 전화번호 발급수가 1000건을 돌파했다고 밝혔다. 지난..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_591303_16910219415571385.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸드테크 기업 마켓보로, 누적 거래액 5조 원 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=591262</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=591262</guid>
-            <pubDate>Thu, 03 Aug 2023 00:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[엔터프라이즈 푸드테크 기업 마켓보로(대표 임사성) 가 운영하는 식자재 유통 SaaS(서비스형 소프트웨어) 마켓봄의 누적 거래액이 5조 원을 돌파했다고 3일 밝혔다. 지난해 12월 누적 거래액 3조 원을 달성한 이후,..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_591262_16910209815571366.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
