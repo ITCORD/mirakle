@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 23:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 00:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 백신 개발이 이어지고 있는 이유]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=602918</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=602918</guid>
+            <pubDate>Tue, 08 Aug 2023 00:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부가 제약업체 다이이치산쿄가 개발한 코로나19 백신의 제조 판매를 1일 승인했다. 일본이 자국의 제약사가 개발한 코로나19 백신을 승인한 것은 이번이 처음이다. 일본에서는 다이이치산쿄 외에 시오노 요..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_602918_16914525625577220.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“국내 태양광 산업 ‘판’ 바꾼다”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=599336</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jul 2023 00:39:54 GMT</pubDate>
             <content:encoded><![CDATA[핸드허그의 크리에이터 커머스 플랫폼 기반 통합 크리에이터 수익화 솔루션 ‘젤리크루’가 31일까지 AK플라자 수원점 6층 행사장에서 ‘망붕이상점’ 대규모 팝업스토어를 운영한다. 지난 6월 영등포 타임스퀘어에..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_561714_16901581815558342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠콘, 민간 ‘데이터전문기관’ 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=552583</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=552583</guid>
-            <pubDate>Thu, 20 Jul 2023 02:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[비즈니스 데이터 플랫폼 기업 ‘쿠콘(대표 김종현)’이 민간 ‘데이터전문기관’에 선정됐다고 밝혔다. 데이터전문기관은 신용정보법에 따라 금융위원회가 지정하는 기관으로 금융회사 간 또는 금융회사와 비금융회..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_552583_16898133625554174.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
