@@ -4,16 +4,24 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 04:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카사, 7번째 공모건물 ‘압구정 커머스 빌딩’ 공개]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=614269</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=614269</guid>
+            <pubDate>Fri, 11 Aug 2023 05:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내최초 부동산디지털수익증권거래소 카사가 7번째 공모 건물로 ‘압구정 커머스 빌딩’을 공개한다고 11일 밝혔다. 카사가 1년 여만에 선보이는 이번 공모 건물은 총 167억원 규모로,  MZ세대들에게 인기있는 외..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_614269_16917290415582070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핀테크 기업, 고객의 개인정보보호 위해 자율 규제에 나선다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=614045</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=614045</guid>
             <pubDate>Fri, 11 Aug 2023 03:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[핀테크 업권 개인정보보호 자율규제 협의회 정식 자율규제 단체..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_614045_16917215425581964.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[핀테크 업권 개인정보보호 자율규제 협의회 정식 자율규제 단체로 지정 다양한 금융 서비스를 제공하는 핀테크 기업은 보호관리해야 하는 개인정보가 많다. 특히 주민등록번호와 같은 민감한 개인정보가 많다. 정부..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_614045_16917303045582105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베스핀글로벌, 클라우드 인프라 매니지드 서비스 개편]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Aug 2023 00:39:42 GMT</pubDate>
             <content:encoded><![CDATA[교육 및 지식 공유 플랫폼 클라썸(대표 이채린, 최유진)이 인천광역시교육청 소속 총 167개 초중고교에 ‘질문 기반 AI 코스웨어’로 도입된다. 인천광역시교육청은 기존에 분산된 교육 플랫폼을 통합 운영하고, 학..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_609890_16916271015580257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콰트, 상반기 구독 매출 전년비 314% 증가]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=609884</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=609884</guid>
-            <pubDate>Thu, 10 Aug 2023 00:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[엔라이즈는 자사가 운영하는 온라인 홈트레이닝 플랫폼 콰트(QUAT)가 상반기(2023년 1월~6월) 전체 구독 매출이 전년 대비 314% 증가하며 대폭 성장했다고 10일 밝혔다. 7월 신규 구독 매출도 역대 최고를 달성했다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_609884_16916269225580254.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
