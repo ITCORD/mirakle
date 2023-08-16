@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 04:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 05:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리체, 생활맥주와 프랜차이즈 BNPL 서비스 협약]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623816</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623816</guid>
+            <pubDate>Wed, 16 Aug 2023 05:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[BNPL 핀테크 스타트업 리체가 수제 맥주 프랜차이즈 생활맥주를 운영하는 데일리비어와 생활맥주 가맹점주를 대상으로 BNPL 서비스 제공하는 내용의 업무협약을 체결했다고 16일 밝혔다. BNPL은 ‘Buy Now Pay Late..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623816_16921613415587292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘피리부는 강아지’, 글로벌 기업 ‘딩고나투라’와 프리미엄 펫푸드 5000개 쏜다!]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623209</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 00:31:09 GMT</pubDate>
             <content:encoded><![CDATA[인공지능 데이터 및 검증 전문기업인 ㈜테스트웍스(대표 윤석원)는 50억원 규모의 시리즈 B 브릿지 임팩트 투자를 유치했다고 16일 밝혔다. 이번 투자에는 코리아임팩트스케일업 투자조합(엠와이소셜컴퍼니, 더웰스..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622567_16921413625586875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코딧, 국회 세미나서 입법영향분석의 인공지능 활용 가능성과 한계 제시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=618603</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=618603</guid>
-            <pubDate>Mon, 14 Aug 2023 01:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[AI 법 규제 정책 플랫폼 코딧(CODIT, 대표 정지은)은 8월 16일(수)에 개최하는 ‘디지털 시대의 인공지능 활용을 위한 세미나’에 참여해, ‘입법영향분석에서 인공지능 활용 가능성과 한계’를 주제로 발제를 진행..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_618603_16919754025585011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

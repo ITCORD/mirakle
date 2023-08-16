@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 04:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 05:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리체, 생활맥주와 프랜차이즈 BNPL 서비스 협약]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623816</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623816</guid>
+            <pubDate>Wed, 16 Aug 2023 05:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[BNPL 핀테크 스타트업 리체가 수제 맥주 프랜차이즈 생활맥주를 운영하는 데일리비어와 생활맥주 가맹점주를 대상으로 BNPL 서비스 제공하는 내용의 업무협약을 체결했다고 16일 밝혔다. BNPL은 ‘Buy Now Pay Late..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623816_16921613415587292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어 그루비, 고객 의도 반영한 검색어 추천 특허 등록]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=609926</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jul 2023 00:37:22 GMT</pubDate>
             <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 플래티어가 유연하고 혁신적인 조직문화 정착을 위해 임직원 복지 혜택 강화 등 내실 다지기에 심혈을 기울이고 있다고 27일 밝혔다. 심리적 고충 체계적 관리, 자율적인 업무 환경 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572582_16904172025562835.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브라우니, 무인매장 ‘에어컨 관리’ 서비스 출시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=572558</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=572558</guid>
-            <pubDate>Thu, 27 Jul 2023 00:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[무인 매장 정기 관리 서비스 브라우니가 에어컨 클린케어 서비스를 시작한다. 브라우니는 여름철 무인 매장 에어컨 관리를 위해 에어컨 관리 업체 ‘서비스마스터’와 업무협약(MOU)을 맺었다고 27일 밝혔다. 브라..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572558_16904183425562851.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
