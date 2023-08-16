@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 05:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 06:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[래블업, 거대 언어 모델 서비스 첫 선보여 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=623961</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=623961</guid>
+            <pubDate>Wed, 16 Aug 2023 06:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[래블업은 11~13일 개최된 ‘파이콘 한국 2023’에서 자사의 AI 연구개발 및 서비스 플랫폼 소프트웨어인 ‘백앤드.AI(Backend.AI)’로 거대 언어 모델을 직접 만들고 서비스하는 과정을 자동화하는 기능, 데모를 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623961_16921629615587344.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리체, 생활맥주와 프랜차이즈 BNPL 서비스 협약 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=623816</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 00:30:29 GMT</pubDate>
             <content:encoded><![CDATA[블루칩 아트테크 플랫폼 테사(TESSA)가 국내 증권시장 리테일 점유율 1위 사업자인 키움증권과 고객 실명거래 계좌 연동 이벤트를 진행하고 미술품 투자계약증권 제1호 상품 출시에 속도를 낸다. 테사는 지난 달 12..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622701_16921451425586925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테스트웍스, 시리즈 B 브릿지 임팩트 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=622567</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=622567</guid>
-            <pubDate>Wed, 16 Aug 2023 00:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 데이터 및 검증 전문기업인 ㈜테스트웍스(대표 윤석원)는 50억원 규모의 시리즈 B 브릿지 임팩트 투자를 유치했다고 16일 밝혔다. 이번 투자에는 코리아임팩트스케일업 투자조합(엠와이소셜컴퍼니, 더웰스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622567_16921413625586875.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -167,6 +167,14 @@
             <enclosure url="https://file.mk.co.kr/meet/2021/01/image_listmain_2021_56771_1610964225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[래블업, 거대 언어 모델 서비스 첫 선보여 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623961</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623961</guid>
+            <pubDate>Wed, 16 Aug 2023 06:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[래블업은 11~13일 개최된 ‘파이콘 한국 2023’에서 자사의 AI 연구개발 및 서비스 플랫폼 소프트웨어인 ‘백앤드.AI(Backend.AI)’로 거대 언어 모델을 직접 만들고 서비스하는 과정을 자동화하는 기능, 데모를 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623961_16921629615587344.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[리체, 생활맥주와 프랜차이즈 BNPL 서비스 협약 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623816</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623816</guid>
@@ -239,12 +247,12 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572779_16904358025563289.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[플래티어, 임직원 멘탈 케어 등 MZ 선호 복지 강화 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=572582</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=572582</guid>
-            <pubDate>Thu, 27 Jul 2023 00:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 플래티어가 유연하고 혁신적인 조직문화 정착을 위해 임직원 복지 혜택 강화 등 내실 다지기에 심혈을 기울이고 있다고 27일 밝혔다. 심리적 고충 체계적 관리, 자율적인 업무 환경 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_572582_16904172025562835.png" length="0" type="image/png"/>
+            <title><![CDATA[래블업, 거대 언어 모델 서비스 첫 선보여 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623961</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623961</guid>
+            <pubDate>Wed, 16 Aug 2023 06:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[래블업은 11~13일 개최된 ‘파이콘 한국 2023’에서 자사의 AI 연구개발 및 서비스 플랫폼 소프트웨어인 ‘백앤드.AI(Backend.AI)’로 거대 언어 모델을 직접 만들고 서비스하는 과정을 자동화하는 기능, 데모를 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623961_16921629615587344.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[리체, 생활맥주와 프랜차이즈 BNPL 서비스 협약 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
@@ -317,14 +325,6 @@
             <pubDate>Wed, 16 Aug 2023 00:31:09 GMT</pubDate>
             <content:encoded><![CDATA[블루칩 아트테크 플랫폼 테사(TESSA)가 국내 증권시장 리테일 점유율 1위 사업자인 키움증권과 고객 실명거래 계좌 연동 이벤트를 진행하고 미술품 투자계약증권 제1호 상품 출시에 속도를 낸다. 테사는 지난 달 12..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622701_16921451425586925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테스트웍스, 시리즈 B 브릿지 임팩트 투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622567</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622567</guid>
-            <pubDate>Wed, 16 Aug 2023 00:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 데이터 및 검증 전문기업인 ㈜테스트웍스(대표 윤석원)는 50억원 규모의 시리즈 B 브릿지 임팩트 투자를 유치했다고 16일 밝혔다. 이번 투자에는 코리아임팩트스케일업 투자조합(엠와이소셜컴퍼니, 더웰스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622567_16921413625586875.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“강제 구독경제 시대.. 소비자 보호 필요하다” 전호겸 교수 인터뷰 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
