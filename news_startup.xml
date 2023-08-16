@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘피리부는 강아지’, 글로벌 기업 ‘딩고나투라’와 프리미엄 펫푸드 5000개 쏜다!]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623209</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623209</guid>
+            <pubDate>Wed, 16 Aug 2023 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[비즈니스 크리에이팅 기업 에임드(대표 임형철)의 반려견 라이프 스타일 앱 ‘피리부는 강아지’가 스페인 프리미엄 펫푸드 그룹 ’딩고나투라’와 오는 29일까지 이벤트를 진행, 반려가족 건강 증진을 위한 본격 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623209_16921518025587098.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올인원 비즈 메신저 채널톡, 마이리얼트립에 서비스 계약… 전화 상담률 70% 감소]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622822</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Aug 2023 01:40:00 GMT</pubDate>
             <content:encoded><![CDATA[AI 법 규제 정책 플랫폼 코딧(CODIT, 대표 정지은)은 8월 16일(수)에 개최하는 ‘디지털 시대의 인공지능 활용을 위한 세미나’에 참여해, ‘입법영향분석에서 인공지능 활용 가능성과 한계’를 주제로 발제를 진행..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_618603_16919754025585011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미용인 종합 협업플랫폼 ‘케미티드’, 회원 가입사 250개 매장 돌파]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=618580</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=618580</guid>
-            <pubDate>Mon, 14 Aug 2023 01:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘미용인 종합 협업플랫폼’ 스타트업 ‘케미티드(대표 유주호)’가 최근 회원 가입사 250개 매장을 돌파하면서 주목을 받고 있다. 케미티드는 전문 미용인에게 필요한 모든 서비스를 제공하기 위해 다양한 분야의 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_618580_16919742615584989.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
