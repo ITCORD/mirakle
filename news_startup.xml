@@ -4,9 +4,25 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 23:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 00:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동네친구 매칭앱 위피, 올 상반기 영업이익 전년比 52%↑…10명 중 8명 재구매]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=625931</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=625931</guid>
+            <pubDate>Thu, 17 Aug 2023 00:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[엔라이즈는 자사가 운영하는 소셜 디스커버리 서비스 위피(WIPPY)의 올해 상반기 영업이익이 전년 동기 대비 52% 신장했다고 17일 밝혔다. 코로나 이후 매칭앱을 통해 관계를 확장하는 2030이 늘어나면서 나타난 현..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_625931_16922311815588290.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이너, ‘AI 워크스페이스’ 출시…국내 첫 ‘자율 AI 에이전트’ 공개]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=625921</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=625921</guid>
+            <pubDate>Thu, 17 Aug 2023 00:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[초개인화 생성 AI 스타트업 ‘라이너(LINER, 대표 김진우)’가 국내 첫 자율 AI 에이전트 서비스인 ‘AI 워크스페이스’를 출시했다고 17일 밝혔다. ‘자율 AI 에이전트(Autonomous AI Agent)’는 사람의 개입 없이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_625921_16922309415588287.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[래블업, 거대 언어 모델 서비스 첫 선보여]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=623961</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 01:39:15 GMT</pubDate>
             <content:encoded><![CDATA[상품페이지 주소(URL)만 넣으면 AI가 광고 소재를 제작하는 서비스 ‘브이캣’이 챗지피티(Chat GPT)를 도입한 신규 서비스를 출시했다고 16일 밝혔다. 신규 서비스에서 챗지피티는 이용자가 입력한 상품페이지를 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622746_16921456815586945.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 리커머스 서비스 ‘차란’, 정식 서비스 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622720</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622720</guid>
-            <pubDate>Wed, 16 Aug 2023 00:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[마인이스 주식회사(대표 김혜성)가 패션 리커머스 서비스 ‘차란’의 정식 서비스를 론칭한다고 16일 밝혔다. 이는 지난해 성공적인 알파 테스트를 바탕으로 지난 2월 베타 서비스를 론칭한 지 약 7개월 만이다. 차..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622720_16921453815586928.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테사, 키움증권과 고객 실명거래 계좌 연동으로 상품 출시 본격 ‘드라이브’]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622701</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=622701</guid>
-            <pubDate>Wed, 16 Aug 2023 00:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[블루칩 아트테크 플랫폼 테사(TESSA)가 국내 증권시장 리테일 점유율 1위 사업자인 키움증권과 고객 실명거래 계좌 연동 이벤트를 진행하고 미술품 투자계약증권 제1호 상품 출시에 속도를 낸다. 테사는 지난 달 12..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_622701_16921451425586925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
