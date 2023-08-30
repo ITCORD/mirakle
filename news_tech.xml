@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 23:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 00:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포브스 아시아가 주목한 韓 스타트업은?]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=657523</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=657523</guid>
+            <pubDate>Wed, 30 Aug 2023 00:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[런드리고와 마이리얼트립 등 9개 한국 스타트업이 ‘2023년 포브스 선정 아시아 유망기업 100’에 선정됐다. 29일 포브스 아시아에 따르면 국내 기업으로는 런드리고(의식주컴퍼니), 마이리얼트립, 메이크스타, 플..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_657523_16933545625604261.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[콜로세움, 글로벌 인재 유치 나서]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=656105</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Aug 2023 02:06:16 GMT</pubDate>
             <content:encoded><![CDATA[B2B 핀테크 전문 기업 웹케시가 자사 상품 통합 자금 보고서 ‘웹케시대시보드’에 이상 거래 감지 시스템(이하 FDS) 기능을 업데이트해 새롭게 선보인다고 1일 밝혔다. 웹케시대시보드는 기업과 계열사, 해외 지사..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_585609_16908547815568820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리콘랩스, 네이버제트와 제페토서 ‘탑 디자이너 콘테스트’]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=584410</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=584410</guid>
-            <pubDate>Mon, 31 Jul 2023 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[리콘랩스는 네이버제트와 파트너십을 맺고 메타버스 플랫폼 제페토(ZEPETO)에서 이용자들이 생성형 AI 기술을 활용해 패션 아이템을 제작하는 ‘탑 디자이너 콘테스트’를 개최한다고 31일 밝혔다. 이번 이벤트는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/07/image_readtop_2023_584410_16907931625568299.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
