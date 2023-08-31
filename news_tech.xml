@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 09:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 10:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디캠프 8월 디데이 ‘리얼드로우’ 우승]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=663373</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=663373</guid>
+            <pubDate>Thu, 31 Aug 2023 10:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프(대표 김영덕)는 31일 서울 마포구에 있는 프론트원에서 개최한 ‘8월 디데이’에서 리얼드로우가 우승했다고 밝혔다. 총 288개 스타트업이 신청한 이번 디데이에는 국내 스타트업 5개사와..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_663373_16934748025606661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BHSN, 알토스벤처스로부터 60억 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=660740</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Aug 2023 00:36:47 GMT</pubDate>
             <content:encoded><![CDATA[일본 정부가 제약업체 다이이찌산쿄가 개발한 코로나19 백신의 제조 판매를 1일 승인했다. 일본이 자국의 제약사가 개발한 코로나19 백신을 승인한 것은 이번이 처음이다. 일본에서는 다이이찌산쿄 외에 시오노 요..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_602918_16914591615577481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“국내 태양광 산업 ‘판’ 바꾼다”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=599336</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=599336</guid>
-            <pubDate>Sun, 06 Aug 2023 08:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[“한국의 태양광 시장은 소규모 사업의 비중이 극단적으로 높습니다. 전문성, 조직력을 갖춘 브라이트에너지파트너스(BEP)가 이 부분을 해소하는 데 도움을 줄 수 있다고 생각합니다.” 2020년 본격 영업을 시작한 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_599336_16913096415575366.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
