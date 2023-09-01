@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 08:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 09:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아비투스 어소시에이트(Artue) 송보영 대표 , 세계적인 예술출판사 까이에다르(Cahiers d‘Art)한국 총괄 대표로 선임]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=666066</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=666066</guid>
+            <pubDate>Fri, 01 Sep 2023 09:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[약 100년을 이어온 프랑스의 저명한 예술출판사 까이에다르(Cahiers d’Art)가 오는 9월 6일, 서울을 거점으로 아시아에 첫 공식 론칭한다고 밝혔다. 이를 위해 까이에다르는 송보영 아비투스 어소시에이트(Artue) ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_666066_16935565235608080.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[템퍼가 인정한 韓 스타트업… “당신의 잠자리를 책임지겠습니다”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=664194</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Aug 2023 05:07:55 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 XR(eXtended Reality, 확장현실) 테크 기업 버넥트가 오는 23일 원격 협업 솔루션 ‘리모트(Remote)’ 2.9 업데이트를 실시한다고 22일 밝혔다. 이번 리모트 2.9 업데이트에는 스마트글라스 원격 제어 기능 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_637891_16926800425594784.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윙잇, 세계 최대 ‘홍콩식품박람회 2023’ 참가…‘K-간편식’ 글로벌 확장 가속화]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=637885</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=637885</guid>
-            <pubDate>Tue, 22 Aug 2023 05:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[푸드 커머스 플랫폼 ‘윙잇(대표 임승진)’은  지난 17일부터 19일까지 홍콩컨벤션센터에서 열린 ‘2023 홍콩국제식품박람회(HKTDC FOOD EXPO PRO 2023)’에 참가해 본격적인 글로벌 확장 가속화에 나섰다고 23일 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_637885_16926799225594780.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
