@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 04:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 05:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법무법인 미션, ‘2023년 하계 인턴십’ 성료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=677255</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=677255</guid>
+            <pubDate>Wed, 06 Sep 2023 05:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[법무법인 미션은 법학전문대학원생들을 대상으로 개최한 ‘2023년 하계 인턴십’을 성공리에 마쳤다고 6일 밝혔다. 이번 인턴십은 제주도에서 진행되었다. 지난 6월 열린 1차 인턴십부터 8월 24일 수료식을 마친 2차..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_677255_16939742415614165.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모비두, 70억 규모 시리즈B 브릿지 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=676687</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Sep 2023 01:46:02 GMT</pubDate>
             <content:encoded><![CDATA[교원과 매일경제신문이 매년 공동 개최하는 스타트업 오픈이노베이션 플랫폼 ‘스타트업 프라이즈 시즌5’ 본선 무대가 이달 14일, 서울 동대문 디자인플라자(DDP)에서 개최된다. 세계지식포럼과 스타트업 대축제인..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_664132_16935292215607209.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디캠프 8월 디데이 ‘리얼드로우’ 우승]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=663373</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=663373</guid>
-            <pubDate>Thu, 31 Aug 2023 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[은행권청년창업재단 디캠프(대표 김영덕)는 31일 서울 마포구에 있는 프론트원에서 개최한 ‘8월 디데이’에서 리얼드로우가 우승했다고 밝혔다. 총 288개 스타트업이 신청한 이번 디데이에는 국내 스타트업 5개사와..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_663373_16935454275607602.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
