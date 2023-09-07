@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 23:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 00:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식기 렌탈?세척 스타트업 뽀득, 180억 규모 추가 투자 유치…시리즈B 510억 마무리]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=679710</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=679710</guid>
+            <pubDate>Thu, 07 Sep 2023 00:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[식기 렌탈 세척 스타트업 뽀득(대표 박노준)은 시리즈B 익스텐션(Extension) 라운드에서 180억 원 규모의 투자를 유치했다고 7일 밝혔다. 총 투자금 510억 원으로 시리즈B 라운드를 최종 마무리한다. 이번 투자는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_679710_16940460015615395.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법무법인 미션, ‘2023년 하계 인턴십’ 성료]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=677255</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Sep 2023 01:46:02 GMT</pubDate>
             <content:encoded><![CDATA[좌우로 움직이는 침대가 수면의 질 높인다는 연구 보고 스타트업 뛰어든 정태현 대표 수년..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_664194_16935294615607216.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 나가는 스타트업 확인하세요…‘스타트업 프라이즈 시즌5’ 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=664132</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=664132</guid>
-            <pubDate>Fri, 01 Sep 2023 01:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[교원과 매일경제신문이 매년 공동 개최하는 스타트업 오픈이노베이션 플랫폼 ‘스타트업 프라이즈 시즌5’ 본선 무대가 이달 14일, 서울 동대문 디자인플라자(DDP)에서 개최된다. 세계지식포럼과 스타트업 대축제인..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_664132_16935292215607209.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
