@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 01:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 02:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위밋모빌리티, 자동배차 솔루션 루티(ROOUTY) 출시]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=683698</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=683698</guid>
+            <pubDate>Fri, 08 Sep 2023 02:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[위밋모빌리티가 자동배차 솔루션 루티(ROOUTY)를 정식 론칭했다. 그동안 LG전자, 오늘의집, 세라젬, 한샘, 태전그룹 등과 PoC를 진행해오면서 서비스를 고도화해왔고 이번에 정식 론칭하게 됐다. 루티는 차량을 운..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_683698_16941391215617292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘스마트 안전기술’ 스타트업, 빈틈없는 대한민국 꿈꾼다]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=683513</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Sep 2023 02:15:08 GMT</pubDate>
             <content:encoded><![CDATA[버드뷰가 운영하는 뷰티 플랫폼 화해가 오직 화해에서만 만나볼 수 있는 단독 상품인 ‘ONLY(온리)화해’ 출시 4주년을 기념해 ‘ONLY화해 할인전’을 진행한다. 오는 12일까지 열리는 이번 할인전에는 화해쇼핑에..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_680117_16940511615615537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위피, 지역별 놀거리 제공하는 ‘플레이스’ 기능 추가…커뮤니티 성격 활성화]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=679947</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=679947</guid>
-            <pubDate>Thu, 07 Sep 2023 01:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 디스커버리 서비스 위피를 운영하는 엔라이즈(대표 김봉기)가 서울, 경기 등 수도권을 중심으로 핫플레이스(인기 명소)와 다양한 놀거리를 추천하는 ‘플레이스’ 기능을 론칭했다고 7일 밝혔다. △카페/맛집 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_679947_16940491215615482.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
