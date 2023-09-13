@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 01:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 02:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딜리버드코리아, 플랫폼 총거래액 85% 증가]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=695925</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=695925</guid>
+            <pubDate>Wed, 13 Sep 2023 02:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[역직구를 중심으로 글로벌 전자상거래가 지속 확대함에 따라 국내 기업들의 해외 판매를 지원하는 이커머스 솔루션도 성장하는 추세다. 크로스보더 이커머스 솔루션 딜리버드코리아는 2022년도 플랫폼 총거래액(GMV..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_695925_16945704025623434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임 스튜디오 ‘에이지소프트’, 퓨처플레이로부터 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=695542</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Sep 2023 01:40:27 GMT</pubDate>
             <content:encoded><![CDATA[국내 노인들의 ‘돌봄 비용’ 부담 및 ‘주거 공백’의 위험도가 15년 전 대비 66 지수 이상 크게 늘어난 것으로 나타났다. 시니어 토탈 케어 플랫폼 케어닥(대표 박재병)은 국내 65세 이상 노인 돌봄 현황을 분석..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_692328_16945066225622551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토어링크, ‘종합 이커머스 비즈니스 SaaS 플랫폼’ 비전 선포]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=692236</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=692236</guid>
-            <pubDate>Tue, 12 Sep 2023 01:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[이커머스 마케팅 플랫폼 기업 스토어링크가 새 비전을 공표하고, 혁신 성장 가속화를 위한 스케일업 전략을 제시했다. 스토어링크는 ‘종합 이커머스 비즈니스 SaaS 플랫폼’ 비전을 선포하면서 사업의 규모와 영역..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_692236_16944817225621744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
