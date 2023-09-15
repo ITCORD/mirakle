@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 06:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 07:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시-매경, ‘라이징 임팩트 with 미라클랩’ 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=704141</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=704141</guid>
+            <pubDate>Fri, 15 Sep 2023 07:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[아시아 최고 스타트업 축제를 지향하는 ‘트라이 에브리싱(Try Everything)’마지막 날인 15일 ‘라이징 임팩트 with 미라클랩’를 서울시-매경미디어그룹이 개최했다. 동대문디자인플라자 아트홀 2관에서 열린 ‘라..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_704141_16947611415627319.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화해, 화해위크 기간 신진 브랜드 매출 6배 성장??? 라이징 스타 주목]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=702567</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Sep 2023 00:31:42 GMT</pubDate>
             <content:encoded><![CDATA[멀티 클라우드 운영 관리 전문 기업 베스핀글로벌의 자회사인 베스핀글로벌 테크센터(Bespin Global Tech Center, 이하 BTC)가 대구창조경제혁신센터와 협력하여 대구경북권의 유망 스타트업 40여 곳을 선정, 클라..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_698942_16946502615624931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코딧, 산업통상자원부 ‘해외지사화사업’ 선정???해외진출 교두보 마련]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=698934</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=698934</guid>
-            <pubDate>Thu, 14 Sep 2023 00:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[AI 법 규제 정책 플랫폼 코딧(CODIT, 대표 정지은)이 산업통상자원부 주관 ‘2023년 해외지사화사업’ 대상 기업으로 선정되었다고 14일 밝혔다. ‘해외지사화사업’은 산업통상자원부가 주무부처로 운영하고, 대한..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_698934_16946500215624927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
