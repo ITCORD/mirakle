@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케어닥 방문요양돌봄센터, 매출 1000% 증가...장기요양사업 ‘흑자전환’ 달성]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=719363</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=719363</guid>
+            <pubDate>Thu, 21 Sep 2023 03:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 토탈 케어 플랫폼 케어닥(대표 박재병)의 장기요양사업부가 운영하고 있는 방문요양돌봄센터가 흑자 전환에 성공, 본격적인 수익화에 나선다고 21일 밝혔다 이번 케어닥의 방문요양돌봄센터 흑자 전환은 1호..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_719363_16952626815634891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성과관리 솔루션 스타트업 디웨일, ‘클랩 AI’ 론칭]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=718699</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Sep 2023 01:41:43 GMT</pubDate>
             <content:encoded><![CDATA[종합 이벤트 비즈니스 플랫폼 ‘온오프믹스(대표 양준철)’가 하이엔드(High-end) 이벤트의 첫 시작으로 ‘서울고메 2023’을 선보인다. 온오프믹스의 ‘서울고메 2023’ 유치는 최근 마케팅 트렌드인 여행의 개인..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_715083_16951719015632911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배리어브레이커스, 아티스트 AI 음성 채팅 서비스 ‘민트톡’ 출시…덱스 첫 아티스트로]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=714956</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=714956</guid>
-            <pubDate>Wed, 20 Sep 2023 01:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[엔터테인먼트 AI 기업 배리어브레이커스(주)(대표 김정근)는 아티스트와 연예인 등과 같은 크리에이터들이 생성형 AI 기술을 기반으로 팬들과 음성 및 텍스트로 대화할 수 있는 서비스인 ‘민트톡‘을 출시했다고 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_714956_16951704025632876.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
