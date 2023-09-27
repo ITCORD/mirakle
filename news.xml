@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 01:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 02:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영어 학습의 초격차를 만들어 나가는 스픽]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=739725</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=739725</guid>
+            <pubDate>Wed, 27 Sep 2023 02:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[스픽이지랩코리아(이하 스픽)의 AI 영어 스피킹 학습 앱 ‘스픽’이 론칭 4년 만에 국내 누적 다운로드 400만을 돌파했다. 특히 올해 초에 출시한 ‘AI튜터’가 큰 인기를 끌면서 한국인들이 가장 많이 사용하는 영..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_739725_16957803025642752.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반품/재고상품 순환 솔루션 스타트업 ‘팜코브’, 딥테크 팁스 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=737850</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Sep 2023 00:32:22 GMT</pubDate>
             <content:encoded><![CDATA[(사)한국초기투자기관협회(협회장 이용관)는 초기투자 교육 ‘제5회 초기투자 역량강화 세미나’ 수강생을 모집한다고 25일 밝혔다. 세미나는 지난 2022년 4월에 첫 론칭을 했으며, 오는 10월 23~24일에 제 5회 세..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_734483_16956874815641031.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 애자일 컨설팅 교육 지원]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=734482</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=734482</guid>
-            <pubDate>Tue, 26 Sep 2023 00:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 솔루션 전문기업 ‘플래티어’는 정부가 추진 중인 디지털플랫폼정부 인프라인 ‘DPG 허브’ 구현을 위해 애자일 혁신 서비스 개발 지원에 나선다고 26일 밝혔다. DPG 허브는 민간·공공의 데이터와 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_734482_16956874815641032.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
