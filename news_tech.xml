@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 23:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 00:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜로세움, 인재육성형 중소기업 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=752991</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=752991</guid>
+            <pubDate>Wed, 04 Oct 2023 00:32:41 GMT</pubDate>
+            <content:encoded><![CDATA[콜로세움이 임직원의 업무역량에 대한 적극적인 투자와 성과의 재분배를 통해 지속성장하는 상생의 노력을 인정받았다. 콜로세움은 4일 중소벤처기업부 주관 ‘2023년도 인재육성형 중소기업 지정사업’의 대상기업..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_752991_16963785615648274.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[부릉, 새로운 도약위해 ‘부릉’]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=734463</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Aug 2023 07:07:59 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 종합 물류파트너, 콜로세움이 이달 21일부터 22일까지 양일간 진행된 ‘2023 글로벌 탤런트 페어’에 참여했다고 29일 밝혔다. 2023 글로벌 탤런트 페어는 산업통상자원부, 고용노동부가 공동으로 주최한 행..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_656105_16932906025603438.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[래블업, 거대 언어 모델 서비스 첫 선보여]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623961</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=623961</guid>
-            <pubDate>Wed, 16 Aug 2023 06:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[래블업은 11~13일 개최된 ‘파이콘 한국 2023’에서 자사의 AI 연구개발 및 서비스 플랫폼 소프트웨어인 ‘백앤드.AI(Backend.AI)’로 거대 언어 모델을 직접 만들고 서비스하는 과정을 자동화하는 기능, 데모를 선..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_623961_16921629615587344.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
