@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부릉, “보험료 부담 낮추고 가입자 연령 확대”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=758560</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=758560</guid>
+            <pubDate>Thu, 05 Oct 2023 05:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[부릉이 라이더들의 보험료 부담은 낮추고 가입자 연령폭을 확대한 이륜차 시간제 보험을 도입했다고 5일 밝혔다. 이륜차 시간제 보험은 라이더가 배달을 수행한 시간만큼 보험료를 부담하는 것이 특징이다. 유상운..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_758560_16964815815650377.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 협업 플랫폼 ‘스윗’, 이스타항공에 자사 솔루션 공급]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=757429</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 05 Oct 2023 00:33:32 GMT</pubDate>
             <content:encoded><![CDATA[로봇 전문 에듀테크 기업 에이럭스(이치헌, 이다인 대표)가 새로운 드론 사업과 조직 정비를 통해 국내외 산업 시장에서 기술 기업으로서의 존재감을 전방위로 확장한다. 그 동안 독보적인 로봇, 코딩 교육 역량을 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_757090_16964641815649904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이원컴퍼니 레모네이드CIC, 퍼블리싱 브랜드 ‘샤이니 영어’ 론칭]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=757049</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=757049</guid>
-            <pubDate>Thu, 05 Oct 2023 00:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 성인 교육 스타트업 데이원컴퍼니(대표 이강민)의 사내독립기업(CIC) 레모네이드가 EBS 스타강사 샤이니와 함께 신규 영어 회화 브랜드 ‘샤이니 영어’를 론칭했다. 레모네이드는 데이원컴퍼니에서 외국..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_757049_16964637625649893.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
