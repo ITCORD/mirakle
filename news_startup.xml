@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 01:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 02:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“경단녀 엄마들, 우주에서 만나요”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=776027</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=776027</guid>
+            <pubDate>Wed, 11 Oct 2023 02:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[경력 단절 여성을 위한 채용 플랫폼을 제공하는 스타트업 ‘부켓’이 온라인 채용 박람회를 개최한다. 부켓은 17일 메타버스에서 ‘부켓 메타버스 우먼 커리어 페어’를 개최한다고 11일 밝혔다. 부켓 메타버우먼 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_776027_16969901415657621.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[발란, 하반기 두 자릿수 공개 채용...하반기 사업 확장-성장에 속도 낼 것]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=775490</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Oct 2023 02:15:36 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 액셀러레이터 및 벤처캐피털을 운영하고 있는 스파크랩그룹의 스팩 기업인 ‘스파크 애퀴지션(Spark I Acquisition Corp)’이 총 1000만 유닛(unit)을 유닛당 10달러의 발행가로 미국 나스닥 스팩 상장에 성..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_772257_16969025415655863.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[고피자, 국내 외식 브랜드 최초 ‘싱가포르 창이 국제공항’ 입점]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=772108</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=772108</guid>
-            <pubDate>Tue, 10 Oct 2023 01:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘국가대표 피자’ 고피자(대표 임재원)는 오는 11월 1일, 세계 1위 공항으로 꼽히는 싱가포르 창이국제공항 터미널2에 국내 순수 외식 기업 최초로 ‘고피자 창이국제공항점’을 오픈한다고 밝혔다. 최근 공항 시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_772108_16969012815655815.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
