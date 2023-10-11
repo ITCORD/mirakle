@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 02:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 03:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 최대 글로벌 스타트업 컨퍼런스 ‘2023 에이스트림’, 23일부터 제주 해비치 호텔에서 개최]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=776225</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=776225</guid>
+            <pubDate>Wed, 11 Oct 2023 03:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 스타트업 컨퍼런스이자 국내 최대 규모의 민간 스타트업 행사인 ‘2023 A-Stream(에이스트림)’이 오는 10월 23일부터 25일까지 제주 해비치 호텔에서 열린다. 올해로 7회째 진행되는 이번 행사에서는 스타..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_776225_16969915815657671.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“경단녀 엄마들, 우주에서 만나요”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=776027</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Oct 2023 02:15:36 GMT</pubDate>
             <content:encoded><![CDATA[무인 이동체 자율군집제어 전문 기업 파블로항공(대표 김영준)이 방위사업청과 국방기술진흥연구소에서 진행하는 ‘2023년 방산혁신기업 100’ 2기에 선정됐다고 밝혔다. ‘방산혁신기업 100’은 4차 산업혁명으로 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_772355_16969036825655904.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 투자사 스파크랩그룹 스팩 기업 ‘스파크 애퀴지션’, 나스닥 상장]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=772257</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=772257</guid>
-            <pubDate>Tue, 10 Oct 2023 02:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 액셀러레이터 및 벤처캐피털을 운영하고 있는 스파크랩그룹의 스팩 기업인 ‘스파크 애퀴지션(Spark I Acquisition Corp)’이 총 1000만 유닛(unit)을 유닛당 10달러의 발행가로 미국 나스닥 스팩 상장에 성..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_772257_16969025415655863.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
