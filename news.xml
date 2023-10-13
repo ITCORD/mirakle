@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 23:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 00:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스랩 잔디, 일하기 좋은 ‘서울형 강소기업’ 선정]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=782671</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=782671</guid>
+            <pubDate>Fri, 13 Oct 2023 00:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[업무용 협업툴 ‘잔디(JANDI)’를 서비스하는 토스랩(대표 김대현)이 서울형 강소기업으로 선정돼 일하기 좋은 기업으로 인증 받았다고 밝혔다. 서울형 강소기업은 서울시가 일자리 창출 실적, 근로자 처우 수준, ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_782671_16971551415660765.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[전기차 급속 충전 워터, 대천에 충전소 오픈]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=779308</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Oct 2023 00:30:33 GMT</pubDate>
             <content:encoded><![CDATA[윙잇이 자체 기획 상품으로 영국과 미국 첫 오더 성과를 이루며 글로벌 13개국으로 K-간편식 수출국을 확장했다. 푸드 커머스 플랫폼 윙잇(대표 임승진)은 직접 개발한 해외용 디저트 PB(Private Brand) ‘Han Swee..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_779021_16970702415659050.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[인덴트코퍼레이션, ‘강원 힐링 워케이션’ 숙소 공개...업무 역량 극대화 할 수 있는 최적의 환경 제공!]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=778934</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=778934</guid>
-            <pubDate>Thu, 12 Oct 2023 00:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최초 인공지능(AI) 기반 리뷰 마케팅 솔루션 ‘브이리뷰’를 운영하는 스타트업 인덴트코퍼레이션(대표 윤태석)이 강원도에 마련한 ‘강원 힐링 워케이션’을 12일 공개했다. 인덴트코퍼레이션은 직원들이 시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_778934_16970691015659036.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
