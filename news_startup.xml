@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원티드랩, ‘케이펫 기업 전용관’ 운영]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=793843</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=793843</guid>
+            <pubDate>Tue, 17 Oct 2023 06:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[HR테크 기업 원티드랩은 ‘케이펫 기업 전용관’(이하 전용관)을 운영한다고 17일 밝혔다. 미래 유망 산업으로서 빠르게 성장하고 있는 반려동물 산업 관련 기업과 구직자를 연결한다는 취지다. 전 국민의 4분의 1..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_793843_16975206025665891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루나소프트, ‘해피톡’ 엠비아이솔루션과 M&A...고객관리 솔루션 시장 1위로 도약]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=792264</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 16 Oct 2023 08:11:27 GMT</pubDate>
             <content:encoded><![CDATA[은행권청년창업재단 디캠프(대표 김영덕)는 한국성장금융(대표이사 허성무)과 함께 오는 24일부터 3일간 스타트업 창업자와 구성원의 정신 건강 및 회복탄력성 증진을 위한 디마인드(d?mind) 프로그램을 마포 프론..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_790843_16974406225664685.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸드테크 이그니스, 조연경 CBO 선임하며 성장 도약]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=788987</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=788987</guid>
-            <pubDate>Mon, 16 Oct 2023 01:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[푸드테크 이그니스는 16일 조연경 최고브랜드책임자(이하 CBO)를 선임했다고 밝혔다. 이그니스는 단백질 음료 ‘랩노쉬’를 필두로 빠르게 성장하고 있는 푸드 브랜드 전문 스타트업이다. 2016년 16억원의 첫 매출..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_788987_16974183025664049.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
