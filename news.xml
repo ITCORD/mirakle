@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 대만 외국인 관광객, 내년부터 국내서 간편결제]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=801816</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=801816</guid>
+            <pubDate>Thu, 19 Oct 2023 08:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[비용관리 솔루션 전문 기업 ‘비즈플레이’가 외국인 관광객을 대상으로 전국 175만 제로페이 가맹점에서 이용할 수 있는 모바일 간편결제 서비스를 추진한다고 19일 밝혔다. 지난달 7일, 비즈플레이는 QR코드 기반..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_801816_16976998825669242.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에이럭스, 드론 기술력 및 인프라 접점 전국으로 넓힌다!]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=800113</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 Oct 2023 02:16:50 GMT</pubDate>
             <content:encoded><![CDATA[세무법인 혜움(대표 이재희, 조문교)가 설립 7년만에 누적 기업 고객사 1만7000여 개를 확보하며 가파르게 성장하고 있다. 혜움은 소규모 위주로 파편화 되어 있는 세무사 시장에 IT를 초기에 도입해 빠르게 성장했..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_796586_16975938615667033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재생에너지 플랫폼 모햇 운영사, 2023 중소기업 R&D 우수성과 대표기업 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=796193</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=796193</guid>
-            <pubDate>Wed, 18 Oct 2023 00:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[재생에너지 플랫폼 ‘모햇’ 운영사인 에이치에너지(대표이사 함일한)가 기업 R&amp;D를 성공적으로 수행, 탁월한 성과를 낸 것을 인정받아 중소벤처기업부 「2023 중소기업 R&amp;D 우수성과 대표기업」 사업화 분..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_796193_16975891225666885.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

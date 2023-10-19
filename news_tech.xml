@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 대만 외국인 관광객, 내년부터 국내서 간편결제]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=801816</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=801816</guid>
+            <pubDate>Thu, 19 Oct 2023 08:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[비용관리 솔루션 전문 기업 ‘비즈플레이’가 외국인 관광객을 대상으로 전국 175만 제로페이 가맹점에서 이용할 수 있는 모바일 간편결제 서비스를 추진한다고 19일 밝혔다. 지난달 7일, 비즈플레이는 QR코드 기반..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_801816_16976998825669242.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[부릉, “보험료 부담 낮추고 가입자 연령 확대”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=758560</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Aug 2023 00:31:41 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기반 계약 관리 솔루션 BHSN이 알토스벤처스로부터 60억 규모의 시리즈A 투자를 유치했다고 31일 밝혔다. 이번 투자는 알토스벤처스가 주도했다. BHSN은 지난 2020년 기업 전문 변호사 출신인 임정근 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_660740_16934419825605602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타트업 인테리어티쳐, 3개월 만에 9억 벌어들인 이유]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=660719</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=660719</guid>
-            <pubDate>Thu, 31 Aug 2023 00:31:41 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 홈 스타일링 브랜드 ‘인테리어티쳐’가 현대백화점과의 전략적 협업을 통해 지난 6월부터 3개월간 누적 매출 총 9.11억원을 기록했다고 31일 밝혔다. 인테리어티쳐는 현대백화점과 함께 지난 6월부터 3개..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/08/image_readtop_2023_660719_16934579415605983.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
