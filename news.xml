@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 07:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 08:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내를 넘어 글로벌 시장 공략에 나선 인덴트코퍼레이션]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=811351</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=811351</guid>
+            <pubDate>Mon, 23 Oct 2023 08:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[“인덴트코퍼레이션은 설립할 때부터 글로벌을 지향했었다. 늦었지만 지난달에 글로벌 제휴 마케팅 솔루션 ‘스프레이(Spray)’를 북미 시장 전역에 첫 선을 보일 수 있었다.” ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_811351_16980486035674212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워프코퍼레이션, 도르트문트 레전드와 숏츠 콜라보]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=810255</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 Oct 2023 00:32:25 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 호스피탈리티 테크 기업 H2O호스피탈리티가 사우디아라비아 정부 산하 사우디 관광개발기금의 사우디 시장 진출 지원 프로그램에 국내 기업 최초로 선정됐다고 23일 밝혔다. 지원 프로그램 선정 공식 발표는..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809164_16980254425673435.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트웰브랩스, 실리콘밸리서 ‘멀티모달 해커톤’ 성료... 상용화 한걸음 더]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=809123</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=809123</guid>
-            <pubDate>Mon, 23 Oct 2023 00:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[영상 이해 초거대 AI 개발 기업 ‘트웰브랩스(Twelve Labs, 대표 이재성)’는 TED AI, 음성 AI 전문 기업 일레븐랩스와 함께 ‘멀티모달 해커톤’을 성공적으로 개최했다고 23일 밝혔다. 지난 14일, 15일 양일간 미..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809123_16980204025673294.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
