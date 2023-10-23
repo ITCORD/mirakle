@@ -4,16 +4,24 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 02:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 다이어리, 캘린더는 젤리크루에서]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809610</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809610</guid>
+            <pubDate>Mon, 23 Oct 2023 02:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[핸드허그의 크리에이터 커머스 플랫폼 기반 통합 크리에이터 수익화 솔루션 ‘젤리크루’가 핫트랙스와 함께 24일 오후 7시 네이버 쇼핑 라이브에서 ‘2024 다이어리 캘린더 기획전’을 진행한다고 23일 밝혔다. 지..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809610_16980256815673441.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[H2O, 국내 기업 최초 사우디 관광개발기금 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809164</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809164</guid>
             <pubDate>Mon, 23 Oct 2023 00:32:35 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 호스피탈리티 테크 기업 H2O호스피탈리티가 사우디아라비아 정부 산하 사우디 관광개발기금의 사우디 시장 진출 지원 프로그램에 국내 기업 최초로 선정됐다고 23일 밝혔다. 지원 프로그램 선정 공식 발표는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809164_16980207615673304.png" length="0" type="image/png"/>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809164_16980254425673435.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“e커머스 관리 어려우시죠? AI로 스마트하게 하세요”]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Sep 2023 01:46:16 GMT</pubDate>
             <content:encoded><![CDATA[좌우로 움직이는 침대가 수면의 질 높인다는 연구 보고 스타트업 뛰어든 정태현 대표 수년..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_664194_16935294615607216.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 나가는 스타트업 확인하세요…‘스타트업 프라이즈 시즌5’ 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=664132</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=664132</guid>
-            <pubDate>Fri, 01 Sep 2023 01:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[교원과 매일경제신문이 매년 공동 개최하는 스타트업 오픈이노베이션 플랫폼 ‘스타트업 프라이즈 시즌5’ 본선 무대가 이달 14일, 서울 동대문 디자인플라자(DDP)에서 개최된다. 세계지식포럼과 스타트업 대축제인..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/09/image_readtop_2023_664132_16935292215607209.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
