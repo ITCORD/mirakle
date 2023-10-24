@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 04:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 05:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코니바이에린 2023년 상반기 국내 매출 50억, 올해 국내 매출 100억 돌파 전망]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=814127</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=814127</guid>
+            <pubDate>Tue, 24 Oct 2023 05:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[코니바이에린(대표 임이랑)이 2023년 상반기 전체 매출 중 국내 비중이 30%를 돌파했다고 24일 밝혔다. 코니바이에린은 대표 상품인 코니아기띠를 필두로 전세계 100여 개 국에 제품을 판매하고 있는 글로벌 육아 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_814127_16981228225675421.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패스트뷰, 2023년 ‘서울형 강소기업’ 선정]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=813531</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 00:32:40 GMT</pubDate>
             <content:encoded><![CDATA[LLM 올인원 솔루션 기업 올거나이즈(대표 이창수)가 금융업에 특화된 LLM(Large Language Model, 거대언어모델) 앱을 제공하는 ‘알리 금융 LLM 앱 마켓’을 출시했다고 24일 밝혔다. 알리 금융 LLM 앱 마켓은 올거..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812952_16981066825675049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱클리, 마이리얼트립에 서비스 공급 계약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=812919</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=812919</guid>
-            <pubDate>Tue, 24 Oct 2023 00:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[딥블루닷이 인공지능(AI) 기반 VOC 분석솔루션 ‘싱클리’가 마이리얼트립의 고객 서비스 전담 자회사인 MRTX에 공급하고 있다고 24일 밝혔다. 싱클리는 지난 9월부터 적용됐으며 솔루션 도입 후 VOC 분석 시간은 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812919_16981062625675044.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
