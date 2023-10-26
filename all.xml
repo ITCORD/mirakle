@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 08:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 09:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 디캠프, ‘엠버로드’ 우승 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=823231</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=823231</guid>
+            <pubDate>Thu, 26 Oct 2023 09:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[은행권청년창업재단 디캠프는 26일 경기도 성남시 분당구에 있는 판교테크원에서 개최된 ‘10월 디데이’에서 ‘엠버로드’가 우승했다고 밝혔다. ㅇㅇㅇ는 디캠프 프론트원 즉시 입주권과 함께 네이버 클라우드 교..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_823231_16983111035679146.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[원티드랩, 구독형 생성 AI 개발툴 ‘원티드 LaaS’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=820595</link>
@@ -75,14 +83,6 @@
             <pubDate>Thu, 26 Oct 2023 00:30:57 GMT</pubDate>
             <content:encoded><![CDATA[한국신용데이터가 자사의 경영관리 서비스 ‘캐시노트’ 브랜드 디자인이 ‘2023 IDEA’(International Design Excellence Awards)’에서 본상(Featured Finalist)을 받았다고 26일 밝혔다. IDEA는 미국 산업디자이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_820163_16982784625678120.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트웰브랩스, 엔비디아 인텔 삼성 등으로부터 전략적 투자 유치...“글로벌 1위 멀티모달 목표” (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=820152</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=820152</guid>
-            <pubDate>Thu, 26 Oct 2023 00:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[영상이해 초거대 AI 개발 기업 ‘트웰브랩스(Twelve Labs, 대표 이재성)’가 엔비디아(NVIDIA)와 인텔(Intel), 삼성 넥스트, 한국투자파트너스(한투파)등으로부터 1천만 달러(약 140억 원) 규모의 전략적 투자를 유..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_820152_16982782825678119.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
