@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 04:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 05:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터, 양양서 드라이브스루 충전소 처음 선보여]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=824842</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=824842</guid>
+            <pubDate>Fri, 27 Oct 2023 05:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[전기차 급속 충전 네트워크 워터가 강원도 양양에서 국내 최초의 드라이브스루(DT) 전기차 급속 충전소를 선보인다. 워터는 하조대 해수욕장 인근 7번 국도변에 ‘워터 양양 서피비치’를 열고 27일 운영을 시작했..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_824842_16983817815680061.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바이오 벤처 셀비온, 코스닥상장 추진]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=820360</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 Oct 2023 00:32:35 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 호스피탈리티 테크 기업 H2O호스피탈리티가 사우디아라비아 정부 산하 사우디 관광개발기금의 사우디 시장 진출 지원 프로그램에 국내 기업 최초로 선정됐다고 23일 밝혔다. 지원 프로그램 선정 공식 발표는..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809164_16980254425673435.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“e커머스 관리 어려우시죠? AI로 스마트하게 하세요”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809100</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809100</guid>
-            <pubDate>Mon, 23 Oct 2023 00:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[“의류, 가전, 식품을 비롯해 다양한 상품을 온라인으로 판매할 때, 반드시 필요한 인공지능 서비스를 제공하는 기업으로 거듭나고자 합니다.” 2016년 설립된 아이클레이브. 창업 초기 아이클레이브는 소비자에게 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809100_16980199215673284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
