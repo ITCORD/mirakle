@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 06:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 07:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나눠야 산다! 잘 나가는 기업들의 선택 ‘CIC’]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=831043</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=831043</guid>
+            <pubDate>Mon, 30 Oct 2023 07:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[사내독립기업(CIC?Company In Company) 체제를 신성장 동력으로 삼아 비즈니스 생태계를 확장해 운영하는 기업들의 움직임이 활발하다. CIC는 문자 그대로 기업 내부에 조직한 벤처, 스타트업 같은 소규모 회사를 말..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_831043_16986474025683333.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[크리에이트립, 누적 제휴처 600곳 돌파, 19년 대비 80% 성장]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=829872</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 27 Oct 2023 05:07:40 GMT</pubDate>
             <content:encoded><![CDATA[전기차 급속 충전 네트워크 워터가 강원도 양양에서 국내 최초의 드라이브스루(DT) 전기차 급속 충전소를 선보인다. 워터는 하조대 해수욕장 인근 7번 국도변에 ‘워터 양양 서피비치’를 열고 27일 운영을 시작했..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_824842_16983817815680061.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[페어스퀘어랩, ‘블록체인 기반의 전자주총 플랫폼’ 개발 본격화...관련 특허 연이어 출원]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=824232</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=824232</guid>
-            <pubDate>Fri, 27 Oct 2023 01:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 기술기업 페어스퀘어랩(대표 김준홍)은 블록체인 기반 전자 주주총회 플랫폼을 본격적으로 개발한다고 27일 밝혔다. 개발과 관련해서 블록체인 기반 전자 주주총회 운영방법 및 시스템’ 및 ‘블록체인 기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_824232_16983699015679773.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
