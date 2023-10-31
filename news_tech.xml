@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 02:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 03:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜로세움은 순항중… 시리즈A 투자유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=833708</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=833708</guid>
+            <pubDate>Tue, 31 Oct 2023 03:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 종합 물류파트너, 콜로세움이 30일 시리즈A 투자 유치에 성공했다고 31일 밝혔다. 콜로세움은 이번 투자를 기반으로 국내를 넘어 미국과 아시아를 연결하는 글로벌  물류 네트워크를 구축을 가속한다는 계획..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_833708_16987198825684481.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[워터, 양양서 드라이브스루 충전소 처음 선보여]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=824842</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 Oct 2023 02:16:57 GMT</pubDate>
             <content:encoded><![CDATA[핸드허그의 크리에이터 커머스 플랫폼 기반 통합 크리에이터 수익화 솔루션 ‘젤리크루’가 핫트랙스와 함께 24일 오후 7시 네이버 쇼핑 라이브에서 ‘2024 다이어리 캘린더 기획전’을 진행한다고 23일 밝혔다. 지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809610_16980256815673441.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[H2O, 국내 기업 최초 사우디 관광개발기금 선정]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809164</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=809164</guid>
-            <pubDate>Mon, 23 Oct 2023 00:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 호스피탈리티 테크 기업 H2O호스피탈리티가 사우디아라비아 정부 산하 사우디 관광개발기금의 사우디 시장 진출 지원 프로그램에 국내 기업 최초로 선정됐다고 23일 밝혔다. 지원 프로그램 선정 공식 발표는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_809164_16980254425673435.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
