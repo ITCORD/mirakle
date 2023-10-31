@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 04:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 05:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고려대 스타트업 법률지원단 ‘SHERPA’ 창단]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=833977</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=833977</guid>
+            <pubDate>Tue, 31 Oct 2023 05:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업 전문 법무법인 미션은 지난 26일 고려대학교 법학전문대학원에서 ‘셰르파(SHERPA)’ 1기 창단식을 개최했다고 31일 밝혔다. 이번 행사는 고려대 신법학관에서 열렸으며 법학전문대학원생들과 법무법인 미..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_833977_16987266625684559.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[콜로세움은 순항중… 시리즈A 투자유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=833708</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Oct 2023 02:17:52 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 K-콘텐츠 관광 플랫폼 크리에이트립(대표 임혜민)이 2016년 론칭 이후 지난 23년 9월까지의 여행 제휴처 누적 데이터를 발표했다. 크리에이트립에서 서비스 중인 다이닝(식당), 쇼핑, 뷰티, 액티비티 등 17..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_829872_16986313825682979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더핑크퐁컴퍼니, ‘씰룩’ KBS 첫 방영 확정...‘라이즈(RIIZE)’ OST 참여로 글로벌 신드롬 이어간다]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=829607</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=829607</guid>
-            <pubDate>Mon, 30 Oct 2023 01:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 패밀리 엔터테인먼트 기업 더핑크퐁컴퍼니(대표 김민석)는 인기 애니메이션 ‘씰룩(SEALOOK)’을 오는 11월 11일부터 KBS 1TV를 통해 국내 첫 방영한다고 30일 밝혔다. 방송 오프닝과 엔딩곡은 대세 아이돌..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_829607_16986283825682888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
