@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 23:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 00:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알람앱 ‘알라미’, 수면 분석 기능 장착…“숙면 책임”]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=836582</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=836582</guid>
+            <pubDate>Wed, 01 Nov 2023 00:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[알람앱 ‘알라미’에 수면 분석 기능이 더해졌다. 글로벌 모닝 웰니스앱 ‘알라미’의 운영사 딜라이트룸은 알라미 사용자들의 숙면을 위해 수면 분석 기능을 무료로 출시했다고 1일 밝혔다. 수면 분석은 사용자가 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836582_16987978815685673.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고려대 스타트업 법률지원단 ‘SHERPA’ 창단]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=833977</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 00:32:29 GMT</pubDate>
             <content:encoded><![CDATA[딥블루닷이 인공지능(AI) 기반 VOC 분석솔루션 ‘싱클리’가 마이리얼트립의 고객 서비스 전담 자회사인 MRTX에 공급하고 있다고 24일 밝혔다. 싱클리는 지난 9월부터 적용됐으며 솔루션 도입 후 VOC 분석 시간은 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812919_16981062625675044.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[워프코퍼레이션, 도르트문트 레전드와 숏츠 콜라보]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=810255</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=810255</guid>
-            <pubDate>Mon, 23 Oct 2023 05:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[워프코퍼레이션이 독일 명문 축구단 보루시아 도르트문트의 레전드 방한 팬 미팅 행사에 참여해 다양한 콘텐츠 협력을 진행했다고 23일 밝혔다. 지난 21일, 워프코퍼레이션 소속 크리에이터 ‘더투탑’은 글로벌 스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_810255_16980355225673605.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
