@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 01:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 02:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매쉬업엔젤스, Mashup AI Day 성료]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=837222</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=837222</guid>
+            <pubDate>Wed, 01 Nov 2023 02:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[초기 스타트업 전문 투자사 매쉬업엔젤스(대표파트너 이택경)가 국내 주요 벤처캐피탈을 대상으로 투자 포트폴리오사 중 AI 기업을 소개하는 ‘매쉬업 AI 데이(Mashup AI Day)’를 개최했다. Mashup AI Day는 26일 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_837222_16988047215685844.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크디랩, ‘서비스직 언어 및 제스처 교육 평가 시스템’ 특허 취득]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=836847</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 01 Nov 2023 00:35:24 GMT</pubDate>
             <content:encoded><![CDATA[애프터케어 SaaS(서비스형 소프트웨어) 솔루션 ‘애프터닥’ 운영사 메디팔(대표이사 강종일)이 50억원 규모의 시리즈 A 투자 유치에 성공하며 누적 투자금 약 70억원을 달성했다고 1일 밝혔다. 이번 투자는 기존 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836415_16987948215685627.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해빗팩토리, 연금 설문조사 결과 공개 “연금 상품 결정 시 세액공제율 가장 많이 따져”]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=836409</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=836409</guid>
-            <pubDate>Wed, 01 Nov 2023 00:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[마이데이터 기반 핀테크사 해빗팩토리가 자사 앱 ‘시그널플래너’ 이용자 500명을 대상으로 진행한 설문조사 결과를 1일 공개했다. 설문조사는 9월 15일부터 10월 15일까지 한달간 진행됐다. 연금 상품 결정 시 가..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836409_16987945815685620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
