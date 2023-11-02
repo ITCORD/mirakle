@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 04:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 05:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘새 충돌 더는 없기를’…BEP, 양양서 ESG활동]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=842878</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=842878</guid>
+            <pubDate>Thu, 02 Nov 2023 05:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[브라이트에너지파트너스는 지난달 31일 야생조류를 방음벽으로부터 보호하기 위한 사회공헌활동을 실시했다고 2일 밝혔다. 이번 행사에는 약 80여명의 인원이 모여 강원도 양양군 동해대로 소재 조산초등학교 인근..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_842878_16989004815687792.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘인공지능 폐기물 자원선별 로봇 솔루션’ 에이트테크, 86억원 시리즈A 투자 유치]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=842093</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 01 Nov 2023 01:48:36 GMT</pubDate>
             <content:encoded><![CDATA[AI(인공지능) 기반 커뮤니케이션 코칭 솔루션 ‘쏘카인드’ 운영사 크디랩(대표 배수정)은 ‘서비스 직원의 언어 및 제스처 분석을 통한 교육 평가 방법 및 시스템’ 특허 등록(특허번호 제 10-2583312호)을 완료했..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836847_16988013625685746.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘카피킬러’ 무하유, 150억원 프리 IPO 투자 유치…2025년 상장 추진]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=836793</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=836793</guid>
-            <pubDate>Wed, 01 Nov 2023 01:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[‘카피킬러’로 잘 알려진 인공지능(AI) 기술 기업 무하유(대표 신동호)는 프리 IPO 투자(상장 전 지분투자) 라운드에서 150억 원을 유치했다고 1일 밝혔다. 이번 투자는 2011년 7월에 설립된 무하유의 첫 번째 외..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836793_16988007615685726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

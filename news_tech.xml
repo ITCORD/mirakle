@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 04:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 05:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘새 충돌 더는 없기를’…BEP, 양양서 ESG활동]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=842878</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=842878</guid>
+            <pubDate>Thu, 02 Nov 2023 05:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[브라이트에너지파트너스는 지난달 31일 야생조류를 방음벽으로부터 보호하기 위한 사회공헌활동을 실시했다고 2일 밝혔다. 이번 행사에는 약 80여명의 인원이 모여 강원도 양양군 동해대로 소재 조산초등학교 인근..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_842878_16989004815687792.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알람앱 ‘알라미’, 수면 분석 기능 장착…“숙면 책임”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=836582</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 00:32:29 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(Al) 업무 기반 올인원 매장관리 SaaS인 ‘하이어엑스’와 외식 운영 데이터 전문 기업 ‘데이터온’이 외식 스마트 매장 운영의 혁신을 위해 손을 맞잡았다. 이 협약은 외식업계의 운영 효율화, 비용절감 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812963_16981068615675051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[싱클리, 마이리얼트립에 서비스 공급 계약 체결]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=812919</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=812919</guid>
-            <pubDate>Tue, 24 Oct 2023 00:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[딥블루닷이 인공지능(AI) 기반 VOC 분석솔루션 ‘싱클리’가 마이리얼트립의 고객 서비스 전담 자회사인 MRTX에 공급하고 있다고 24일 밝혔다. 싱클리는 지난 9월부터 적용됐으며 솔루션 도입 후 VOC 분석 시간은 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812919_16981062625675044.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
