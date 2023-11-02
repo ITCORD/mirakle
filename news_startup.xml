@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 01:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 02:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인공지능 폐기물 자원선별 로봇 솔루션’ 에이트테크, 86억원 시리즈A 투자 유치]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=842093</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=842093</guid>
+            <pubDate>Thu, 02 Nov 2023 02:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 폐기물 자원선별 로봇 솔루션 개발기업 ‘에이트테크’가 86억원의 투자 유치에 성공했다고 27일 밝혔다. 지난 프리A라운드(31억원)에 이어 이번 시리즈까지 누적 120억원에 달하는 투자금을 유치한 것이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_842093_16988899815687544.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온오프믹스, 스타트업 상생 캠페인 시작...“이지태스크 아웃소싱 업무 제공”]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841792</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 01 Nov 2023 01:48:36 GMT</pubDate>
             <content:encoded><![CDATA[‘카피킬러’로 잘 알려진 인공지능(AI) 기술 기업 무하유(대표 신동호)는 프리 IPO 투자(상장 전 지분투자) 라운드에서 150억 원을 유치했다고 1일 밝혔다. 이번 투자는 2011년 7월에 설립된 무하유의 첫 번째 외..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836793_16988007615685726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올인원 비즈니스 메신저 ‘채널톡’, 대규모 편의성 업데이트 실시]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=836780</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=836780</guid>
-            <pubDate>Wed, 01 Nov 2023 01:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[(주)채널코퍼레이션(공동대표 최시원 김재홍)이 운영하는 올인원 비즈니스 메신저 ‘채널톡’이 고객 만족도 강화를 위해 대규모 업데이트를 실시했다고 1일 밝혔다. 이번 업데이트는 고객관계관리(CRM) ‘고객 태..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_836780_16988005215685723.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
