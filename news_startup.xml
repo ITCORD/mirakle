@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 04:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 05:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비즈니스 공급망 테크 기업 ‘애니마인드 그룹’ 한국 시장 진출]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=851670</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=851670</guid>
+            <pubDate>Mon, 06 Nov 2023 05:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[비즈니스 공급망을 제공하는 테크 기업 ‘애니마인드 그룹(AnyMind Group)’[도쿄증권거래소(TSE):5027] 이 서울사무소를 오픈하고 한국 시장에 진출한다고 6일 밝혔다. 애니마인드 그룹은 국내 기업의 해외 시장 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_851670_16992460215692452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스파크플러스 리브랜딩 선언, 오피스 서비스 사업 확장]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850765</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Nov 2023 01:42:32 GMT</pubDate>
             <content:encoded><![CDATA[종합 이벤트 비즈니스 플랫폼 ‘온오프믹스(대표 양준철)’가 ‘스타트업 상생 캠페인’을 시작한다. 이번 캠페인은 스타트업들이 이벤트나 행사를 준비하는 데 필요한 인력과 서비스를 제공하기 위해 마련됐다. 온..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841792_16988871015687456.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스그룹, MLOps 트렌드 컨퍼런스 ‘AI 인싸콘’ 개최]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841767</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841767</guid>
-            <pubDate>Thu, 02 Nov 2023 01:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[교육 실습 플랫폼 기업 ㈜엘리스그룹(대표 김재원)이 오는 16일 엘리스랩 성수센터에서 국내외 MLOps 기업이 한자리에 모이는 컨퍼런스 ‘AI 인싸콘: MLOps (AI Insight Conf: MLOps)’을 온오프라인 동시 개최한다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841767_16988868625687449.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
