@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 00:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 01:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스파크플러스 리브랜딩 선언, 오피스 서비스 사업 확장 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850765</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850765</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[스파크플러스(대표 목진건)가 새로운 슬로건을 비롯해 대대적인 리브랜딩을 6일 발표했다. 스파크플러스는 이번 리브랜딩을 통해 기존의 공유오피스를 넘어 오피스 서비스로의 사업 확장을 꾀할 전망이다. 스파크플..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850765_16992320415692062.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[핀다, 전북은행과 손잡고 비대면 주담대 라인업 강화 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850736</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850736</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[대출 중개관리 핀테크 기업 핀다(공동대표 이혜민 박홍민)가 전북은행과 손잡고 비대면 주택담보대출 라인업을 강화했다고 6일 밝혔다. 핀다는 전북은행의 100% 비대면 주택담보대출 상품인 ‘JB우리집대출’을 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850736_16992316815692053.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와디즈, ‘로코노미’ 트렌드 확산...지역 소상공인 펀딩 참여 활발 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850707</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850707</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 유통업계를 중심으로 ‘로코노미’ 트렌드가 확산되는 가운데 지역 특산물을 활용한 식품 펀딩이 활발히 진행 중이라고 6일 밝혔다. ‘로코노미’는 지역(Local)과 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850707_16992314425692036.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로봇 소프트웨어 스타트업 세코어로보틱스, 퓨처플레이로부터 시드투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850638</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850638</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[로봇 소프트웨어 전문 스타트업 세코어로보틱스(대표 오정우)가 퓨처플레이로부터 시드 투자를 유치하고, 중소기업벤처부가 주관하는 ‘딥테크팁스(로봇 분야)’에도 최종 선정됐다고 6일 밝혔다. 퓨처플레이의 투..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850638_16992309025692023.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[올거나이즈, 270억원 규모 시리즈B 투자 유치...“2025년 일본 상장 추진” (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=850437</link>
@@ -54,39 +86,6 @@
             <pubDate>Thu, 02 Nov 2023 01:42:13 GMT</pubDate>
             <content:encoded><![CDATA[교육 실습 플랫폼 기업 ㈜엘리스그룹(대표 김재원)이 오는 16일 엘리스랩 성수센터에서 국내외 MLOps 기업이 한자리에 모이는 컨퍼런스 ‘AI 인싸콘: MLOps (AI Insight Conf: MLOps)’을 온오프라인 동시 개최한다..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841767_16988868625687449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원두데일리, 고객사 대상 ESG 서약 캠페인 진행 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841730</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841730</guid>
-            <pubDate>Thu, 02 Nov 2023 01:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[사무실 커피 구독 및 커피 머신 렌탈 브랜드 ‘원두데일리’ 운영사 스프링온워드(대표 정새봄)가 원두데일리 고객사를 대상으로 ‘원두데일리 오피스 카페 ESG 서약 캠페인’을 11월 한 달간 진행한다. 스프링온워..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841730_16988866215687440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리로케이션 플랫폼 ‘소프트랜더스’, 미국 진출 기업용 ‘DX 패키지’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841694</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841694</guid>
-            <pubDate>Thu, 02 Nov 2023 01:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[해외 진출 기업을 위한 원스톱 리로케이션 플랫폼 소프트랜더스는 미국 진출 기업을 위한 ‘Digital Transformation 패키지’(이하 DX 패키지)를 출시했다고 2일 밝혔다. DX 패키지는 디지털 전환을 위해 파견되는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841694_16988863825687431.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근, 숏폼 서비스 ‘당근 스토리’ 공식 오픈 (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841431</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841431</guid>
-            <pubDate>Thu, 02 Nov 2023 00:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[동네 맛집부터 운동 시설, 미용실 등 동네 가게 이야기를 이제 당근에서 숏폼(short-form, 짧은 동영상)으로 만날 수 있게 됐다. 국내 대표 지역생활 커뮤니티 당근이 동네 가게에 관한 다양한 이야기들을 영상으로..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841431_16988839215687339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼브에이아이, 고성능 비전 AI 모델 30종 무료 공개...
-“산업 현장에 이미지, 영상 자동 판독식별 기술 바로 적용” (미라클 어헤드 ─ Think Big 뉴스종합 ─ 전체)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841406</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800012&amp;year=2023&amp;no=841406</guid>
-            <pubDate>Thu, 02 Nov 2023 00:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[AI 도입의 전 과정을 돕는 올인원 솔루션 제공 기업, 슈퍼브에이아이(대표 김현수)가 고성능 AI 모델 30종을 무료 공개한다고 2일 밝혔다. 이번에 무료 공개되는 AI 모델들은 슈퍼브에이아이 전문가들의 인사이트를..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841406_16988835615687333.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노벨경제학상 임번스 교수 "기본소득제 클 경우 일할 의욕 꺾어" (미라클 어헤드 ─ Think Big 뉴스종합 ─ Global now)]]></title>
@@ -248,6 +247,38 @@
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812963_16981068615675051.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[스파크플러스 리브랜딩 선언, 오피스 서비스 사업 확장 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850765</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850765</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[스파크플러스(대표 목진건)가 새로운 슬로건을 비롯해 대대적인 리브랜딩을 6일 발표했다. 스파크플러스는 이번 리브랜딩을 통해 기존의 공유오피스를 넘어 오피스 서비스로의 사업 확장을 꾀할 전망이다. 스파크플..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850765_16992320415692062.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[핀다, 전북은행과 손잡고 비대면 주담대 라인업 강화 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850736</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850736</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[대출 중개관리 핀테크 기업 핀다(공동대표 이혜민 박홍민)가 전북은행과 손잡고 비대면 주택담보대출 라인업을 강화했다고 6일 밝혔다. 핀다는 전북은행의 100% 비대면 주택담보대출 상품인 ‘JB우리집대출’을 선..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850736_16992316815692053.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와디즈, ‘로코노미’ 트렌드 확산...지역 소상공인 펀딩 참여 활발 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850707</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850707</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 유통업계를 중심으로 ‘로코노미’ 트렌드가 확산되는 가운데 지역 특산물을 활용한 식품 펀딩이 활발히 진행 중이라고 6일 밝혔다. ‘로코노미’는 지역(Local)과 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850707_16992314425692036.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로봇 소프트웨어 스타트업 세코어로보틱스, 퓨처플레이로부터 시드투자 유치 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850638</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850638</guid>
+            <pubDate>Mon, 06 Nov 2023 01:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[로봇 소프트웨어 전문 스타트업 세코어로보틱스(대표 오정우)가 퓨처플레이로부터 시드 투자를 유치하고, 중소기업벤처부가 주관하는 ‘딥테크팁스(로봇 분야)’에도 최종 선정됐다고 6일 밝혔다. 퓨처플레이의 투..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_850638_16992309025692023.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[올거나이즈, 270억원 규모 시리즈B 투자 유치...“2025년 일본 상장 추진” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850437</link>
             <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=850437</guid>
@@ -294,39 +325,6 @@
             <pubDate>Thu, 02 Nov 2023 01:42:32 GMT</pubDate>
             <content:encoded><![CDATA[교육 실습 플랫폼 기업 ㈜엘리스그룹(대표 김재원)이 오는 16일 엘리스랩 성수센터에서 국내외 MLOps 기업이 한자리에 모이는 컨퍼런스 ‘AI 인싸콘: MLOps (AI Insight Conf: MLOps)’을 온오프라인 동시 개최한다..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841767_16988868625687449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원두데일리, 고객사 대상 ESG 서약 캠페인 진행 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841730</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841730</guid>
-            <pubDate>Thu, 02 Nov 2023 01:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[사무실 커피 구독 및 커피 머신 렌탈 브랜드 ‘원두데일리’ 운영사 스프링온워드(대표 정새봄)가 원두데일리 고객사를 대상으로 ‘원두데일리 오피스 카페 ESG 서약 캠페인’을 11월 한 달간 진행한다. 스프링온워..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841730_16988866215687440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리로케이션 플랫폼 ‘소프트랜더스’, 미국 진출 기업용 ‘DX 패키지’ 출시 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841694</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841694</guid>
-            <pubDate>Thu, 02 Nov 2023 01:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[해외 진출 기업을 위한 원스톱 리로케이션 플랫폼 소프트랜더스는 미국 진출 기업을 위한 ‘Digital Transformation 패키지’(이하 DX 패키지)를 출시했다고 2일 밝혔다. DX 패키지는 디지털 전환을 위해 파견되는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841694_16988863825687431.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근, 숏폼 서비스 ‘당근 스토리’ 공식 오픈 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841431</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841431</guid>
-            <pubDate>Thu, 02 Nov 2023 00:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[동네 맛집부터 운동 시설, 미용실 등 동네 가게 이야기를 이제 당근에서 숏폼(short-form, 짧은 동영상)으로 만날 수 있게 됐다. 국내 대표 지역생활 커뮤니티 당근이 동네 가게에 관한 다양한 이야기들을 영상으로..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841431_16988839215687339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼브에이아이, 고성능 비전 AI 모델 30종 무료 공개...
-“산업 현장에 이미지, 영상 자동 판독식별 기술 바로 적용” (미라클 어헤드 ─ Think Big 뉴스종합 ─ Startup)]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841406</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800015&amp;year=2023&amp;no=841406</guid>
-            <pubDate>Thu, 02 Nov 2023 00:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[AI 도입의 전 과정을 돕는 올인원 솔루션 제공 기업, 슈퍼브에이아이(대표 김현수)가 고성능 AI 모델 30종을 무료 공개한다고 2일 밝혔다. 이번에 무료 공개되는 AI 모델들은 슈퍼브에이아이 전문가들의 인사이트를..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_841406_16988835615687333.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“강제 구독경제 시대.. 소비자 보호 필요하다” 전호겸 교수 인터뷰 (미라클 어헤드 ─ Think Big 뉴스종합 ─ Insights)]]></title>
