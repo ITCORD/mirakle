@@ -4,9 +4,17 @@
         <title>미라클 어헤드 ─ Think Big 뉴스종합 ─ Tech</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 05:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 06:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GS25에 나타난 ‘워키도키’, 폐기관리 부담 줄였다]]></title>
+            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=855162</link>
+            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=855162</guid>
+            <pubDate>Tue, 07 Nov 2023 06:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[하이어엑스의 오프라인 매장관리 앱 ‘워키도키‘는 지난 9월 GS25 점포 대상으로 진행한 ‘소비기한관리 이벤트‘가 성황리에 마무리됐다고 7일 밝혔다. 워키도키x GS25의 ‘소비기한관리 이벤트‘는 약 한 달이 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/meet/neds/2023/11/image_readtop_2023_855162_16993356035694110.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘새 충돌 더는 없기를’…BEP, 양양서 ESG활동]]></title>
             <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=842878</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 Oct 2023 00:31:08 GMT</pubDate>
             <content:encoded><![CDATA[한국신용데이터가 자사의 경영관리 서비스 ‘캐시노트’ 브랜드 디자인이 ‘2023 IDEA’(International Design Excellence Awards)’에서 본상(Featured Finalist)을 받았다고 26일 밝혔다. IDEA는 미국 산업디자이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_820163_16982784625678120.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하이어엑스, 데이터온과 함께 매장 운영 효율화 나선다]]></title>
-            <link>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=812963</link>
-            <guid>https://mirakle.mk.co.kr/view.php?sc=51800014&amp;year=2023&amp;no=812963</guid>
-            <pubDate>Tue, 24 Oct 2023 00:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(Al) 업무 기반 올인원 매장관리 SaaS인 ‘하이어엑스’와 외식 운영 데이터 전문 기업 ‘데이터온’이 외식 스마트 매장 운영의 혁신을 위해 손을 맞잡았다. 이 협약은 외식업계의 운영 효율화, 비용절감 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/meet/neds/2023/10/image_readtop_2023_812963_16981068615675051.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
